@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Internal Functions
 from Funtions import conversion_data
-from main import df
+from web_scraping import df
 # ----------------------------------------------------------------------------------------------------------------------
 # Cargar los datos desde el archivo CSV
 df = conversion_data(df)
