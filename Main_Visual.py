@@ -16,7 +16,7 @@ st.set_page_config(page_title='Analisis exploratorio',
                    layout='wide')
 # ----------------------------------------------------------------------------------------------------------------------
 # Obtención de data
-df = pd.read_csv('Datos_Scrapeados.csv')
+df = pd.read_csv('data/datos_scrapeados.csv')
 # Transformo data para realizarle cambios necesarios
 df = conversion_data(df)
 # ----------------------------------------------------------------------------------------------------------------------

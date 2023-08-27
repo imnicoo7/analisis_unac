@@ -2,11 +2,14 @@
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
-
+import pandas as pd
 # Internal Functions
 from Funtions import conversion_data
-from web_scraping import df
+
 # ----------------------------------------------------------------------------------------------------------------------
+# Buscar los datos
+df = pd.read_csv('data/datos_scrapeados.csv')
+
 # Cargar los datos desde el archivo CSV
 df = conversion_data(df)
 
