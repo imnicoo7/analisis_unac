@@ -1,6 +1,7 @@
 import plotly.express as px
 import pandas as pd
 from geopy.geocoders import GoogleV3
+from geopy.exc import GeocoderTimedOut
 # ----------------------------------------------------------------------------------------------------------------------
 
 
@@ -22,13 +23,13 @@ def bar_plot(df, x, y, title):
 
 
 def mapbox_plot(df, x, y):
-    """ Grafico para ver ubicaciones de mapas """
+    """Grafico para ver ubicaciones de mapas"""
 
     # Inicializar el geocodificador de Google Maps
     geolocator = GoogleV3(api_key='AIzaSyC7F7dTzE8dzP8R4yDKMJuyB79bwNTUUq0')
 
     # Obtener las coordenadas geográficas para cada ubicación
-    df['Coordenadas'] = df[x].apply(geolocator.geocode).apply(lambda a: (a.latitude, a.longitude))
+    df['Coordenadas'] = df[x].apply(lambda location: get_coordinates(geolocator, location))
     df[['Latitud', 'Longitud']] = pd.DataFrame(df['Coordenadas'].tolist(), index=df.index)
 
     # Crear un gráfico de dispersión en un mapa utilizando scatter_mapbox
@@ -37,6 +38,18 @@ def mapbox_plot(df, x, y):
                             mapbox_style="carto-positron", zoom=12)
 
     return fig
+
+
+def get_coordinates(geolocator, location):
+    try:
+        result = geolocator.geocode(location)
+        if result is not None:
+            return (result.latitude, result.longitude)
+        else:
+            return None
+    except GeocoderTimedOut:
+        return None
+
 
 
 def box_plot(df, x):

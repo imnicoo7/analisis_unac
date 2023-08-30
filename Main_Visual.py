@@ -48,6 +48,8 @@ st.plotly_chart(fig, use_container_width=True)
 # fig = bar_plot(df, 'direccion_casa', 'Precio_Casa', 'Gráfico: Precios según la localidad')
 # st.plotly_chart(fig, use_container_width=True)
 
+# -------------------------------------------------------- Modelo ------------------------------------------------------
+
 with st.spinner('Cargando el MAPA ----- '):
     # Gráfico de mapas
     fig = mapbox_plot(df, x='Ubicacion', y='Precio_Casa')
