@@ -31,15 +31,21 @@ avg_price_by_room = df.groupby('habitaciones_categoricas')['Precio_Casa'].mean()
 fig = bar_plot(avg_price_by_room, 'habitaciones_categoricas', 'Precio_Casa',
                'Distribución de Precios por Categoría de Habitaciones')
 
-st.plotly_chart(fig, width=600)
+col1, col2 = st.columns(2)
+with col1:
+    st.plotly_chart(fig, width=1000)
 
 # grafico disperción
 fig = scatter_plot(df, 'Tamaño', 'Precio_Casa')
-st.plotly_chart(fig, width=600)
+
+with col2:
+    st.plotly_chart(fig, width=600)
 
 # Gráfico de bigotes
 fig = box_plot(df, 'Precio_Casa')
-st.plotly_chart(fig, width=600)
+col1, col2 = st.columns(2)
+with col1:
+    st.plotly_chart(fig, width=600)
 
 # ---------------------------------------------- Coorelación Mapa ------------------------------------------------------
 # df_coorelacion = df['Precio_Casa']
@@ -47,7 +53,9 @@ numeric_df = df.select_dtypes(include=['number'])
 correlation_matrix = numeric_df.corr()
 fig = px.imshow(correlation_matrix, color_continuous_scale='RdBu', zmin=-1, zmax=1)
 fig.update_layout(title='Mapa de Correlación')
-st.plotly_chart(fig, width=800)
+
+with col2:
+    st.plotly_chart(fig, width=800)
 
 
 # -------------------------------------------------------- Mapa --------------------------------------------------------
@@ -55,7 +63,9 @@ st.plotly_chart(fig, width=800)
 with st.spinner('Cargando el MAPA ----- '):
     # Gráfico de mapas
     fig = mapbox_plot(df, x='Ubicacion', y='Precio_Casa')
-    st.plotly_chart(fig, width=600, text_align='center')
+    col1, col2 = st.columns(2)
+    with col1:
+        st.plotly_chart(fig, width=600, text_align='center')
     st.markdown("""---""")
 
 # -------------------------------------------------------- Modelo ------------------------------------------------------
@@ -64,7 +74,9 @@ with st.spinner('Cargando el módelo'):
     st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa')
     fig = px.scatter(x=y_test, y=y_pred, labels={'x': 'Valores Reales', 'y': 'Predicciones'},
                      title='Valores Reales vs. Predicciones')
-    st.plotly_chart(fig, width=600, text_align='center')
+
+    with col2:
+        st.plotly_chart(fig, width=600, text_align='center')
 
     # Imprimir las métricas de evaluación
     st.write(f'Mean Squared Error (MSE): {mse:.2f}')
