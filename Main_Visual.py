@@ -47,7 +47,7 @@ numeric_df = df.select_dtypes(include=['number'])
 correlation_matrix = numeric_df.corr()
 fig = px.imshow(correlation_matrix, color_continuous_scale='RdBu', zmin=-1, zmax=1)
 fig.update_layout(title='Mapa de Correlación')
-st.plotly_chart(fig)
+st.plotly_chart(fig, width=800)
 
 
 # -------------------------------------------------------- Mapa --------------------------------------------------------
