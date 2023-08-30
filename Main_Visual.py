@@ -6,7 +6,7 @@ import pandas as pd
 # Internal Functions
 from Funtions import DataConverter
 from modelo.modelo_regresion import y_test, y_pred, mse, r2
-from plotly_functions import scatter_plot, bar_plot, mapbox_plot, box_plot
+from plotly_functions import scatter_plot, bar_plot, mapbox_plot, box_plot, correlation_matrix
 # ----------------------------------------------------------------------------------------------------------------------
 
 # Configuracion para la página
@@ -36,7 +36,7 @@ with col1:
     st.plotly_chart(fig, width=1000)
 
 # grafico disperción
-fig = scatter_plot(df, 'Tamaño', 'Precio_Casa')
+fig = scatter_plot(df, 'Tamaño', 'Precio_Casa', 'Gráfico: número y tamaño de Hab. vs. precio de casa')
 
 with col2:
     st.plotly_chart(fig, width=600)
@@ -50,41 +50,42 @@ with col1:
 # ---------------------------------------------- Coorelación Mapa ------------------------------------------------------
 # df_coorelacion = df['Precio_Casa']
 numeric_df = df.select_dtypes(include=['number'])
-correlation_matrix = numeric_df.corr()
-fig = px.imshow(correlation_matrix, color_continuous_scale='RdBu', zmin=-1, zmax=1)
-fig.update_layout(title='Mapa de Correlación')
+df_correlation = numeric_df.corr()
+fig = correlation_matrix(df_correlation, 'Mapa de Correlación')
 
 with col2:
     st.plotly_chart(fig, width=800)
-
 
 # -------------------------------------------------------- Mapa --------------------------------------------------------
 
 with st.spinner('Cargando el MAPA ----- '):
     # Gráfico de mapas
-    fig = mapbox_plot(df, x='Ubicacion', y='Precio_Casa')
     col1, col2 = st.columns(2)
     with col1:
-        st.plotly_chart(fig, width=600, text_align='center')
-    st.markdown("""---""")
+        st.markdown('Aqui va el mapa')
+#     fig = mapbox_plot(df, x='Ubicacion', y='Precio_Casa')
+
+#         st.plotly_chart(fig, width=600, text_align='center')
+#     st.markdown("""---""")
 
 # -------------------------------------------------------- Modelo ------------------------------------------------------
 with st.spinner('Cargando el módelo'):
-    st.title('Modelo de Regreción  Lineal')
-    st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa')
-    fig = px.scatter(x=y_test, y=y_pred, labels={'x': 'Valores Reales', 'y': 'Predicciones'},
-                     title='Valores Reales vs. Predicciones')
-
     with col2:
+        st.title('Modelo de Regreción  Lineal')
+        st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa')
+        fig = px.scatter(x=y_test, y=y_pred, labels={'x': 'Valores Reales', 'y': 'Predicciones'},
+                         title='Valores Reales vs. Predicciones')
+
+        # fig = scatter_plot(modelo, y_pred, 'Valores Reales vs. Predicciones')
+
         st.plotly_chart(fig, width=600, text_align='center')
 
-    # Imprimir las métricas de evaluación
-    st.write(f'Mean Squared Error (MSE): {mse:.2f}')
-    st.write(f'Coefficient of Determination (R²): {r2*100:.2f} %')
+        # Imprimir las métricas de evaluación
+        st.write(f'Mean Squared Error (MSE): {mse:.2f}')
+        st.write(f'Coefficient of Determination (R²): {r2*100:.2f} %')
 
 # ----------------------------------------------------------------------------------------------------------------------
 st.sidebar.header("Acerca de la App")
-st.sidebar.markdown("**Creado por:**")
-st.sidebar.write("Nicolas Steven Gutierrez Catiyejo")
+st.sidebar.write("Ingeniería de sistemes 2023")
 st.sidebar.write("nicolass.gutierrezc@unac.edu.co")
 st.sidebar.markdown("**Creado el:** 29/08/2023")

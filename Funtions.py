@@ -39,4 +39,8 @@ class DataConverter:
         # Filtrar y eliminar las filas con palabras clave en la columna "tipo"
         palabras_clave = ['arriendo', 'finca', 'apartamento']
         df = df[~df['Tipo_Vivienda'].str.contains('|'.join(palabras_clave))]
+
+        # Reiniciar el índice del DataFrame
+        df.reset_index(drop=True, inplace=True)
+
         return df
