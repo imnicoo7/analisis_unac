@@ -35,14 +35,22 @@ st.plotly_chart(fig, width=600)
 
 # grafico disperción
 fig = scatter_plot(df, 'Tamaño', 'Precio_Casa')
-# fig = px.scatter(df, x=df['habitaciones_casa'], y=df['Precio_Casa'], title='Gráfico de Dispersión')
 st.plotly_chart(fig, width=600)
 
 # Gráfico de bigotes
 fig = box_plot(df, 'Precio_Casa')
 st.plotly_chart(fig, width=600)
 
-# -------------------------------------------------------- Modelo ------------------------------------------------------
+# ---------------------------------------------- Coorelación Mapa ------------------------------------------------------
+# df_coorelacion = df['Precio_Casa']
+numeric_df = df.select_dtypes(include=['number'])
+correlation_matrix = numeric_df.corr()
+fig = px.imshow(correlation_matrix, color_continuous_scale='RdBu', zmin=-1, zmax=1)
+fig.update_layout(title='Mapa de Correlación')
+st.plotly_chart(fig)
+
+
+# -------------------------------------------------------- Mapa --------------------------------------------------------
 
 with st.spinner('Cargando el MAPA ----- '):
     # Gráfico de mapas
