@@ -12,7 +12,12 @@ from Funtions import DataConverter
 # Buscar los datos
 # df = pd.read_csv('C:/Users/nikog/OneDrive/Documentos/Universidad/10 semestre/Análisis de datos/analisis_unac/data/'
 #                  'datos_casas.csv')
-df = pd.read_csv('../data/datos_casas.csv')
+# URL del archivo CSV en GitHub (crudo/raw)
+csv_url = 'https://github.com/imnicoo7/analisis_unac/raw/main/data/datos_casas.csv'
+
+# Cargar el archivo CSV desde la URL
+df = pd.read_csv(csv_url)
+
 # Llamada a la función para convertir los datos
 df = DataConverter().convert_data(df)
 # ----------------------------------------------------------------------------------------------------------------------
