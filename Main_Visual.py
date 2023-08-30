@@ -22,38 +22,32 @@ df = pd.read_csv('data/datos_casas.csv')
 # Llamada a la función para convertir los datos
 df = DataConverter().convert_data(df)
 # ----------------------------------------------------------------------------------------------------------------------
-# print(df)
+
+
 st.title("Unac - Analisis")
 
 avg_price_by_room = df.groupby('habitaciones_categoricas')['Precio_Casa'].mean().reset_index()
-
 # Grafico frecuencia habitaciones
-fig = px.bar(avg_price_by_room, x='habitaciones_categoricas', y='Precio_Casa',
-             title='Distribución de Precios por Categoría de Habitaciones',
-             labels={'habitaciones_categoricas': 'Categoría de Habitaciones',
-                     'precio_casa': 'Precio Promedio de la Casa'})
+fig = bar_plot(avg_price_by_room, 'habitaciones_categoricas', 'Precio_Casa',
+               'Distribución de Precios por Categoría de Habitaciones')
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width=600)
 
 # grafico disperción
 fig = scatter_plot(df, 'Tamaño', 'Precio_Casa')
 # fig = px.scatter(df, x=df['habitaciones_casa'], y=df['Precio_Casa'], title='Gráfico de Dispersión')
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width=600)
 
 # Gráfico de bigotes
 fig = box_plot(df, 'Precio_Casa')
-st.plotly_chart(fig, use_container_width=True)
-
-# grafico barras
-# fig = bar_plot(df, 'direccion_casa', 'Precio_Casa', 'Gráfico: Precios según la localidad')
-# st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width=600)
 
 # -------------------------------------------------------- Modelo ------------------------------------------------------
 
 with st.spinner('Cargando el MAPA ----- '):
     # Gráfico de mapas
     fig = mapbox_plot(df, x='Ubicacion', y='Precio_Casa')
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width=600, text_align='center')
     st.markdown("""---""")
 
 # -------------------------------------------------------- Modelo ------------------------------------------------------
@@ -62,8 +56,15 @@ with st.spinner('Cargando el módelo'):
     st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa')
     fig = px.scatter(x=y_test, y=y_pred, labels={'x': 'Valores Reales', 'y': 'Predicciones'},
                      title='Valores Reales vs. Predicciones')
-    st.plotly_chart(fig)
+    st.plotly_chart(fig, width=600, text_align='center')
 
     # Imprimir las métricas de evaluación
     st.write(f'Mean Squared Error (MSE): {mse:.2f}')
     st.write(f'Coefficient of Determination (R²): {r2*100:.2f} %')
+
+# ----------------------------------------------------------------------------------------------------------------------
+st.sidebar.header("Acerca de la App")
+st.sidebar.markdown("**Creado por:**")
+st.sidebar.write("Nicolas Steven Gutierrez Catiyejo")
+st.sidebar.write("nicolass.gutierrezc@unac.edu.co")
+st.sidebar.markdown("**Creado el:** 29/08/2023")
