@@ -1,12 +1,11 @@
 # Libraries
-import ast
 import pandas as pd
 import requests as rq
 from bs4 import BeautifulSoup
 
 # ----------------------------------------------------------------------------------------------------------------------
 # creo DataFrame para guardar datos scrapeados
-df = pd.DataFrame(columns=["Precio_Casa", "Ubicacion", "Tamaño", "Habitaciones"])
+df = pd.DataFrame(columns=["Tipo_Vivienda", "Precio_Casa", "Ubicacion", "Tamaño", "Habitaciones"])
 # ----------------------------------------------------------------------------------------------------------------------
 # Url a scrapear para buscar datos
 base_url = "https://listado.mercadolibre.com.co/inmuebles/antioquia/medellin/casas-en-venta-medell%C3%ADn"
@@ -31,19 +30,31 @@ for page_num in range(1, max_pages + 1):  # entre 1 - 43
         price = float("".join(price.split(".")))
 
         # Obtener ubicación
-        city_element = house.find(class_="ui-search-item__group__element ui-search-item__location shops__"
-                                         "items-group-details")
-        ubicacion = city_element.text.strip() if city_element else "Ubicación no disponible"
+        ubicacion = house.find(class_="ui-search-item__location-label").text
 
         # Obtener todos los elementos <li> dentro de la lista
-        li_elements = soup.find('ul', class_='ui-search-card-attributes').find_all('li')
+        li_container = house.find('ul', class_='ui-search-card-attributes ui-search-item__group__element ui-search-'
+                                                'item__attributes-grid shops__items-group-details')
 
-        # Obtener los valores de los elementos <li>
-        size = li_elements[0].get_text()
-        bedrooms = li_elements[1].get_text()
+        # Verificar si se encontró el contenedor de elementos <li>
+        if li_container:
+            li_elements = li_container.find_all('li')
+
+            # Verificar si hay al menos dos elementos en la lista
+            if len(li_elements) >= 2:
+                size = li_elements[0].get_text()
+                bedrooms = li_elements[1].get_text()
+                print(size + ' - ' + bedrooms)
+            else:
+                print("No hay suficientes elementos en la lista")
+        else:
+            print("No se encontraron elementos <li> en la lista")
+
+        tipo_vivienda = house.find(
+        class_="ui-search-item__group__element ui-search-item__subtitle-grid shops__items-group-details").text
 
         # --------------------------------------------------------------------------------------------------------------
         # Inserto en el DataFrame inicial
-        df.loc[len(df)] = [price, ubicacion, size, bedrooms]
+        df.loc[len(df)] = [tipo_vivienda, price, ubicacion, size, bedrooms]
         # Guardar el DataFrame en un archivo CSV
-        df.to_csv('../data/datos_casas.csv')
+        df.to_csv('datos_casas2.csv')

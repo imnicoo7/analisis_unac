@@ -1,32 +1,42 @@
 # Libraries
-import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 
 # ----------------------------------------------------------------------------------------------------------------------
+class DataConverter:
 
+    def convert_data(self, df):
 
-def conversion_data(df):
-    # Extraer los números y convertir a m²
-    df['tamaño_casa'] = df['tamaño_casa'].str.extract('(\d+)').astype(float)
+        """ Función de conversión de datos"""
 
-    # Calcular la media
-    media = np.mean(df['Precio_Casa'])  # y la desviación estándar
-    desviacion_estandar = np.std(df['Precio_Casa'])
+        # Crear objeto StandardScaler()
+        # scaler = StandardScaler()
+        # # Aplicar la estandarización
+        # df['precios_estandarizados'] = scaler.fit_transform(df['Precio_Casa'])
 
-    # Estandarización: restar la media y dividir por la desviación estándar
-    df['Precio_Casa'] = (df['Precio_Casa'] - media) / desviacion_estandar
+        # Convertir Tamaño a entero y dejar los números
+        df['Tamaño'] = df['Tamaño'].str.extract(r'(\d+)').astype(int)
 
-    # Definir los límites de los intervalos para las categorías
-    bins = [0, 1, 2, 3, 4, 5, 10]
+        # Extraer el número utilizando str.extract y una expresión regular y convertir la columna a números enteros
+        df['Habitaciones'] = df['Habitaciones'].str.extract(r'(\d+)').astype(int)
 
-    # Etiquetas para las categorías
-    labels = ['1 habitación', '2 habitaciones', '3 habitaciones', '4 habitaciones', '5 habitaciones',
-              '6 o más habitaciones']
+        # Definir los límites de los intervalos para las categorías de habitaciones
+        bins = [0, 1, 2, 3, 4, 5, float('inf')]
 
-    # Agregar una nueva columna categórica al DataFrame
-    df['habitaciones_categoricas'] = pd.cut(df['habitaciones_casa'], bins=bins, labels=labels)
-    # pd.cut() se usa para convertir la variable numérica en una variable categórica
+        # Etiquetas para las categorías de habitaciones
+        labels = ['1 habitación', '2 habitaciones', '3 habitaciones', '4 habitaciones', '5 habitaciones',
+                  '6 o más habitaciones']
 
-    return df
+        # Agregar una nueva columna categórica al DataFrame para las habitaciones
+        df['habitaciones_categoricas'] = pd.cut(df['Habitaciones'], bins=bins, labels=labels)
+
+        # Filtrar y eliminar las filas con precio menor a 70000000
+        df = df.loc[df['Precio_Casa'] >= 70000000.0]
+
+        df = df.loc[df['Tamaño'] >= 60]
+
+        # Filtrar y eliminar las filas con palabras clave en la columna "tipo"
+        palabras_clave = ['arriendo', 'finca', 'apartamento']
+        df = df[~df['Tipo_Vivienda'].str.contains('|'.join(palabras_clave))]
+        return df
