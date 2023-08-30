@@ -32,7 +32,7 @@ def mapbox_plot(df, x, y):
     """Grafico para ver ubicaciones de mapas"""
 
     # Inicializar el geocodificador de Google Maps
-    geolocator = GoogleV3(api_key='AIzaSyC7F7dTzE8dzP8R4yDKMJuyB79bwNTUUq0')
+    geolocator = GoogleV3(api_key='AIzaSyDT0X7gzPyAA6-isNkgGn2rIWvBSzwiOFA')
 
     # Obtener las coordenadas geográficas para cada ubicación
     df['Coordenadas'] = df[x].apply(lambda location: get_coordinates(geolocator, location))
