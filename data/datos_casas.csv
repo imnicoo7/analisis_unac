@@ -1,0 +1,1969 @@
+,Tipo_Vivienda,Precio_Casa,Ubicacion,Tamaño,Habitaciones
+0,Casa en arriendo,15000000.0,"El Poblado, Medell√≠n, Antioquia",380 m¬≤ cubiertos,4 habs.
+1,Casa en venta,310000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",87 m¬≤ cubiertos,3 habs.
+2,Apartamento en arriendo,15000000.0,"Laureles, Medell√≠n, Antioquia",550 m¬≤ cubiertos,4 habs.
+3,Casa en venta,950000000.0,"9 C # 15- 165 102, El Poblado, Med...",276 m¬≤ cubiertos,4 habs.
+4,Casa en venta,950000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",176 m¬≤ cubiertos,6 habs.
+5,Casa en venta,360000000.0,"79q5+r6, Medell√≠n, San Crist√≥bal, ...",130 m¬≤ cubiertos,4 habs.
+6,Casa en venta,85000000.0,"Manrique, Medell√≠n, Antioquia, Col...",47 m¬≤ cubiertos,2 habs.
+7,Finca en venta,310000000.0,"Tienda El Rosario Sn, Santa Elena,...",95 m¬≤ cubiertos,3 habs.
+8,Casa en venta,420000000.0,"San Joaqu√≠n, Medell√≠n, Antioquia",128 m¬≤ cubiertos,5 habs.
+9,Casa en venta,7000000000.0,"Las Palmas, Medell√≠n, Antioquia",900 m¬≤ cubiertos,6 habs.
+10,Casa en venta,381000000.0,"Carrera 75da #2b Sur, Medell√≠n, An...",74 m¬≤ cubiertos,4 habs.
+11,Casa en venta,3500000000.0,"Poblado Alto De Las Palmas, Medell...",432 m¬≤ cubiertos,3 habs.
+12,Casa en venta,380000000.0,"Robledo, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+13,Apartamento en arriendo temporal,215000000.0,"Calle 41 #86a-50, Medell√≠n, Antioq...",67 m¬≤ cubiertos,2 habs.
+14,Casa en venta,7200000000.0,"El Poblado, Medell√≠n, Antioquia",970 m¬≤ cubiertos,7 habs.
+15,Casa en venta,230000000.0,"Buenos Aires, Medell√≠n, Antioquia,...",64 m¬≤ cubiertos,3 habs.
+16,Casa en venta,6500000000.0,"El Poblado, Medell√≠n, Antioquia",700 m¬≤ cubiertos,4 habs.
+17,Casa en venta,445000000.0,"Medell√≠n, Antioquia, Colombia, Bos...",231 m¬≤ cubiertos,5 habs.
+18,Casa en venta,230000000.0,Colombia / Antioquia / La Estrella...,77 m¬≤ cubiertos,3 habs.
+19,Casa en venta,820000000.0,"El Poblado, Medell√≠n, Antioquia",136 m¬≤ cubiertos,3 habs.
+20,Casa en venta,650000000.0,"Cra. 67 #32b36, Medell√≠n, Bel√©n, M...",179 m¬≤ cubiertos,5 habs.
+21,Casa en venta,3800000000.0,"Calle 9a Sur #11, Medell√≠n, Antioq...",528 m¬≤ cubiertos,4 habs.
+22,Casa en venta,2500000000.0,"El Poblado, Medell√≠n, Antioquia",521 m¬≤ cubiertos,4 habs.
+23,Casa en venta,298000000.0,"Las Cometas, Aures I, Medell√≠n, An...",89 m¬≤ cubiertos,3 habs.
+24,Casa en venta,295000000.0,"Cl. 42 Sur #65a-70, San Antonio De...",76 m¬≤ cubiertos,3 habs.
+25,Casa en venta,1750000000.0,"El Poblado, Medell√≠n, Antioquia",390 m¬≤ cubiertos,5 habs.
+26,Casa en venta,310000000.0,"Buenos Aires, Medell√≠n, Antioquia,...",103 m¬≤ cubiertos,3 habs.
+27,Finca en venta,380000000.0,Casa De Las Flores Sitio Silletero...,79 m¬≤ cubiertos,3 habs.
+28,Apartamento en venta,450000000.0,"Villa Hermosa, Medell√≠n, Antioquia",284 m¬≤ cubiertos,4 habs.
+29,Casa en venta,820000000.0,"Boston, Medell√≠n, Antioquia",269 m¬≤ cubiertos,5 habs.
+30,Casa en venta,790000000.0,"San Lucas, Medell√≠n, Antioquia",139 m¬≤ cubiertos,3 habs.
+31,Casa en venta,590000000.0,"Calasanz, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+32,Casa en venta,899900000.0,"El Poblado/ Suroriente, Medell√≠n, ...",250 m¬≤ cubiertos,3 habs.
+33,Finca en venta,510000000.0,Colombia / Antioquia / Santa Elena...,110 m¬≤ cubiertos,3 habs.
+34,Casa en venta,430000000.0,"Prado Centro, Medell√≠n, Antioquia",164 m¬≤ cubiertos,7 habs.
+35,Casa en venta,1200000000.0,"Calle 30 #80, Medell√≠n, Bel√©n, Med...",420 m¬≤ cubiertos,8 habs.
+36,Casa en venta,1600000000.0,"Poblado/suroriente, Medell√≠n, Anti...",340 m¬≤ cubiertos,4 habs.
+37,Casa en venta,1860000000.0,"El Poblado, Medell√≠n, Antioquia",379 m¬≤ cubiertos,4 habs.
+38,Casa en venta,380000000.0,"Prado, La Candelaria, Medell√≠n, An...",126 m¬≤ cubiertos,4 habs.
+39,Casa en venta,3700000000.0,"Calle 16b #23-17, El Poblado, Mede...",455 m¬≤ cubiertos,4 habs.
+40,Casa en venta,4000000000.0,"El Poblado, Medell√≠n, Antioquia",477 m¬≤ cubiertos,4 habs.
+41,Casa en venta,188000000.0,"Cl. 48 Sur #61c 22, San Antonio De...",81 m¬≤ cubiertos,3 habs.
+42,Apartamento en venta,1150000000.0,"Los Colores, Medell√≠n, Antioquia",320 m¬≤ cubiertos,5 habs.
+43,Casa en venta,720000000.0,"La Mota, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+44,Casa en venta,200000000.0,"Clle 62  158-188, San Crist√≥bal, M...",90 m¬≤ cubiertos,2 habs.
+45,Casa en venta,550000000.0,"Calasanz, Medell√≠n, Antioquia, Col...",155 m¬≤ cubiertos,3 habs.
+46,Apartamento en venta,1120000000.0,"El Poblado/ Suroriente, Medell√≠n, ...",280 m¬≤ cubiertos,4 habs.
+47,Casa en venta,380000000.0,"Robledo, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+48,Casa en venta,1200000000.0,"El Poblado, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+49,Casa en venta,2900000000.0,"Corregimiento Santa Elena, Medell√≠...",465 m¬≤ cubiertos,5 habs.
+50,Casa en venta,570000000.0,"Calle 40 #81a-168, Sim√≥n Bol√≠var, ...",173 m¬≤ cubiertos,5 habs.
+51,Casa en venta,785000000.0,"Medell√≠n, Antioquia",300 m¬≤ cubiertos,8 habs.
+52,Casa en venta,3830000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+53,Casa en venta,2250000000.0,"Las Palmas, Medell√≠n, Antioquia",400 m¬≤ cubiertos,4 habs.
+54,Casa en venta,440000000.0,"Santa Monica, Medell√≠n, Antioquia,...",112 m¬≤ cubiertos,3 habs.
+55,Casa en venta,4600000000.0,"Loma Los Balsos, Medell√≠n, Antioqu...",625 m¬≤ cubiertos,4 habs.
+56,Casa en venta,1085000000.0,"El Poblado, El Campestre, Medell√≠n...",373 m¬≤ cubiertos,4 habs.
+57,Casa en venta,1100000000.0,"Medell√≠n, Antioquia",215 m¬≤ cubiertos,2 habs.
+58,Casa en venta,820000000.0,"Bel√©n, Medell√≠n, Antioquia",160 m¬≤ cubiertos,6 habs.
+59,Casa en venta,1850000000.0,"Glorieta Bulerias, Laureles - Esta...",322 m¬≤ cubiertos,4 habs.
+60,Casa en venta,750000000.0,"Buenos Aires, Buenos Aires, Medell...",192 m¬≤ cubiertos,4 habs.
+61,Casa en venta,1190000000.0,"Cl. 2b Sur # 20 -221, El Poblado, ...",229 m¬≤ cubiertos,3 habs.
+62,Casa en venta,1570000000.0,"Enciso, Medell√≠n, Antioquia",410 m¬≤ cubiertos,3 habs.
+63,Casa en venta,980000000.0,"Estadio, Medell√≠n, Antioquia",162 m¬≤ cubiertos,6 habs.
+64,Casa en venta,520000000.0,"Belen Malibu, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+65,Casa en venta,790000000.0,"San Crist√≥bal, Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+66,Casa en venta,2100000000.0,"Las Palmas, Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+67,Casa en venta,750000000.0,"Estadio, Medell√≠n, Antioquia",180 m¬≤ cubiertos,3 habs.
+68,Casa en venta,1050000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+69,Casa en venta,1620000000.0,"Poblado, El Poblado, Medell√≠n, Ant...",280 m¬≤ cubiertos,3 habs.
+70,Casa en venta,1250000000.0,"Medell√≠n, Antioquia",328 m¬≤ cubiertos,3 habs.
+71,Casa en venta,180000000.0,"Cl. 41 D Sur, Medell√≠n, Antioquia,...",87 m¬≤ cubiertos,3 habs.
+72,Casa en venta,1180000000.0,"El Poblado, Medell√≠n, Antioquia, C...",200 m¬≤ cubiertos,4 habs.
+73,Casa en venta,3500000000.0,"El Poblado, Medell√≠n, Antioquia",650 m¬≤ cubiertos,5 habs.
+74,Casa en venta,1350000000.0,"Malibu, Medell√≠n, Antioquia",392 m¬≤ cubiertos,4 habs.
+75,Finca en venta,481000000.0,"Vereda Barro Blanco 4, Santa Elena...",215 m¬≤ cubiertos,3 habs.
+76,Casa en venta,940000000.0,Colombia / Antioquia / Medellin / ...,180 m¬≤ cubiertos,4 habs.
+77,Casa en venta,750000000.0,"La Mota, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+78,Casa en venta,2100000000.0,"Carrera 13 #4b Sur-97, El Poblado,...",265 m¬≤ cubiertos,4 habs.
+79,Casa en venta,510000000.0,"Pilarica/noroccidente, Medell√≠n, A...",150 m¬≤ cubiertos,3 habs.
+80,Finca en venta,3500000000.0,"San Antonio De Prado, Medell√≠n, An...",427 m¬≤ cubiertos,9 habs.
+81,Casa en venta,370000000.0,Zona 3 - Centro Oriente - Prado Ce...,199 m¬≤ cubiertos,4 habs.
+82,Casa en venta,9500000000.0,Antioquia Medellin Poblado Las Pal...,600 m¬≤ cubiertos,4 habs.
+83,Casa en venta,1050000000.0,Colombia / Antioquia / Medellin / ...,350 m¬≤ cubiertos,4 habs.
+84,Casa en venta,450000000.0,"La Castellana, Medell√≠n, Antioquia",195 m¬≤ cubiertos,4 habs.
+85,Casa en venta,2000000000.0,"El Poblado, Medell√≠n, Antioquia",350 m¬≤ cubiertos,6 habs.
+86,Casa en venta,1700000000.0,"Medell√≠n, Antioquia",280 m¬≤ cubiertos,4 habs.
+87,Casa en venta,1730000000.0,"Carrera 27 #7b-90, El Poblado, Med...",300 m¬≤ cubiertos,3 habs.
+88,Casa en venta,2400000000.0,"Medell√≠n, Antioquia",367 m¬≤ cubiertos,4 habs.
+89,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",267 m¬≤ cubiertos,4 habs.
+90,Finca en venta,1000000000.0,"San Antonio De Prado, Medell√≠n, An...",400 m¬≤ cubiertos,4 habs.
+91,Casa en venta,4380000000.0,"Las Palmas, Medell√≠n, Antioquia",520 m¬≤ cubiertos,3 habs.
+92,Casa en venta,215000000.0,"Robledo, Medell√≠n, Antioquia",64 m¬≤ cubiertos,2 habs.
+93,Casa en venta,750000000.0,"Calle 20 Sur, El Poblado, Medell√≠n...",180 m¬≤ cubiertos,4 habs.
+94,Casa en venta,630000000.0,Colombia / Antioquia / Poblado Cas...,131 m¬≤ cubiertos,4 habs.
+95,Casa en venta,650000000.0,"El Poblado, Medell√≠n, Antioquia",131 m¬≤ cubiertos,3 habs.
+96,Casa en venta,2100000000.0,"Medell√≠n, Antioquia",350 m¬≤ cubiertos,4 habs.
+97,Casa en venta,580000000.0,"Calle 34ee #89-86, Belencito, Mede...",120 m¬≤ cubiertos,3 habs.
+98,Casa en venta,1820000000.0,"Inter, El Poblado, Medell√≠n, Antio...",275 m¬≤ cubiertos,3 habs.
+99,Casa en venta,4300000000.0,"El Poblado, Medell√≠n, Antioquia",577 m¬≤ cubiertos,5 habs.
+100,Casa en venta,1500000000.0,"San Felix, Medell√≠n, Antioquia",300 m¬≤ cubiertos,5 habs.
+101,Casa en venta,980000000.0,"Laureles, Medell√≠n, Antioquia",248 m¬≤ cubiertos,4 habs.
+102,Casa en venta,3200000000.0,"Las Palmas, Las Palmas, Medell√≠n, ...",275 m¬≤ cubiertos,3 habs.
+103,Casa en venta,2100000000.0,"El Poblado, Medell√≠n, Antioquia",296 m¬≤ cubiertos,5 habs.
+104,Casa en venta,1420000000.0,"Transversal Superior, El Poblado, ...",200 m¬≤ cubiertos,4 habs.
+105,Finca en venta,450000000.0,"Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+106,Casa en venta,4900000000.0,Colombia / Antioquia / Envigado / ...,650 m¬≤ cubiertos,4 habs.
+107,Casa en venta,480000000.0,"Bel√©n, Medell√≠n, Antioquia",151 m¬≤ cubiertos,3 habs.
+108,Lote y casalote en venta,1600000000.0,"Av. 33 #65d142, Laureles - Estadio...",151 m¬≤ cubiertos,3 habs.
+109,Casa en venta,900000000.0,"Glorieta Bulerias, Laureles - Esta...",180 m¬≤ cubiertos,4 habs.
+110,Casa en venta,900000000.0,"San F√©lix/bello, Medell√≠n, Antioqu...",142 m¬≤ cubiertos,4 habs.
+111,Casa en venta,420000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",180 m¬≤ cubiertos,5 habs.
+112,Casa en venta,5000000000.0,"Poblado, El Poblado, Medell√≠n, Ant...","1,000 m¬≤ cubiertos",7 habs.
+113,Casa en venta,370000000.0,"Medell√≠n, Antioquia, Colombia, Bel...",100 m¬≤ cubiertos,5 habs.
+114,Casa en venta,350000000.0,"Buenos Aires, Suroriente, Medell√≠n...",100 m¬≤ cubiertos,3 habs.
+115,Casa en venta,1200000000.0,"El Tesoro, Medell√≠n, Antioquia",220 m¬≤ cubiertos,4 habs.
+116,Casa en venta,985000000.0,"Alejandr√≠a Poblado Medellin, Medel...",373 m¬≤ cubiertos,4 habs.
+117,Casa en venta,1180000000.0,"Carrera 25, El Poblado, Medell√≠n, ...",197 m¬≤ cubiertos,4 habs.
+118,Casa en venta,3700000000.0,"Poblado, El Poblado, Medell√≠n, Ant...",455 m¬≤ cubiertos,4 habs.
+119,Casa en venta,4000000000.0,"Poblado/v√≠a Las Palmas, Medell√≠n, ...",750 m¬≤ cubiertos,5 habs.
+120,Casa en venta,2250000000.0,"El Poblado, Medell√≠n, Antioquia",400 m¬≤ cubiertos,3 habs.
+121,Casa en venta,3500000000.0,"Las Palmas, Medell√≠n, Antioquia",784 m¬≤ cubiertos,5 habs.
+122,Casa en venta,5500000000.0,"El Poblado, Medell√≠n, Antioquia",430 m¬≤ cubiertos,4 habs.
+123,Casa en venta,1850000000.0,"La Ceja - Antioquia, Medell√≠n, Ant...",384 m¬≤ cubiertos,4 habs.
+124,Casa en venta,4300000000.0,"Las Palmas, Medell√≠n, Antioquia",540 m¬≤ cubiertos,3 habs.
+125,Casa en venta,939000000.0,"San Javier 1, Medell√≠n, Antioquia",280 m¬≤ cubiertos,10 habs.
+126,Casa en venta,650000000.0,"Los Colores, Laureles - Estadio, M...",200 m¬≤ cubiertos,4 habs.
+127,Casa en venta,3700000000.0,"Las Palmas, Medell√≠n, Antioquia",455 m¬≤ cubiertos,4 habs.
+128,Casa en venta,1200000000.0,"Suramericana, Medell√≠n, Antioquia",265 m¬≤ cubiertos,6 habs.
+129,Casa en venta,670000000.0,"Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+130,Casa en venta,550000000.0,"Sevilla, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+131,Casa en venta,1050000000.0,"El Poblado, Medell√≠n, Antioquia",380 m¬≤ cubiertos,4 habs.
+132,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",260 m¬≤ cubiertos,3 habs.
+133,Casa en venta,2000000000.0,"El Poblado, Medell√≠n, Antioquia",360 m¬≤ cubiertos,3 habs.
+134,Casa en venta,5000000000.0,"El Poblado, Medell√≠n, Antioquia",673 m¬≤ cubiertos,6 habs.
+135,Casa en venta,2700000001.0,"El Poblado, Medell√≠n, Antioquia",689 m¬≤ cubiertos,5 habs.
+136,Casa en venta,340000000.0,"Manrique Central, Medell√≠n, Antioq...",132 m¬≤ cubiertos,5 habs.
+137,Casa en venta,700000000.0,"La Mota, Medell√≠n, Antioquia, Colo...",118 m¬≤ cubiertos,4 habs.
+138,Casa en venta,385000000.0,"La Loma Del Indio, Medell√≠n, Antio...",75 m¬≤ cubiertos,3 habs.
+139,Casa en venta,470000000.0,"Guayabal, Medell√≠n, Antioquia",205 m¬≤ cubiertos,7 habs.
+140,Casa en venta,3900000000.0,"Altos Del Poblado, El Poblado, Med...",579 m¬≤ cubiertos,4 habs.
+141,Casa en venta,500000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",120 m¬≤ cubiertos,5 habs.
+142,Casa en venta,2290000000.0,"El Tesoro, El Tesoro, Medell√≠n, An...",535 m¬≤ cubiertos,3 habs.
+143,Casa en venta,4900000000.0,Colombia / Antioquia / Envigado / ...,648 m¬≤ cubiertos,4 habs.
+144,Casa en venta,3000000000.0,"Las Palmas, Las Palmas, Medell√≠n, ...",315 m¬≤ cubiertos,3 habs.
+145,Casa en venta,1200000000.0,"Los Colores, Los Colores, Medell√≠n...",483 m¬≤ cubiertos,7 habs.
+146,Casa en venta,5560000000.0,"Las Palmas, Las Palmas, Medell√≠n, ...",590 m¬≤ cubiertos,4 habs.
+147,Casa en venta,3700000000.0,"El Poblado, Medell√≠n, Antioquia",600 m¬≤ cubiertos,6 habs.
+148,Casa en venta,900000000.0,"Calle 45d #79a, Los Pinos, Medell√≠...",245 m¬≤ cubiertos,3 habs.
+149,Casa en arriendo,40000000.0,"Las Palmas, Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+150,Casa en venta,4000000000.0,"Las Palmas, Medell√≠n, Antioquia","3,000 m¬≤ cubiertos",3 habs.
+151,Casa en venta,500000000.0,"Robledo, Medell√≠n, Antioquia",131 m¬≤ cubiertos,4 habs.
+152,Casa en venta,1500000000.0,"El Poblado, Medell√≠n, Antioquia",340 m¬≤ cubiertos,3 habs.
+153,Casa en venta,1200000000.0,"Cra. 68 #32c-59, Medell√≠n, Bel√©n, ...",218 m¬≤ cubiertos,4 habs.
+154,Apartamento en arriendo,4900000.0,"Santa Elena, Medell√≠n, Antioquia",250 m¬≤ cubiertos,3 habs.
+155,Casa en venta,1100000000.0,Colombia / Antioquia / Medellin / ...,350 m¬≤ cubiertos,3 habs.
+156,Casa en venta,535000000.0,"Calle 44 #79-86, Los Pinos, Medell...",183 m¬≤ cubiertos,5 habs.
+157,Casa en venta,750000000.0,"Tv. 38 #89a-24, Crist√≥bal, Medell√≠...",174 m¬≤ cubiertos,3 habs.
+158,Casa en arriendo,10500000.0,"San Lucas, San Lucas, Medell√≠n, An...",227 m¬≤ cubiertos,4 habs.
+159,Casa en venta,4000000000.0,"El Poblado, Medell√≠n, Antioquia",750 m¬≤ cubiertos,5 habs.
+160,Casa en venta,620000000.0,"Guayabal, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+161,Casa en venta,830000000.0,"Calle 32d #80b-15, Medell√≠n, Antio...",255 m¬≤ cubiertos,4 habs.
+162,Casa en venta,1350000000.0,"Belen Rosales, Medell√≠n, Antioquia",350 m¬≤ cubiertos,7 habs.
+163,Casa en venta,2200000000.0,"El Poblado, Medell√≠n, Antioquia",550 m¬≤ cubiertos,4 habs.
+164,Casa en venta,980000000.0,"Calle 15 #81, Medell√≠n, Antioquia,...",233 m¬≤ cubiertos,4 habs.
+165,Casa en venta,1400000000.0,Colombia / Antioquia / El Poblado ...,338 m¬≤ cubiertos,4 habs.
+166,Casa en venta,650000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",183 m¬≤ cubiertos,4 habs.
+167,Casa en venta,490000000.0,"Diagonal 75b #6-60, Medell√≠n, Anti...",81 m¬≤ cubiertos,3 habs.
+168,Casa en arriendo,3500000.0,"Laureles, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+169,Casa en venta,1580000000.0,"Laureles Nogal, Medell√≠n, Antioquia",204 m¬≤ cubiertos,4 habs.
+170,Casa en venta,650000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",183 m¬≤ cubiertos,4 habs.
+171,Casa en venta,390000000.0,"Cra. 65b #24 - 53, Guayabal, Medel...",210 m¬≤ cubiertos,4 habs.
+172,Casa en venta,550000000.0,"Calle 44a #89-40, El Danubio, Mede...",182 m¬≤ cubiertos,3 habs.
+173,Apartamento en venta,1290000000.0,Colombia / Antioquia / Poblado El ...,238 m¬≤ cubiertos,4 habs.
+174,Casa en venta,1100000000.0,"Medellin, Medell√≠n, Antioquia",253 m¬≤ cubiertos,5 habs.
+175,Casa en venta,875000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",195 m¬≤ cubiertos,4 habs.
+176,Casa en arriendo,6000000.0,"Estadio, Laureles - Estadio, Medel...",208 m¬≤ cubiertos,3 habs.
+177,Casa en venta,580000000.0,"49 E-111, Carrera 82, Calasanz, Me...",85 m¬≤ cubiertos,4 habs.
+178,Casa en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",210 m¬≤ cubiertos,4 habs.
+179,Casa en venta,750000000.0,"Laureles Nogal, Medell√≠n, Antioquia",210 m¬≤ cubiertos,4 habs.
+180,Casa en arriendo,9000000.0,"Suramericana, Medell√≠n, Antioquia",248 m¬≤ cubiertos,7 habs.
+181,Casa en arriendo,5500000.0,"San Joaqu√≠n, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+182,Casa en venta,780000000.0,"Nororiente, Medell√≠n, Antioquia",204 m¬≤ cubiertos,3 habs.
+183,Casa en arriendo,6000000.0,"Florida Nueva, Medell√≠n, Antioquia",200 m¬≤ cubiertos,5 habs.
+184,Casa en arriendo,29900000.0,"Santa Mar√≠a De Los  √Ångeles, Medel...",909 m¬≤ cubiertos,9 habs.
+185,Casa en arriendo,25000000.0,"El Poblado, Medell√≠n, Antioquia","1,000 m¬≤ cubiertos",3 habs.
+186,Casa en arriendo,13000000.0,"Los Colores, Medell√≠n, Antioquia",320 m¬≤ cubiertos,3 habs.
+187,Oficina en arriendo,5800000.0,"Guayabal, Medell√≠n, Antioquia",320 m¬≤ cubiertos,3 habs.
+188,Casa en venta,1200000000.0,Colombia / Antioquia / Medellin / ...,250 m¬≤ cubiertos,4 habs.
+189,Casa en venta,538000000.0,"Cra. 80a #72, Laureles - Estadio, ...",103 m¬≤ cubiertos,3 habs.
+190,Casa en venta,2000000000.0,"Poblado/v√≠a Las Palmas, Medell√≠n, ...",496 m¬≤ cubiertos,6 habs.
+191,Casa en arriendo,11000000.0,"San Lucas, Medell√≠n, Antioquia",420 m¬≤ cubiertos,4 habs.
+192,Casa en venta,1650000000.0,"El Poblado, Medell√≠n, Antioquia",288 m¬≤ cubiertos,4 habs.
+193,Casa en venta,3200000000.0,"Las Palmas, Las Palmas, Medell√≠n, ...",300 m¬≤ cubiertos,3 habs.
+194,Casa en venta,399000000.0,"Guayabal, Medell√≠n, Antioquia",130 m¬≤ cubiertos,4 habs.
+195,Casa en arriendo,3500000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+196,Casa en venta,615000000.0,"Vel√≤dromo, Medell√≠n, Antioquia",217 m¬≤ cubiertos,4 habs.
+197,Casa en arriendo,3800000.0,"Calle 34a #78a-27, Laureles - Esta...",115 m¬≤ cubiertos,5 habs.
+198,Casa en venta,780000000.0,"Boston, Medell√≠n, Antioquia",222 m¬≤ cubiertos,6 habs.
+199,Casa en venta,1600000000.0,"Poblado Altos Del Poblado, Medell√≠...",275 m¬≤ cubiertos,5 habs.
+200,Casa en arriendo,19500000.0,"Las Palmas, Las Palmas, Medell√≠n, ...",300 m¬≤ cubiertos,3 habs.
+201,Casa en venta,2100000000.0,"Carrera 13 #4b Sur-97, El Poblado,...",265 m¬≤ cubiertos,4 habs.
+202,Casa en arriendo,9000000.0,"Calazans, Medell√≠n, Antioquia",500 m¬≤ cubiertos,6 habs.
+203,Casa en venta,1150000000.0,"Villa Hermosa, Medell√≠n, Antioquia...",340 m¬≤ cubiertos,8 habs.
+204,Casa en venta,575000000.0,"Cra. 76 #12-57, Medell√≠n, Bel√©n, M...",195 m¬≤ cubiertos,4 habs.
+205,Casa en venta,730000000.0,"Santa Elena, Medell√≠n, Antioquia",112 m¬≤ cubiertos,2 habs.
+206,Casa en venta,175000000.0,"San Antonio De Prado, Medell√≠n, An...",96 m¬≤ cubiertos,4 habs.
+207,Casa en venta,2700000000.0,"El Poblado, Medell√≠n, Antioquia",648 m¬≤ cubiertos,4 habs.
+208,Casa en venta,1085000000.0,"Medell√≠n, Antioquia",227 m¬≤ cubiertos,4 habs.
+209,Casa en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",270 m¬≤ cubiertos,3 habs.
+210,Casa en venta,950000000.0,"San Joaqu√≠n, Medell√≠n, Antioquia",352 m¬≤ cubiertos,9 habs.
+211,Casa en venta,349000000.0,"Calle 119 #64c-5, Las Brisas, Mede...",130 m¬≤ cubiertos,5 habs.
+212,Casa en venta,1730000000.0,"Carrera 27 #7b-90, El Poblado, Med...",300 m¬≤ cubiertos,3 habs.
+213,Casa en venta,2000000000.0,"Laureles, Medell√≠n, Antioquia",564 m¬≤ cubiertos,6 habs.
+214,Casa en venta,650000000.0,"Cra. 81b #7a40, Medell√≠n, Antioqui...",137 m¬≤ cubiertos,4 habs.
+215,Casa en venta,1150000000.0,"Malib√∫, Medell√≠n, Antioquia",260 m¬≤ cubiertos,5 habs.
+216,Casa en venta,1650000000.0,"El Poblado, Medell√≠n, Antioquia",245 m¬≤ cubiertos,3 habs.
+217,Casa en venta,220000000.0,"Medell√≠n, Antioquia",68 m¬≤ cubiertos,3 habs.
+218,Casa en venta,220000000.0,"San Antonio De Prado, Medell√≠n, An...",68 m¬≤ cubiertos,3 habs.
+219,Casa en venta,550000000.0,"Cl 2bsur #78b- 00, Bel√©n, Medell√≠n...",180 m¬≤ cubiertos,5 habs.
+220,Casa en venta,1500000000.0,"Laureles, Medell√≠n, Antioquia",220 m¬≤ cubiertos,7 habs.
+221,Casa en venta,880000000.0,"La Am√©rica, Medell√≠n, Antioquia, C...",237 m¬≤ cubiertos,5 habs.
+222,Apartamento en venta,345000000.0,"Enciso, Medell√≠n, Antioquia",110 m¬≤ cubiertos,3 habs.
+223,Casa en venta,395000000.0,"Guayabal, Medell√≠n, Antioquia, Col...",124 m¬≤ cubiertos,3 habs.
+224,Casa en venta,3500000000.0,"Las Palmas, Medell√≠n, Antioquia",555 m¬≤ cubiertos,5 habs.
+225,Casa en venta,2700000000.0,"El Poblado, Medell√≠n, Antioquia",400 m¬≤ cubiertos,3 habs.
+226,Casa en venta,530000000.0,"Carrera 81b #7a, Medell√≠n, Antioqu...",90 m¬≤ cubiertos,3 habs.
+227,Casa en venta,4100000000.0,"Calle 36d Sur #24-151, Altos Del P...",600 m¬≤ cubiertos,6 habs.
+228,Casa en venta,620000000.0,"Carrera 81b #7a, Medell√≠n, Antioqu...",104 m¬≤ cubiertos,5 habs.
+229,Casa en venta,1750000000.0,"El Poblado, Medell√≠n, Antioquia",390 m¬≤ cubiertos,4 habs.
+230,Casa en venta,1800000000.0,"La Calera, Medell√≠n, Antioquia",412 m¬≤ cubiertos,4 habs.
+231,Casa en venta,1160000000.0,"Calle 32e #76-98, Medell√≠n, Antioq...",172 m¬≤ cubiertos,3 habs.
+232,Casa en venta,1400000000.0,"Medell√≠n, Antioquia","1,100 m¬≤ cubiertos",12 habs.
+233,Casa en venta,790000000.0,"San Lucas, Medell√≠n, Antioquia",215 m¬≤ cubiertos,3 habs.
+234,Casa en venta,3100000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",436 m¬≤ cubiertos,4 habs.
+235,Casa en venta,750000000.0,"Calle 34 80, La Castellana, Medell...",200 m¬≤ cubiertos,5 habs.
+236,Casa en venta,330000000.0,"Medell√≠n, Antioquia",110 m¬≤ cubiertos,5 habs.
+237,Casa en venta,287000000.0,"Bel√©n, Medell√≠n, Antioquia, Colomb...",150 m¬≤ cubiertos,5 habs.
+238,Casa en venta,2700000000.0,"El Poblado, Medell√≠n, Antioquia",400 m¬≤ cubiertos,3 habs.
+239,Casa en venta,840000000.0,"San Lucas, El Poblado, Medell√≠n, A...",132 m¬≤ cubiertos,3 habs.
+240,Casa en venta,1100000000.0,"El Poblado, Medell√≠n, Antioquia",280 m¬≤ cubiertos,5 habs.
+241,Casa en venta,4200000000.0,"Alto De Palmas, Medell√≠n, Antioquia",700 m¬≤ cubiertos,4 habs.
+242,Casa en venta,1500000000.0,"Calasanz, Medell√≠n, Antioquia",700 m¬≤ cubiertos,4 habs.
+243,Casa en venta,662000000.0,"Barrio Bel√©n-aliadas, Medell√≠n, An...",158 m¬≤ cubiertos,4 habs.
+244,Bodega en arriendo,5500000.0,"Calle 44  #94-193, San Javier, Med...",158 m¬≤ cubiertos,4 habs.
+245,Casa en venta,365000000.0,"Calle 77bb, Robledo, Medell√≠n, Ant...",120 m¬≤ cubiertos,5 habs.
+246,Apartamento en venta,395000000.0,"Carrera 73 #31a-17, Medell√≠n, Anti...",94 m¬≤ cubiertos,3 habs.
+247,Casa en venta,1200000000.0,"Medell√≠n, Antioquia",210 m¬≤ cubiertos,6 habs.
+248,Casa en venta,800000000.0,"Carrera 45 61-12, Prado, Medell√≠n,...",350 m¬≤ cubiertos,8 habs.
+249,Casa en venta,515000000.0,"La Gloria, Bel√©n, Medell√≠n, Antioq...",123 m¬≤ cubiertos,4 habs.
+250,Casa en venta,640000000.0,"Calle Calle 51 82-190, Calasanz, M...",135 m¬≤ cubiertos,4 habs.
+251,Casa en venta,600000000.0,"Calle 49b #93-43, Metropolitano, M...",192 m¬≤ cubiertos,4 habs.
+252,Casa en venta,192000000.0,"Bel√©n Las Violetas, Medell√≠n, Anti...",90 m¬≤ cubiertos,3 habs.
+253,Casa en venta,250000000.0,"Nororiente, Medell√≠n, Antioquia",95 m¬≤ cubiertos,3 habs.
+254,Casa en venta,800000000.0,"San Crist√≥bal, Medell√≠n, Antioquia",173 m¬≤ cubiertos,3 habs.
+255,Casa en venta,790000000.0,Parcelaci√≥n Piedra Blanca Via A Sa...,70 m¬≤ cubiertos,3 habs.
+256,Casa en venta,500000000.0,"Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+257,Casa en venta,620000000.0,"Bel√©n, Medell√≠n, Antioquia, Colomb...",207 m¬≤ cubiertos,4 habs.
+258,Casa en venta,990000000.0,"Villa Hermosa, Medell√≠n, Antioquia...",380 m¬≤ cubiertos,11 habs.
+259,Lote y casalote en venta,980000000.0,"Buenos Aires, Medell√≠n, Antioquia,...",380 m¬≤ cubiertos,11 habs.
+260,Casa en venta,550000000.0,"Santa Lucia, Medell√≠n, Antioquia, ...",133 m¬≤ cubiertos,4 habs.
+261,Casa en venta,720000000.0,"Calle 2a #75b-53, Bel√©n La Mota, M...",170 m¬≤ cubiertos,3 habs.
+262,Casa en venta,280000000.0,"Calle 17 #58g-100, Santa Fe, Medel...",99 m¬≤ cubiertos,5 habs.
+263,Casa en venta,310000000.0,"Calle 8 #84f-155, Medell√≠n, Antioq...",82 m¬≤ cubiertos,3 habs.
+264,Casa en venta,840000000.0,"Cra. 50d #64-22, La Candelaria, Me...",340 m¬≤ cubiertos,6 habs.
+265,Lote y casalote en venta,6000000000.0,"Colombia / Antioquia / Laureles, M...",340 m¬≤ cubiertos,6 habs.
+266,Casa en venta,390000000.0,"Guayabal, Medell√≠n, Antioquia",140 m¬≤ cubiertos,2 habs.
+267,Casa en venta,350000000.0,"Buenos Aires, Medell√≠n, Antioquia,...",138 m¬≤ cubiertos,4 habs.
+268,Casa en venta,1580000000.0,"Laureles, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+269,Casa en venta,280000000.0,"Castilla, Medell√≠n, Antioquia, Col...",89 m¬≤ cubiertos,3 habs.
+270,Finca en venta,700000000.0,"Cerca Al Corregimiento  Sn, San Cr...",120 m¬≤ cubiertos,3 habs.
+271,Casa en venta,260000000.0,"Robledo Campi√±a, Medell√≠n, Antioqu...",78 m¬≤ cubiertos,4 habs.
+272,Casa en venta,430000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",136 m¬≤ cubiertos,3 habs.
+273,Casa en venta,305000000.0,"Aranjuez, Medell√≠n, Antioquia",74 m¬≤ cubiertos,3 habs.
+274,Casa en venta,225000000.0,"San Antonio De Prado, Medell√≠n, An...",64 m¬≤ cubiertos,3 habs.
+275,Casa en venta,1290000000.0,"Los Balsos, Medell√≠n, Antioquia",309 m¬≤ cubiertos,4 habs.
+276,Casa en venta,400000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",112 m¬≤ cubiertos,3 habs.
+277,Casa en venta,200000000.0,"Robledo, Medell√≠n, Antioquia",76 m¬≤ cubiertos,4 habs.
+278,Casa en venta,5000000000.0,"El Poblado, Medell√≠n, Antioquia",850 m¬≤ cubiertos,8 habs.
+279,Casa en venta,6200000000.0,"San Lucas, Medell√≠n, Antioquia",601 m¬≤ cubiertos,4 habs.
+280,Casa en venta,230000000.0,"Barichara, Medell√≠n, Antioquia",75 m¬≤ cubiertos,3 habs.
+281,Casa en venta,600000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",130 m¬≤ cubiertos,4 habs.
+282,Casa en venta,1300000000.0,"Estadio, Medell√≠n, Antioquia",268 m¬≤ cubiertos,5 habs.
+283,Casa en venta,390000000.0,"Calasanz, Medell√≠n, Antioquia",128 m¬≤ cubiertos,3 habs.
+284,Casa en venta,320000000.0,"Manrique Central 1, Medell√≠n, Anti...",217 m¬≤ cubiertos,4 habs.
+285,Casa en venta,1890000000.0,"Los Balsos, Medell√≠n, Antioquia",300 m¬≤ cubiertos,3 habs.
+286,Casa en venta,640000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",214 m¬≤ cubiertos,4 habs.
+287,Casa en arriendo,8900000.0,"Belen Alameda, Medell√≠n, Antioquia",328 m¬≤ cubiertos,5 habs.
+288,Casa en arriendo temporal,4500000.0,"Santa Elena, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+289,Casa en arriendo,2800000.0,"Santa Elena, Medell√≠n, Antioquia",70 m¬≤ cubiertos,2 habs.
+290,Casa en arriendo temporal,550000.0,"Santa Elena, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+291,Casa en venta,380000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",108 m¬≤ cubiertos,3 habs.
+292,Casa en venta,190000000.0,"Campo Valdes, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+293,Casa en arriendo temporal,390000.0,"Santa Elena, Medell√≠n, Antioquia",60 m¬≤ cubiertos,1 hab.
+294,Casa en arriendo temporal,2800000.0,"Santa Elena, Medell√≠n, Antioquia",60 m¬≤ cubiertos,1 hab.
+295,Casa en venta,405000000.0,"Guayabal, Medell√≠n, Antioquia",164 m¬≤ cubiertos,5 habs.
+296,Casa en venta,680000000.0,"Castilla, Medell√≠n, Antioquia",160 m¬≤ cubiertos,10 habs.
+297,Casa en venta,3500000000.0,"Laureles, Medell√≠n, Antioquia",160 m¬≤ cubiertos,10 habs.
+298,Casa en venta,1100000000.0,"Laureles, Medell√≠n, Antioquia",347 m¬≤ cubiertos,6 habs.
+299,Casa en venta,1180000000.0,"Laureles, Medell√≠n, Antioquia",125 m¬≤ cubiertos,5 habs.
+300,Casa en venta,1200000000.0,"El Poblado, Medell√≠n, Antioquia",228 m¬≤ cubiertos,3 habs.
+301,Casa en venta,500000000.0,"Calasanz, Medell√≠n, Antioquia",146 m¬≤ cubiertos,3 habs.
+302,Casa en venta,1700000000.0,"La Calera, Medell√≠n, Antioquia",270 m¬≤ cubiertos,3 habs.
+303,Casa en arriendo,4480000.0,"Medell√≠n, Antioquia",280 m¬≤ cubiertos,3 habs.
+304,Casa en venta,370000000.0,"Prado Centro, Medell√≠n, Antioquia",126 m¬≤ cubiertos,4 habs.
+305,Casa en venta,750000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",153 m¬≤ cubiertos,4 habs.
+306,Casa en venta,1700000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,3 habs.
+307,Casa en venta,2500000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,3 habs.
+308,Casa en venta,1500000000.0,"El Poblado, Medell√≠n, Antioquia",380 m¬≤ cubiertos,6 habs.
+309,Casa en venta,6000000000.0,"Palmas, Medell√≠n, Antioquia",713 m¬≤ cubiertos,4 habs.
+310,Casa en arriendo,19800000.0,"Laureles, Medell√≠n, Antioquia",605 m¬≤ cubiertos,9 habs.
+311,Casa en venta,850000000.0,"Calasanz, Medell√≠n, Antioquia",200 m¬≤ cubiertos,5 habs.
+312,Casa en venta,1560000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+313,Casa en venta,1200000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",300 m¬≤ cubiertos,5 habs.
+314,Casa en venta,1100000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",225 m¬≤ cubiertos,4 habs.
+315,Casa en venta,2450000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+316,Casa en venta,3500000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",450 m¬≤ cubiertos,4 habs.
+317,Casa en venta,3200000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",240 m¬≤ cubiertos,3 habs.
+318,Casa en venta,4500000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",240 m¬≤ cubiertos,3 habs.
+319,Casa en venta,4200000000.0,"Poblado Altos Del Poblado, Medell√≠...",720 m¬≤ cubiertos,4 habs.
+320,Casa en venta,3500000000.0,"Medell√≠n, Antioquia",421 m¬≤ cubiertos,3 habs.
+321,Casa en arriendo,14000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,3 habs.
+322,Casa en venta,1700000000.0,"Poblado La Calera, Medell√≠n, Antio...",270 m¬≤ cubiertos,3 habs.
+323,Casa en venta,675000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+324,Casa en venta,450000000.0,"Loma Del Indio, Medell√≠n, Antioquia",91 m¬≤ cubiertos,3 habs.
+325,Casa en venta,610000000.0,"La Mota, Medell√≠n, Antioquia",144 m¬≤ cubiertos,3 habs.
+326,Casa en venta,3800000000.0,"Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+327,Casa en venta,1100000000.0,"Floresta, Medell√≠n, Antioquia",179 m¬≤ cubiertos,3 habs.
+328,Casa en venta,670000000.0,"La Mota, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+329,Casa en venta,1200000000.0,"Medell√≠n, Antioquia",240 m¬≤ cubiertos,5 habs.
+330,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",254 m¬≤ cubiertos,5 habs.
+331,Casa en venta,1200000000.0,"San Joaqu√≠n, Medell√≠n, Antioquia",156 m¬≤ cubiertos,4 habs.
+332,Casa en venta,280000000.0,"Robledo, Medell√≠n, Antioquia",132 m¬≤ cubiertos,4 habs.
+333,Casa en venta,2850000000.0,"El Poblado, Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+334,Casa en venta,450000000.0,"La Castellana, Medell√≠n, Antioquia",195 m¬≤ cubiertos,5 habs.
+335,Casa en venta,360000000.0,"Buenos Aires, Medell√≠n, Antioquia",122 m¬≤ cubiertos,4 habs.
+336,Casa en venta,460000000.0,"La Am√©rica, Medell√≠n, Antioquia",170 m¬≤ cubiertos,6 habs.
+337,Casa en venta,1180000000.0,"El Tesoro, Medell√≠n, Antioquia",129 m¬≤ cubiertos,3 habs.
+338,Casa en venta,4800000000.0,"Poblado Palmas, Medell√≠n, Antioquia",750 m¬≤ cubiertos,4 habs.
+339,Casa en venta,1100000000.0,"El Poblado, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+340,Casa en venta,330000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",82 m¬≤ cubiertos,3 habs.
+341,Casa en venta,750000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",280 m¬≤ cubiertos,7 habs.
+342,Casa en venta,450000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",117 m¬≤ cubiertos,3 habs.
+343,Casa en venta,770000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",160 m¬≤ cubiertos,4 habs.
+344,Casa en venta,480000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",112 m¬≤ cubiertos,4 habs.
+345,Casa en venta,530000000.0,"Los Colores, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+346,Casa en venta,590000000.0,"La Castellana, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+347,Casa en venta,700000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+348,Casa en venta,2100000000.0,"Poblado Cola Del Zorro, Medell√≠n, ...",440 m¬≤ cubiertos,3 habs.
+349,Casa en venta,3700000000.0,"Poblado Palmas, Medell√≠n, Antioquia",455 m¬≤ cubiertos,3 habs.
+350,Casa en venta,2550000000.0,"Poblado Balsos, Medell√≠n, Antioquia",340 m¬≤ cubiertos,4 habs.
+351,Casa en arriendo,8000000.0,"Floresta, Medell√≠n, Antioquia",488 m¬≤ cubiertos,11 habs.
+352,Casa en venta,290000000.0,"Manrique, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+353,Casa en venta,550000000.0,"La Am√©rica, Medell√≠n, Antioquia",132 m¬≤ cubiertos,3 habs.
+354,Casa en venta,606000000.0,"Parque De Belen, Medell√≠n, Antioqu...",110 m¬≤ cubiertos,3 habs.
+355,Casa en venta,2800000000.0,"Loma De San Julian, Medell√≠n, Anti...",503 m¬≤ cubiertos,6 habs.
+356,Casa en venta,340000000.0,"San Diego, Medell√≠n, Antioquia",167 m¬≤ cubiertos,6 habs.
+357,Casa en venta,480000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",112 m¬≤ cubiertos,4 habs.
+358,Casa en venta,950000000.0,"Floresta, Medell√≠n, Antioquia",223 m¬≤ cubiertos,5 habs.
+359,Casa en venta,650000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",183 m¬≤ cubiertos,3 habs.
+360,Casa en venta,650000000.0,"Bel√©n Manzanillo, Medell√≠n, Antioq...",150 m¬≤ cubiertos,3 habs.
+361,Casa en venta,400000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",99 m¬≤ cubiertos,4 habs.
+362,Casa en venta,1490000000.0,"San Lucas, Medell√≠n, Antioquia",244 m¬≤ cubiertos,3 habs.
+363,Casa en venta,1100000000.0,"Prado Centro, Medell√≠n, Antioquia",540 m¬≤ cubiertos,6 habs.
+364,Casa en venta,590000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",252 m¬≤ cubiertos,4 habs.
+365,Casa en venta,900000000.0,"Estadio, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+366,Casa en venta,850000000.0,"Bel√©n Los Alpes, Medell√≠n, Antioqu...",300 m¬≤ cubiertos,5 habs.
+367,Casa en venta,330000000.0,"Guayabal, Medell√≠n, Antioquia",122 m¬≤ cubiertos,4 habs.
+368,Casa en venta,650000000.0,"Laureles, Medell√≠n, Antioquia",160 m¬≤ cubiertos,6 habs.
+369,Casa en venta,790000000.0,"El Poblado, Medell√≠n, Antioquia",139 m¬≤ cubiertos,4 habs.
+370,Casa en venta,630000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",205 m¬≤ cubiertos,7 habs.
+371,Casa en venta,500000000.0,"Prado Centro, Medell√≠n, Antioquia",200 m¬≤ cubiertos,5 habs.
+372,Casa en venta,2700000000.0,"Poblado La Calera, Medell√≠n, Antio...",648 m¬≤ cubiertos,4 habs.
+373,Casa en venta,5300000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",930 m¬≤ cubiertos,4 habs.
+374,Casa en venta,1800000000.0,"El Poblado, Medell√≠n, Antioquia",243 m¬≤ cubiertos,5 habs.
+375,Casa en venta,370000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",114 m¬≤ cubiertos,4 habs.
+376,Casa en venta,5000000000.0,"Via Las Palmas, Medell√≠n, Antioquia",680 m¬≤ cubiertos,4 habs.
+377,Casa en arriendo,5500000.0,"Los Colores, Medell√≠n, Antioquia",680 m¬≤ cubiertos,4 habs.
+378,Casa en arriendo,1700000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",85 m¬≤ cubiertos,4 habs.
+379,Casa en venta,215000000.0,"Robledo, Medell√≠n, Antioquia",112 m¬≤ cubiertos,4 habs.
+380,Casa en venta,460000000.0,"Belen Alameda, Medell√≠n, Antioquia",109 m¬≤ cubiertos,3 habs.
+381,Casa en venta,1050000000.0,"Calasanz, Medell√≠n, Antioquia",436 m¬≤ cubiertos,5 habs.
+382,Casa en venta,360000000.0,"La Pradera, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+383,Casa en venta,490000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",205 m¬≤ cubiertos,4 habs.
+384,Casa en venta,361000000.0,"Rodeo Alto, Medell√≠n, Antioquia",86 m¬≤ cubiertos,4 habs.
+385,Casa en venta,3500000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+386,Casa en venta,720000000.0,"Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+387,Casa en arriendo,5300000.0,"Castropol, Medell√≠n, Antioquia",146 m¬≤ cubiertos,4 habs.
+388,Casa en venta,360000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",145 m¬≤ cubiertos,5 habs.
+389,Casa en venta,1200000000.0,"Estadio, Medell√≠n, Antioquia",223 m¬≤ cubiertos,4 habs.
+390,Casa en venta,1400000000.0,"Floresta, Medell√≠n, Antioquia",320 m¬≤ cubiertos,7 habs.
+391,Casa en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+392,Casa en venta,180000000.0,"Robledo Miramar, Medell√≠n, Antioqu...",74 m¬≤ cubiertos,3 habs.
+393,Casa en venta,2850000000.0,"Poblado El Tesoro, Medell√≠n, Antio...",495 m¬≤ cubiertos,4 habs.
+394,Casa en venta,4200000000.0,"Poblado Palmas, Medell√≠n, Antioquia",550 m¬≤ cubiertos,4 habs.
+395,Casa en venta,3800000000.0,"Poblado Palmas, Medell√≠n, Antioquia",530 m¬≤ cubiertos,3 habs.
+396,Casa en venta,3350000000.0,"Las Palmas, Medell√≠n, Antioquia",350 m¬≤ cubiertos,3 habs.
+397,Casa en venta,990000000.0,"Los Colores, Medell√≠n, Antioquia",323 m¬≤ cubiertos,6 habs.
+398,Casa en venta,230000000.0,"Buenos Aires, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+399,Casa en venta,215000000.0,"San Antonio De Prado, Medell√≠n, An...",70 m¬≤ cubiertos,3 habs.
+400,Casa en arriendo,47600000.0,"Laureles, Medell√≠n, Antioquia","1,500 m¬≤ cubiertos",30 habs.
+401,Casa en venta,300000000.0,"Robledo, Medell√≠n, Antioquia",82 m¬≤ cubiertos,4 habs.
+402,Casa en venta,195000000.0,"Robledo, Medell√≠n, Antioquia",58 m¬≤ cubiertos,2 habs.
+403,Casa en venta,520000000.0,"Boston, Medell√≠n, Antioquia",211 m¬≤ cubiertos,3 habs.
+404,Casa en arriendo,4500000.0,"Centro, Medell√≠n, Antioquia",278 m¬≤ cubiertos,6 habs.
+405,Casa en venta,1200000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",150 m¬≤ cubiertos,5 habs.
+406,Casa en venta,640000000.0,"Bel√©n La Nubia, Medell√≠n, Antioquia",210 m¬≤ cubiertos,4 habs.
+407,Casa en venta,420000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",112 m¬≤ cubiertos,3 habs.
+408,Casa en venta,900000000.0,Poblado Santa Maria De Los Angeles...,153 m¬≤ cubiertos,3 habs.
+409,Casa en venta,700000000.0,"Guayabal, Medell√≠n, Antioquia",207 m¬≤ cubiertos,4 habs.
+410,Casa en venta,1180000000.0,"El Tesoro, Medell√≠n, Antioquia",204 m¬≤ cubiertos,3 habs.
+411,Casa en arriendo,25000000.0,"Patio Bonito, Medell√≠n, Antioquia",500 m¬≤ cubiertos,7 habs.
+412,Casa en arriendo,1500000.0,"Medell√≠n, Antioquia",117 m¬≤ cubiertos,3 habs.
+413,Casa en venta,425000000.0,"Villahermosa, Medell√≠n, Antioquia",149 m¬≤ cubiertos,4 habs.
+414,Casa en venta,450000000.0,"Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+415,Casa en arriendo,3200000.0,"Bel√©n Parque, Medell√≠n, Antioquia",210 m¬≤ cubiertos,7 habs.
+416,Casa en venta,535000000.0,"Bel√©n Miravalle, Medell√≠n, Antioqu...",183 m¬≤ cubiertos,5 habs.
+417,Casa en venta,465000000.0,"Pilarica, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+418,Casa en venta,650000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",109 m¬≤ cubiertos,4 habs.
+419,Lote y casalote en venta,490000000.0,"Aranjuez, Medell√≠n, Antioquia, Col...",109 m¬≤ cubiertos,4 habs.
+420,Apartamento en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",270 m¬≤ cubiertos,3 habs.
+421,Casa en venta,550000000.0,"Calasanz, Medell√≠n, Antioquia",184 m¬≤ cubiertos,5 habs.
+422,Casa en venta,990000000.0,"Los Colores, Medell√≠n, Antioquia",323 m¬≤ cubiertos,6 habs.
+423,Casa en venta,6370000000.0,"Parque Bol√≠var, Medell√≠n, Antioquia","1,581 m¬≤ cubiertos",22 habs.
+424,Casa en venta,405000000.0,"Calasanz, Medell√≠n, Antioquia",78 m¬≤ cubiertos,4 habs.
+425,Casa en venta,800000000.0,"Laureles La Castellana, Medell√≠n, ...",250 m¬≤ cubiertos,4 habs.
+426,Casa en venta,3950000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",460 m¬≤ cubiertos,5 habs.
+427,Casa en venta,1400000000.0,"Altos Del Poblado, Medell√≠n, Antio...",235 m¬≤ cubiertos,3 habs.
+428,Apartamento en venta,380000000.0,"Robledo, Medell√≠n, Antioquia",72 m¬≤ cubiertos,3 habs.
+429,Casa en venta,980000000.0,"Bel√©n Loma De Los Bernal, Medell√≠n...",233 m¬≤ cubiertos,4 habs.
+430,Casa en venta,785000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",300 m¬≤ cubiertos,8 habs.
+431,Casa en venta,360000000.0,"Calasanz, Medell√≠n, Antioquia",115 m¬≤ cubiertos,3 habs.
+432,Casa en venta,820000000.0,"Estadio, Medell√≠n, Antioquia",240 m¬≤ cubiertos,3 habs.
+433,Casa en venta,470000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",136 m¬≤ cubiertos,3 habs.
+434,Casa en venta,669000000.0,"La Mota, Medell√≠n, Antioquia",96 m¬≤ cubiertos,4 habs.
+435,Casa en venta,2000000000.0,"Laureles, Medell√≠n, Antioquia",336 m¬≤ cubiertos,6 habs.
+436,Casa en venta,790000000.0,"Calasanz, Medell√≠n, Antioquia",192 m¬≤ cubiertos,4 habs.
+437,Casa en venta,514000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",167 m¬≤ cubiertos,6 habs.
+438,Casa en venta,290000000.0,"Catalu√±a, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+439,Casa en venta,460000000.0,"Loma Del Indio, Medell√≠n, Antioquia",87 m¬≤ cubiertos,3 habs.
+440,Casa en venta,3900000000.0,"Medell√≠n, Antioquia",300 m¬≤ cubiertos,3 habs.
+441,Casa en venta,1300000000.0,"La Am√©rica, Medell√≠n, Antioquia",246 m¬≤ cubiertos,5 habs.
+442,Casa en venta,950000000.0,"Prado Centro, Medell√≠n, Antioquia",326 m¬≤ cubiertos,6 habs.
+443,Casa en venta,400000000.0,"Bel√©n Granada, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+444,Casa en venta,550000000.0,"Calasanz, Medell√≠n, Antioquia",155 m¬≤ cubiertos,3 habs.
+445,Casa en venta,235000000.0,"San Diego, Medell√≠n, Antioquia",99 m¬≤ cubiertos,4 habs.
+446,Casa en arriendo,9000000.0,"Laureles, Medell√≠n, Antioquia",300 m¬≤ cubiertos,5 habs.
+447,Casa en venta,2100000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,5 habs.
+448,Casa en venta,1300000000.0,"Laureles, Medell√≠n, Antioquia",213 m¬≤ cubiertos,5 habs.
+449,Casa en venta,650000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",142 m¬≤ cubiertos,4 habs.
+450,Casa en venta,420000000.0,"Santa Monica, Medell√≠n, Antioquia,...",112 m¬≤ cubiertos,3 habs.
+451,Casa en venta,1430000000.0,"Loma De Los Gonzalez, Medell√≠n, An...",338 m¬≤ cubiertos,4 habs.
+452,Casa en venta,550000000.0,"Medell√≠n, Antioquia",160 m¬≤ cubiertos,6 habs.
+453,Casa en arriendo,7500000.0,"Estadio, Medell√≠n, Antioquia",320 m¬≤ cubiertos,6 habs.
+454,Casa en venta,470000000.0,"Campo Valdez, Medell√≠n, Antioquia",128 m¬≤ cubiertos,6 habs.
+455,Casa en arriendo,4500000.0,"Laureles, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+456,Casa en venta,600000000.0,"Bel√©n Manzanillo, Medell√≠n, Antioq...",150 m¬≤ cubiertos,3 habs.
+457,Casa en venta,360000000.0,"Manrique Las Esmeraldas, Medell√≠n,...",128 m¬≤ cubiertos,3 habs.
+458,Casa en venta,1300000000.0,"Santa Teresita, Medell√≠n, Antioquia",325 m¬≤ cubiertos,7 habs.
+459,Casa en venta,500000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",123 m¬≤ cubiertos,4 habs.
+460,Casa en venta,5000000000.0,"Poblado Palmas, Medell√≠n, Antioquia",726 m¬≤ cubiertos,3 habs.
+461,Casa en venta,560000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",173 m¬≤ cubiertos,5 habs.
+462,Casa en venta,180000000.0,"Castilla, Medell√≠n, Antioquia",80 m¬≤ cubiertos,4 habs.
+463,Casa en venta,410000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",119 m¬≤ cubiertos,4 habs.
+464,Casa en arriendo,4300000.0,"Bel√©n, Medell√≠n, Antioquia",230 m¬≤ cubiertos,6 habs.
+465,Casa en venta,1325000000.0,"Estadio, Medell√≠n, Antioquia",237 m¬≤ cubiertos,6 habs.
+466,Casa en venta,1100000000.0,"Medell√≠n, Antioquia",220 m¬≤ cubiertos,4 habs.
+467,Casa en venta,550000000.0,"Belen Nogal, Medell√≠n, Antioquia",103 m¬≤ cubiertos,3 habs.
+468,Casa en venta,370000000.0,"Guayabal Campo Amor, Medell√≠n, Ant...",128 m¬≤ cubiertos,4 habs.
+469,Casa en venta,500000000.0,"San Javier, Medell√≠n, Antioquia",192 m¬≤ cubiertos,8 habs.
+470,Casa en venta,450000000.0,"Buenos Aires, Medell√≠n, Antioquia",93 m¬≤ cubiertos,3 habs.
+471,Casa en venta,232000000.0,"Catalu√±a, Medell√≠n, Antioquia",60 m¬≤ cubiertos,4 habs.
+472,Casa en venta,350000000.0,"Floresta, Medell√≠n, Antioquia",116 m¬≤ cubiertos,5 habs.
+473,Casa en venta,3300000000.0,"La Calera, Medell√≠n, Antioquia",484 m¬≤ cubiertos,2 habs.
+474,Casa en venta,390000000.0,"Calasanz, Medell√≠n, Antioquia",99 m¬≤ cubiertos,5 habs.
+475,Casa en venta,2100000000.0,"El Poblado, Medell√≠n, Antioquia",99 m¬≤ cubiertos,5 habs.
+476,Casa en venta,329900000.0,"Rosales, Bel√©n, Medell√≠n, Antioqui...",102 m¬≤ cubiertos,3 habs.
+477,Casa en venta,480000000.0,"La Mota, Medell√≠n, Antioquia",75 m¬≤ cubiertos,3 habs.
+478,Casa en venta,570000000.0,"Laureles, Medell√≠n, Antioquia",143 m¬≤ cubiertos,3 habs.
+479,Casa en arriendo,8000000.0,"Prado Centro, Medell√≠n, Antioquia",400 m¬≤ cubiertos,7 habs.
+480,Apartamento en venta,470000000.0,"La Am√©rica, Medell√≠n, Antioquia",97 m¬≤ cubiertos,3 habs.
+481,Casa en venta,750000000.0,"La Castellana, Medell√≠n, Antioquia",315 m¬≤ cubiertos,5 habs.
+482,Casa en arriendo,5000000.0,"Medell√≠n, Antioquia",279 m¬≤ cubiertos,6 habs.
+483,Casa en venta,635000000.0,"San Germ√°n, Medell√≠n, Antioquia",140 m¬≤ cubiertos,5 habs.
+484,Casa en venta,6000000000.0,"La Calera, Medell√≠n, Antioquia",700 m¬≤ cubiertos,3 habs.
+485,Casa en venta,280000000.0,"Florencia, Medell√≠n, Antioquia",72 m¬≤ cubiertos,3 habs.
+486,Casa en venta,515000000.0,"Pilarica, Medell√≠n, Antioquia",131 m¬≤ cubiertos,4 habs.
+487,Casa en venta,470000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",119 m¬≤ cubiertos,2 habs.
+488,Casa en venta,750000000.0,"Estadio, Medell√≠n, Antioquia",180 m¬≤ cubiertos,2 habs.
+489,Casa en venta,330000000.0,"San Pablo Medell√≠n, Medell√≠n, Anti...",122 m¬≤ cubiertos,4 habs.
+490,Casa en venta,1240000000.0,"Poblado La Visitacion, Medell√≠n, A...",308 m¬≤ cubiertos,3 habs.
+491,Casa en venta,310000000.0,"Guayabal, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+492,Casa en arriendo,5000000.0,"Bel√©n La Nubia, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+493,Casa en venta,1100000000.0,"El Poblado, Medell√≠n, Antioquia",220 m¬≤ cubiertos,4 habs.
+494,Casa en venta,480000000.0,"Buenos Aires, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+495,Casa en venta,500000000.0,"Robledo, Medell√≠n, Antioquia",130 m¬≤ cubiertos,4 habs.
+496,Casa en venta,750000000.0,"El Poblado, Medell√≠n, Antioquia",220 m¬≤ cubiertos,3 habs.
+497,Casa en venta,330000000.0,"Rodeo Alto, Medell√≠n, Antioquia",75 m¬≤ cubiertos,3 habs.
+498,Casa en venta,295000000.0,"Villahermosa, Medell√≠n, Antioquia",104 m¬≤ cubiertos,4 habs.
+499,Casa en venta,750000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",156 m¬≤ cubiertos,3 habs.
+500,Casa en venta,280000000.0,"Manrique, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+501,Casa en venta,1290000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",238 m¬≤ cubiertos,5 habs.
+502,Casa en venta,750000000.0,"Guayabal, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+503,Apartamento en venta,372000000.0,"Buenos Aires, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+504,Casa en venta,1080000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",560 m¬≤ cubiertos,5 habs.
+505,Casa en venta,410000000.0,"Boston, Medell√≠n, Antioquia",97 m¬≤ cubiertos,4 habs.
+506,Casa en venta,180000000.0,"San Javier, Medell√≠n, Antioquia",84 m¬≤ cubiertos,5 habs.
+507,Casa en venta,2500000000.0,"Poblado Altos Del Poblado, Medell√≠...",520 m¬≤ cubiertos,6 habs.
+508,Casa en venta,1200000000.0,"Los Colores, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+509,Casa en venta,650000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",183 m¬≤ cubiertos,3 habs.
+510,Casa en venta,830000000.0,"Bel√©n Miravalle, Medell√≠n, Antioqu...",255 m¬≤ cubiertos,4 habs.
+511,Casa en arriendo,8000000.0,"Prado Centro, Medell√≠n, Antioquia",400 m¬≤ cubiertos,7 habs.
+512,Casa en venta,350000000.0,"Campo Valdez, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+513,Casa en venta,280000000.0,"Buenos Aires, Medell√≠n, Antioquia",89 m¬≤ cubiertos,3 habs.
+514,Casa en venta,750000000.0,"Carrera 92 Sn, Santa M√≥nica, Medel...",160 m¬≤ cubiertos,4 habs.
+515,Casa en venta,310000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",81 m¬≤ cubiertos,2 habs.
+516,Apartamento en venta,660000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",185 m¬≤ cubiertos,4 habs.
+517,Casa en venta,300000000.0,"Itag√º√≠, Medell√≠n, Antioquia",94 m¬≤ cubiertos,4 habs.
+518,Casa en venta,290000000.0,"Boston, Medell√≠n, Antioquia",65 m¬≤ cubiertos,2 habs.
+519,Casa en venta,540000000.0,"Prado Centro, Medell√≠n, Antioquia",270 m¬≤ cubiertos,7 habs.
+520,Casa en venta,955000000.0,"Castropol  Sn, Castropol, Medell√≠n...",180 m¬≤ cubiertos,4 habs.
+521,Casa en venta,519000000.0,"Robledo, Medell√≠n, Antioquia",240 m¬≤ cubiertos,7 habs.
+522,Casa en venta,700000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",168 m¬≤ cubiertos,3 habs.
+523,Casa en venta,3350000000.0,"Poblado Palmas, Medell√≠n, Antioquia",340 m¬≤ cubiertos,3 habs.
+524,Casa en venta,820000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",220 m¬≤ cubiertos,6 habs.
+525,Casa en venta,500000000.0,"Medell√≠n, Antioquia",105 m¬≤ cubiertos,5 habs.
+526,Casa en venta,580000000.0,"Estadio, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+527,Casa en arriendo,4000000.0,"Bel√©n La Nubia, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+528,Casa en venta,750000000.0,"Pilarica, Medell√≠n, Antioquia",213 m¬≤ cubiertos,6 habs.
+529,Casa en venta,3900000000.0,"Medell√≠n, Antioquia",213 m¬≤ cubiertos,6 habs.
+530,Casa en venta,270000000.0,"Boston, Medell√≠n, Antioquia",89 m¬≤ cubiertos,2 habs.
+531,Casa en venta,535000000.0,"Bel√©n Miravalle, Medell√≠n, Antioqu...",183 m¬≤ cubiertos,5 habs.
+532,Casa en venta,970000000.0,"Poblado El Tesoro, Medell√≠n, Antio...",249 m¬≤ cubiertos,3 habs.
+533,Casa en venta,1180000000.0,"San Lucas, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+534,Apartamento en venta,800000000.0,"Prado Centro, Medell√≠n, Antioquia",330 m¬≤ cubiertos,8 habs.
+535,Casa en arriendo,4400000.0,"Los Colores, Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+536,Casa en venta,300000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",70 m¬≤ cubiertos,2 habs.
+537,Casa en arriendo,1200000.0,"Medell√≠n, Antioquia",60 m¬≤ cubiertos,2 habs.
+538,Casa en venta,350000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",74 m¬≤ cubiertos,3 habs.
+539,Casa en arriendo,1500000.0,"Robledo, Medell√≠n, Antioquia",56 m¬≤ cubiertos,2 habs.
+540,Casa en venta,310000000.0,"Rodeo Alto, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+541,Casa en venta,7500000000.0,"El Poblado, Medell√≠n, Antioquia","1,200 m¬≤ cubiertos",22 habs.
+542,Casa en venta,350000000.0,"Villahermosa, Medell√≠n, Antioquia",100 m¬≤ cubiertos,3 habs.
+543,Casa en venta,300000000.0,"Boyaca Las Brisas, Medell√≠n, Antio...",140 m¬≤ cubiertos,4 habs.
+544,Casa en venta,780000000.0,"Bel√©n La Nubia, Medell√≠n, Antioquia",186 m¬≤ cubiertos,4 habs.
+545,Casa en venta,395000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",92 m¬≤ cubiertos,3 habs.
+546,Casa en venta,650000000.0,"Los Colores, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+547,Casa en venta,205000000.0,"Campo Valdes, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+548,Casa en venta,3000000000.0,"Poblado Altos Del Poblado, Medell√≠...",426 m¬≤ cubiertos,3 habs.
+549,Casa en venta,850000000.0,"Loma Los Gonz√°lez, Medell√≠n, Antio...",214 m¬≤ cubiertos,3 habs.
+550,Casa en venta,730000000.0,"Carrera 92 Sn, Santa M√≥nica, Medel...",240 m¬≤ cubiertos,4 habs.
+551,Casa en venta,280000000.0,"Robledo, Medell√≠n, Antioquia",122 m¬≤ cubiertos,3 habs.
+552,Casa en arriendo,2600000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",110 m¬≤ cubiertos,2 habs.
+553,Casa en venta,1250000000.0,"Medell√≠n, Antioquia, Colombia, Lau...",278 m¬≤ cubiertos,5 habs.
+554,Casa en venta,545000000.0,"Belen La Nubia, Medell√≠n, Antioquia",198 m¬≤ cubiertos,4 habs.
+555,Casa en venta,620000000.0,"Laureles, Medell√≠n, Antioquia",171 m¬≤ cubiertos,4 habs.
+556,Casa en venta,350000000.0,"Campo Valdes, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+557,Apartamento en venta,550000000.0,"Santa Fe Barrio, Medell√≠n, Antioqu...",163 m¬≤ cubiertos,4 habs.
+558,Casa en venta,530000000.0,"Guayabal, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+559,Casa en arriendo,39000000.0,"Las Palmas, Medell√≠n, Antioquia",645 m¬≤ cubiertos,6 habs.
+560,Casa en venta,450000000.0,"Bel√©n Malib√∫, Medell√≠n, Antioquia",107 m¬≤ cubiertos,3 habs.
+561,Casa en venta,540000000.0,"Bel√©n Parque, Medell√≠n, Antioquia",156 m¬≤ cubiertos,5 habs.
+562,Casa en venta,260000000.0,"El Chagualo, Medell√≠n, Antioquia",72 m¬≤ cubiertos,3 habs.
+563,Casa en venta,950000000.0,"La Mota, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+564,Casa en venta,950000000.0,"La Mota, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+565,Casa en venta,1050000000.0,"La Castellana, Medell√≠n, Antioquia",320 m¬≤ cubiertos,5 habs.
+566,Casa en venta,500000000.0,"Los Angeles, Medell√≠n, Antioquia",164 m¬≤ cubiertos,4 habs.
+567,Casa en venta,1320000000.0,"Estadio, Medell√≠n, Antioquia",222 m¬≤ cubiertos,6 habs.
+568,Casa en venta,350000000.0,"Campo Valdes, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+569,Casa en arriendo,5000000.0,"Calasanz, Medell√≠n, Antioquia",143 m¬≤ cubiertos,3 habs.
+570,Casa en venta,385000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",82 m¬≤ cubiertos,3 habs.
+571,Casa en venta,280000000.0,"San Javier, Medell√≠n, Antioquia",141 m¬≤ cubiertos,4 habs.
+572,Apartamento en venta,475000000.0,"Laureles, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+573,Casa en venta,230000000.0,"Aranjuez, Medell√≠n, Antioquia",79 m¬≤ cubiertos,3 habs.
+574,Casa en venta,240000000.0,"San Antonio De Prado, Medell√≠n, An...",85 m¬≤ cubiertos,3 habs.
+575,Casa en venta,330000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",123 m¬≤ cubiertos,3 habs.
+576,Apartamento en venta,900000000.0,"Laureles, Medell√≠n, Antioquia",340 m¬≤ cubiertos,7 habs.
+577,Casa en venta,410000000.0,"La Am√©rica, Medell√≠n, Antioquia",170 m¬≤ cubiertos,4 habs.
+578,Casa en venta,550000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",180 m¬≤ cubiertos,5 habs.
+579,Casa en venta,780000000.0,"Bel√©n Los Alpes, Medell√≠n, Antioqu...",146 m¬≤ cubiertos,3 habs.
+580,Casa en venta,325000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",87 m¬≤ cubiertos,3 habs.
+581,Casa en venta,545000000.0,"Bel√©n Miravalle, Medell√≠n, Antioqu...",115 m¬≤ cubiertos,3 habs.
+582,Casa en venta,830000000.0,"Bel√©n Nueva Villa De Aburr√°, Medel...",255 m¬≤ cubiertos,4 habs.
+583,Casa en arriendo,6000000.0,"Laureles, Medell√≠n, Antioquia",228 m¬≤ cubiertos,7 habs.
+584,Casa en arriendo,4500000.0,"Estadio, Medell√≠n, Antioquia",237 m¬≤ cubiertos,3 habs.
+585,Casa en venta,650000000.0,"Sevilla Centro, Medell√≠n, Antioquia",298 m¬≤ cubiertos,5 habs.
+586,Casa en venta,395000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",144 m¬≤ cubiertos,3 habs.
+587,Casa en venta,300000000.0,"Campo Valdez, Medell√≠n, Antioquia",166 m¬≤ cubiertos,4 habs.
+588,Casa en arriendo,6720000.0,"Estadio, Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+589,Casa en venta,230000000.0,"San Antonio De Prado, Medell√≠n, An...",97 m¬≤ cubiertos,3 habs.
+590,Casa en arriendo,2100000.0,"Cristo Rey, Medell√≠n, Antioquia",70 m¬≤ cubiertos,2 habs.
+591,Casa en venta,1250000000.0,"La Visitaci√≥n, Medell√≠n, Antioquia",250 m¬≤ cubiertos,3 habs.
+592,Casa en venta,411000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+593,Casa en venta,350000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",109 m¬≤ cubiertos,4 habs.
+594,Casa en venta,335000000.0,"Robledo, Medell√≠n, Antioquia",76 m¬≤ cubiertos,3 habs.
+595,Casa en venta,370000000.0,"Rodeo Alto, Medell√≠n, Antioquia",100 m¬≤ cubiertos,4 habs.
+596,Casa en venta,750000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+597,Apartamento en arriendo,1550000.0,"Manrique, Medell√≠n, Antioquia",120 m¬≤ cubiertos,2 habs.
+598,Casa en arriendo,5500000.0,"Laureles, Medell√≠n, Antioquia",153 m¬≤ cubiertos,4 habs.
+599,Casa en venta,2300000000.0,"Laureles, Medell√≠n, Antioquia",325 m¬≤ cubiertos,5 habs.
+600,Casa en venta,240000000.0,"Florencia, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+601,Casa en venta,210000000.0,"Buenos Aires, Medell√≠n, Antioquia",72 m¬≤ cubiertos,3 habs.
+602,Casa en venta,585000000.0,"Aliadas 3147173171, Bel√©n, Medell√≠...",140 m¬≤ cubiertos,4 habs.
+603,Casa en venta,600000000.0,"Loma De Los Bernal  3147173171, Be...",160 m¬≤ cubiertos,4 habs.
+604,Casa en venta,2200000000.0,"Medell√≠n, Antioquia",372 m¬≤ cubiertos,5 habs.
+605,Casa en arriendo,10500000.0,"San Lucas, San Lucas, Medell√≠n, An...",420 m¬≤ totales,4 habs.
+606,Casa en venta,220000000.0,"Belen El Rodeo Sn, El Rodeo, Medel...",60 m¬≤ cubiertos,2 habs.
+607,Casa en venta,910000000.0,"Altos Del Poblado, Medell√≠n, Antio...",198 m¬≤ cubiertos,3 habs.
+608,Casa en venta,215000000.0,"Medell√≠n, Antioquia",70 m¬≤ cubiertos,3 habs.
+609,Casa en venta,220000000.0,"Robledo, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+610,Apartamento en venta,380000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+611,Casa en venta,386000000.0,"Medell√≠n, Antioquia",115 m¬≤ cubiertos,4 habs.
+612,Casa en venta,2600000000.0,"Medell√≠n, Antioquia, Colombia, Bel...",320 m¬≤ cubiertos,4 habs.
+613,Casa en venta,1200000000.0,"Calle 10e #25-41, El Poblado, Mede...",275 m¬≤ cubiertos,4 habs.
+614,Casa en venta,640000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",214 m¬≤ cubiertos,4 habs.
+615,Casa en venta,190000000.0,"50 Sn, Boston, Medell√≠n, Antioquia",60 m¬≤ cubiertos,2 habs.
+616,Casa en venta,380000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",108 m¬≤ cubiertos,3 habs.
+617,Casa en venta,1250000000.0,"San Lucas Sn, El Poblado, Medell√≠n...",210 m¬≤ cubiertos,3 habs.
+618,Casa en venta,1300000000.0,"Laureles El Nogal, Medell√≠n, Antio...",240 m¬≤ cubiertos,4 habs.
+619,Casa en venta,780000000.0,"Calle 29b #84-97, Medell√≠n, Antioq...",146 m¬≤ cubiertos,3 habs.
+620,Casa en venta,670000000.0,"Bel√©n, Medell√≠n, Antioquia",144 m¬≤ cubiertos,3 habs.
+621,Casa en venta,670000000.0,"Bel√©n, Medell√≠n, Antioquia",144 m¬≤ cubiertos,3 habs.
+622,Casa en venta,680000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+623,Casa en venta,225000000.0,"Cra. 57a #4c-24, San Antonio De Pr...",92 m¬≤ cubiertos,4 habs.
+624,Casa en venta,450000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",116 m¬≤ cubiertos,4 habs.
+625,Casa en venta,820000000.0,"Bel√©n, Medell√≠n, Antioquia",186 m¬≤ cubiertos,4 habs.
+626,Lote y casalote en venta,1650000000.0,"Bel√©n, Medell√≠n, Antioquia",186 m¬≤ cubiertos,4 habs.
+627,Casa en venta,260000000.0,"Bel√©n El Rinc√≥n, Medell√≠n, Antioqu...",70 m¬≤ cubiertos,4 habs.
+628,Casa en venta,950000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+629,Casa en venta,830000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+630,Casa en venta,413000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",94 m¬≤ cubiertos,3 habs.
+631,Casa en venta,670000000.0,"Bel√©n, Medell√≠n, Antioquia",144 m¬≤ cubiertos,3 habs.
+632,Casa en venta,670000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",144 m¬≤ cubiertos,3 habs.
+633,Casa en venta,230000000.0,"San Antonio De Prado, Medell√≠n, An...",68 m¬≤ cubiertos,3 habs.
+634,Casa en arriendo,6500000.0,"Estadio, Estadio, Medell√≠n, Antioq...",250 m¬≤ totales,6 habs.
+635,Casa en venta,430000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",116 m¬≤ cubiertos,3 habs.
+636,Lote y casalote en venta,3500000000.0,"Laureles, Medell√≠n, Antioquia",116 m¬≤ cubiertos,3 habs.
+637,Casa en venta,1200000000.0,"Bel√©n Alameda, Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+638,Casa en venta,1250000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",330 m¬≤ cubiertos,5 habs.
+639,Casa en venta,780000000.0,"Bel√©n, Medell√≠n, Antioquia",163 m¬≤ cubiertos,4 habs.
+640,Casa en venta,3900000000.0,"Laureles, Medell√≠n, Antioquia",760 m¬≤ cubiertos,11 habs.
+641,Lote y casalote en venta,460000000.0,"Bel√©n, Medell√≠n, Antioquia, Colomb...",760 m¬≤ cubiertos,11 habs.
+642,Casa en venta,3000000000.0,"Bolivariana, Medell√≠n, Antioquia",760 m¬≤ cubiertos,11 habs.
+643,Casa en venta,1700000000.0,"Conquistadores, Medell√≠n, Antioquia",420 m¬≤ cubiertos,6 habs.
+644,Casa en venta,850000000.0,"Calle 32c #66-44, Medell√≠n, Antioq...",420 m¬≤ cubiertos,6 habs.
+645,Casa en venta,850000000.0,"Bel√©n, Medell√≠n, Antioquia",420 m¬≤ cubiertos,6 habs.
+646,Lote y casalote en venta,850000000.0,"Bel√©n F√°tima, Medell√≠n, Antioquia",420 m¬≤ cubiertos,6 habs.
+647,Finca en venta,350000000.0,"Medell√≠n, Antioquia, Colombia, San...",130 m¬≤ cubiertos,4 habs.
+648,Finca en venta,340000000.0,"Pedregal Sn, San Crist√≥bal, Medell...",150 m¬≤ cubiertos,3 habs.
+649,Casa en venta,8500000000.0,"Las Palmas, Medell√≠n, Antioquia",800 m¬≤ cubiertos,5 habs.
+650,Casa en venta,110000000.0,"Villa Flora, Robledo, Medell√≠n, An...",55 m¬≤ cubiertos,3 habs.
+651,Finca en venta,290000000.0,"Traves√≠as Sn, San Crist√≥bal, Medel...",100 m¬≤ cubiertos,3 habs.
+652,Casa en venta,8500000000.0,"Mirador De Las Palmas, Medell√≠n, A...","1,000 m¬≤ cubiertos",5 habs.
+653,Casa en venta,270000000.0,"Bel√©n Bel√©n, Bel√©n, Medell√≠n, Anti...",92 m¬≤ cubiertos,4 habs.
+654,Casa en venta,9300000000.0,"Las Palmas, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+655,Casa en venta,8900000000.0,"Las Palmas, Medell√≠n, Antioquia","1,150 m¬≤ cubiertos",5 habs.
+656,Casa en venta,57000000.0,"12 De Octubre, Medell√≠n, Antioquia",45 m¬≤ cubiertos,2 habs.
+657,Casa en venta,4500000000.0,"Medell√≠n, Antioquia",520 m¬≤ cubiertos,4 habs.
+658,Casa en venta,9800000000.0,"El Poblado, Medell√≠n, Antioquia",595 m¬≤ cubiertos,7 habs.
+659,Finca en venta,12000.0,"Medell√≠n, Antioquia, Colombia, Alt...","1,500 m¬≤ cubiertos",3 habs.
+660,Casa en venta,224000000.0,"Robledo, Medell√≠n, Antioquia",70 m¬≤ cubiertos,3 habs.
+661,Casa en venta,8800000000.0,"El Poblado, Medell√≠n, Antioquia",700 m¬≤ cubiertos,5 habs.
+662,Casa en venta,850000000.0,"Santa Elena, Medell√≠n, Antioquia",233 m¬≤ cubiertos,2 habs.
+663,Casa en venta,190000000.0,"Aranjuez, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+664,Casa en venta,280000000.0,"San Pedro De Los Milagros, Antioqu...",152 m¬≤ cubiertos,4 habs.
+665,Apartamento en venta,1490000000.0,"Medellin , El Poblado , Los Balsos...",265 m¬≤ cubiertos,5 habs.
+666,Casa en venta,250000000.0,"Guayabal, Medell√≠n, Antioquia",69 m¬≤ cubiertos,2 habs.
+667,Casa en venta,380000000.0,"Santa Elena, Medell√≠n, Antioquia",45 m¬≤ cubiertos,1 hab.
+668,Casa en venta,85000000.0,"Granizal, Medell√≠n, Antioquia, Col...",65 m¬≤ cubiertos,3 habs.
+669,Casa en venta,250000000.0,"Robledo, Medell√≠n, Antioquia",123 m¬≤ cubiertos,5 habs.
+670,Finca en venta,900000000.0,"San Antonio De Prado, Medell√≠n, An...","1,000 m¬≤ cubiertos",5 habs.
+671,Casa en venta,175000000.0,"Castilla, Medell√≠n, Antioquia",72 m¬≤ cubiertos,3 habs.
+672,Casa en venta,220000000.0,"Florencia, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+673,Casa en venta,4950000000.0,"Las Palmas, Medell√≠n, Antioquia",526 m¬≤ cubiertos,5 habs.
+674,Casa en venta,7000000000.0,"Las Palmas, Medell√≠n, Antioquia",741 m¬≤ cubiertos,4 habs.
+675,Casa en venta,130000000.0,"Manrique, Medell√≠n, Antioquia",53 m¬≤ cubiertos,3 habs.
+676,Apartamento en venta,220000000.0,"Pedregal, Medell√≠n, Antioquia",135 m¬≤ cubiertos,3 habs.
+677,Casa en venta,100000000.0,"Enciso, Medell√≠n, Antioquia, Colom...",43 m¬≤ cubiertos,2 habs.
+678,Finca en venta,3600000000.0,"Medell√≠n, Antioquia",421 m¬≤ cubiertos,6 habs.
+679,Casa en venta,230000000.0,"Robledo, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+680,Casa en venta,4000000000.0,"El Poblado, Medell√≠n, Antioquia",783 m¬≤ cubiertos,4 habs.
+681,Casa en venta,220000000.0,"Bel√©n Las Violetas, Medell√≠n, Anti...",101 m¬≤ cubiertos,4 habs.
+682,Casa en venta,4300000000.0,"El Poblado, Medell√≠n, Antioquia",785 m¬≤ cubiertos,6 habs.
+683,Casa en venta,400000000.0,"La Am√©rica, Medell√≠n, Antioquia",137 m¬≤ cubiertos,5 habs.
+684,Casa en venta,270000000.0,"Aranjuez, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+685,Finca en venta,900000000.0,"Santa Elena, Medell√≠n, Antioquia","1,600 m¬≤ cubiertos",3 habs.
+686,Casa en venta,2500000000.0,"Laureles, Medell√≠n, Antioquia",297 m¬≤ cubiertos,4 habs.
+687,Casa en venta,310000000.0,"Floresta, Medell√≠n, Antioquia",95 m¬≤ cubiertos,4 habs.
+688,Casa en venta,2600000000.0,"Medell√≠n, Antioquia",400 m¬≤ cubiertos,4 habs.
+689,Casa en venta,380000000.0,"Santa Elena, Medell√≠n, Antioquia",100 m¬≤ cubiertos,2 habs.
+690,Casa en venta,570000000.0,"Bel√©n, Medell√≠n, Antioquia",150 m¬≤ cubiertos,3 habs.
+691,Casa en venta,290000000.0,"Buenos Aires, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+692,Casa en venta,210000000.0,"Buenos Aires, Medell√≠n, Antioquia",80 m¬≤ cubiertos,2 habs.
+693,Casa en venta,9999999999.0,"Avenida Las Palmas, Medell√≠n, Anti...","1,575 m¬≤ cubiertos",5 habs.
+694,Finca en venta,900000000.0,"Santa Elena, Medell√≠n, Antioquia, ...","3,047 m¬≤ cubiertos",3 habs.
+695,Casa en venta,2000000000.0,"San Antonio De Prado, Medell√≠n, An...",580 m¬≤ cubiertos,11 habs.
+696,Casa en venta,6500000000.0,"Las Palmas, El Poblado, Medell√≠n, ...",800 m¬≤ cubiertos,6 habs.
+697,Casa en venta,149000000.0,"San Javier, Medell√≠n, Antioquia",51 m¬≤ cubiertos,2 habs.
+698,Casa en venta,5800000000.0,"Las Palmas, Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+699,Casa en venta,470000000.0,"Guayabal, Medell√≠n, Antioquia",108 m¬≤ cubiertos,5 habs.
+700,Casa en venta,210000000.0,"Castilla, Medell√≠n, Antioquia",95 m¬≤ cubiertos,3 habs.
+701,Casa en venta,830000000.0,"La Am√©rica, Medell√≠n, Antioquia",210 m¬≤ cubiertos,4 habs.
+702,Casa en venta,285000000.0,"Rodeo Alto, Medell√≠n, Antioquia",80 m¬≤ cubiertos,4 habs.
+703,Casa en venta,490000000.0,"Bel√©n, Medell√≠n, Antioquia, Colomb...",135 m¬≤ cubiertos,4 habs.
+704,Apartamento en venta,360000000.0,"Laureles, Medell√≠n, Antioquia",76 m¬≤ cubiertos,3 habs.
+705,Casa en venta,580000000.0,"Floresta, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+706,Casa en venta,310000000.0,"Belen Las Playas  3147173171, Bel√©...",63 m¬≤ cubiertos,3 habs.
+707,Casa en venta,950000000.0,"Santa Elena, Medell√≠n, Antioquia",162 m¬≤ cubiertos,3 habs.
+708,Casa en venta,980000000.0,"Buenos Aires, Medell√≠n, Antioquia",265 m¬≤ cubiertos,1 hab.
+709,Casa en venta,360000000.0,"Boston, Medell√≠n, Antioquia",176 m¬≤ cubiertos,6 habs.
+710,Casa en venta,650000000.0,"Vereda El Jardin, Medell√≠n, Antioq...",150 m¬≤ cubiertos,3 habs.
+711,Casa en venta,330000000.0,"Buenos Aires, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+712,Casa en venta,1900000000.0,"Envigado Loma Del Escobero, Medell...",290 m¬≤ cubiertos,3 habs.
+713,Casa en venta,4300000000.0,"El Poblado, Medell√≠n, Antioquia",540 m¬≤ cubiertos,3 habs.
+714,Casa en venta,510000000.0,"Calasanz, Medell√≠n, Antioquia",110 m¬≤ cubiertos,3 habs.
+715,Casa en venta,176000000.0,"Robledo, Medell√≠n, Antioquia",49 m¬≤ cubiertos,3 habs.
+716,Casa en venta,290000000.0,"Manrrique, Medell√≠n, Antioquia",150 m¬≤ cubiertos,3 habs.
+717,Casa en venta,950000000.0,"Floresta, Medell√≠n, Antioquia",223 m¬≤ cubiertos,5 habs.
+718,Casa en venta,740000000.0,"Bel√©n, Medell√≠n, Antioquia",240 m¬≤ cubiertos,5 habs.
+719,Casa en venta,375000000.0,"La Am√©rica, Medell√≠n, Antioquia",145 m¬≤ cubiertos,4 habs.
+720,Apartamento en venta,245000000.0,"Medell√≠n, Antioquia, Colombia, Bue...",128 m¬≤ cubiertos,3 habs.
+721,Casa en venta,700000000.0,"Bel√©n, Medell√≠n, Antioquia",190 m¬≤ cubiertos,6 habs.
+722,Casa en venta,700000000.0,"Manrrique Central, Medell√≠n, Antio...",280 m¬≤ cubiertos,5 habs.
+723,Casa en venta,200000000.0,"Madera, Medell√≠n, Antioquia",79 m¬≤ cubiertos,4 habs.
+724,Casa en venta,350000000.0,"Florencia, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+725,Casa en arriendo,3500000.0,"Santa M√≥nica, Medell√≠n, Antioquia",220 m¬≤ cubiertos,4 habs.
+726,Apartamento en venta,310000000.0,"Robledo Diamante, Medell√≠n, Antioq...",120 m¬≤ cubiertos,4 habs.
+727,Casa en venta,350000000.0,"Bel√©n La Gloria  3147173171, Bel√©n...",140 m¬≤ cubiertos,4 habs.
+728,Casa en venta,3700000000.0,"Oriente, Medell√≠n, Antioquia",450 m¬≤ cubiertos,3 habs.
+729,Casa en venta,3800000000.0,"El Poblado, Medell√≠n, Antioquia",900 m¬≤ cubiertos,8 habs.
+730,Casa en venta,700000000.0,"Bel√©n, Medell√≠n, Antioquia",238 m¬≤ cubiertos,7 habs.
+731,Casa en venta,7300000000.0,"Las Palmas, Medell√≠n, Antioquia","1,500 m¬≤ cubiertos",5 habs.
+732,Casa en venta,210000000.0,"San Antonio De Prado, Medell√≠n, An...",74 m¬≤ cubiertos,2 habs.
+733,Casa en venta,520000000.0,"Villa Hermosa, Medell√≠n, Antioquia",283 m¬≤ cubiertos,4 habs.
+734,Casa en venta,250000000.0,"Castilla, Medell√≠n, Antioquia",100 m¬≤ cubiertos,3 habs.
+735,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",227 m¬≤ cubiertos,4 habs.
+736,Casa en venta,370000000.0,"Aranjuez, Medell√≠n, Antioquia",156 m¬≤ cubiertos,5 habs.
+737,Apartamento en venta,860000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,9 habs.
+738,Casa en venta,650000000.0,"Bel√©n, Medell√≠n, Antioquia",183 m¬≤ cubiertos,4 habs.
+739,Casa en venta,2700000000.0,"Las Palmas, Medell√≠n, Antioquia",413 m¬≤ cubiertos,3 habs.
+740,Casa en venta,260000000.0,"Olaya Herrera, Medell√≠n, Antioquia",100 m¬≤ cubiertos,3 habs.
+741,Casa en venta,140000000.0,"Robledo Pajarito, Medell√≠n, Antioq...",53 m¬≤ cubiertos,3 habs.
+742,Casa en venta,2290000000.0,"El Poblado, Medell√≠n, Antioquia",297 m¬≤ cubiertos,3 habs.
+743,Casa en venta,620000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+744,Casa en venta,315000000.0,"Buenos Aires, Medell√≠n, Antioquia",103 m¬≤ cubiertos,3 habs.
+745,Casa en venta,380000000.0,"Guayabal, Medell√≠n, Antioquia",130 m¬≤ cubiertos,3 habs.
+746,Casa en venta,450000000.0,"La Am√©rica, Medell√≠n, Antioquia",180 m¬≤ cubiertos,3 habs.
+747,Casa en venta,640000000.0,"Calazans, Medell√≠n, Antioquia",135 m¬≤ cubiertos,4 habs.
+748,Finca en venta,2150000000.0,"San Crist√≥bal, Medell√≠n, Antioquia",155 m¬≤ cubiertos,4 habs.
+749,Casa en venta,1400000000.0,"Laureles, Medell√≠n, Antioquia",281 m¬≤ cubiertos,5 habs.
+750,Casa en venta,4450000000.0,"Las Palmas, Medell√≠n, Antioquia",554 m¬≤ cubiertos,4 habs.
+751,Casa en venta,300000000.0,"Medell√≠n, Antioquia",554 m¬≤ cubiertos,4 habs.
+752,Casa en venta,550000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",141 m¬≤ cubiertos,3 habs.
+753,Casa en venta,380000000.0,"Floresta, Medell√≠n, Antioquia",84 m¬≤ cubiertos,3 habs.
+754,Casa en venta,4600000000.0,"Palmas, Medell√≠n, Antioquia",529 m¬≤ cubiertos,4 habs.
+755,Casa en venta,4380000000.0,"Poblado Las Palmas, Medell√≠n, Anti...","1,845 m¬≤ cubiertos",3 habs.
+756,Casa en venta,525000000.0,"Prado Centro, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+757,Casa en venta,2800000000.0,"Poblado Alto De Las Palmas, Medell...",269 m¬≤ cubiertos,3 habs.
+758,Casa en venta,4000000000.0,"Las Palmas, Medell√≠n, Antioquia",800 m¬≤ cubiertos,5 habs.
+759,Casa en venta,370000000.0,"Manrique, Medell√≠n, Antioquia",106 m¬≤ cubiertos,4 habs.
+760,Casa en venta,580000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",176 m¬≤ cubiertos,3 habs.
+761,Casa en venta,586000000.0,"La Am√©rica, Medell√≠n, Antioquia",403 m¬≤ cubiertos,8 habs.
+762,Finca en venta,500000000.0,"Vereda Llano Alto Sn, San Crist√≥ba...",104 m¬≤ cubiertos,3 habs.
+763,Casa en venta,520000000.0,"San Germ√°n, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+764,Casa en venta,580000000.0,"San Javier, Medell√≠n, Antioquia",169 m¬≤ cubiertos,4 habs.
+765,Casa en venta,2500000000.0,"Las Palmas, Medell√≠n, Antioquia",260 m¬≤ cubiertos,5 habs.
+766,Casa en venta,350000000.0,"Guayabal, Medell√≠n, Antioquia",108 m¬≤ cubiertos,5 habs.
+767,Casa en venta,990000000.0,"El Poblado, Medell√≠n, Antioquia",240 m¬≤ cubiertos,3 habs.
+768,Casa en venta,1250000000.0,"Laureles, Medell√≠n, Antioquia",237 m¬≤ cubiertos,6 habs.
+769,Casa en venta,3200000000.0,"Palmas, Medell√≠n, Antioquia",595 m¬≤ cubiertos,5 habs.
+770,Casa en arriendo,1125000.0,"Robledo, Medell√≠n, Antioquia",65 m¬≤ cubiertos,2 habs.
+771,Casa en venta,250000000.0,"Loreto, Medell√≠n, Antioquia",101 m¬≤ cubiertos,3 habs.
+772,Casa en venta,360000000.0,"Gratamira, Medell√≠n, Antioquia",200 m¬≤ cubiertos,7 habs.
+773,Casa en venta,4550000000.0,"Las Palmas, Medell√≠n, Antioquia",520 m¬≤ cubiertos,3 habs.
+774,Casa en venta,290000000.0,"Bel√©n San Bernardo  3147173171, Be...",90 m¬≤ cubiertos,2 habs.
+775,Casa en venta,3000000000.0,"Oriente, Medell√≠n, Antioquia",785 m¬≤ cubiertos,4 habs.
+776,Casa en venta,590000000.0,"Calasanz, Medell√≠n, Antioquia",97 m¬≤ cubiertos,3 habs.
+777,Casa en venta,270000000.0,"Castilla, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+778,Casa en venta,4700000000.0,"Alto Las Palmas, Medell√≠n, Antioqu...","4,221 m¬≤ cubiertos",5 habs.
+779,Casa en venta,310000000.0,"Castilla, Medell√≠n, Antioquia",175 m¬≤ cubiertos,7 habs.
+780,Casa en venta,820000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",320 m¬≤ cubiertos,6 habs.
+781,Casa en venta,255000000.0,"Florencia, Medell√≠n, Antioquia",100 m¬≤ cubiertos,3 habs.
+782,Casa en venta,1200000000.0,"Bel√©n, Medell√≠n, Antioquia",300 m¬≤ cubiertos,5 habs.
+783,Casa en venta,600000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",100 m¬≤ cubiertos,3 habs.
+784,Casa en venta,370000000.0,"Manrique, Medell√≠n, Antioquia",106 m¬≤ cubiertos,4 habs.
+785,Casa en venta,980000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",301 m¬≤ cubiertos,8 habs.
+786,Casa en venta,500000000.0,"Estadio, Medell√≠n, Antioquia",87 m¬≤ cubiertos,2 habs.
+787,Casa en venta,800000000.0,"Bel√©n, Medell√≠n, Antioquia",223 m¬≤ cubiertos,4 habs.
+788,Casa en venta,370000000.0,"Manrique, Medell√≠n, Antioquia",106 m¬≤ cubiertos,4 habs.
+789,Casa en venta,4500000000.0,"El Poblado, Medell√≠n, Antioquia, C...",520 m¬≤ cubiertos,3 habs.
+790,Casa en venta,750000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",180 m¬≤ cubiertos,6 habs.
+791,Casa en venta,1230000000.0,"Medell√≠n, Antioquia",215 m¬≤ cubiertos,3 habs.
+792,Apartamento en venta,5500000000.0,"El Poblado, Medell√≠n, Antioquia",600 m¬≤ cubiertos,5 habs.
+793,Casa en venta,315000000.0,"Buenos Aires, Medell√≠n, Antioquia",103 m¬≤ cubiertos,3 habs.
+794,Casa en venta,1850000000.0,"El Poblado, Medell√≠n, Antioquia",505 m¬≤ cubiertos,4 habs.
+795,Lote y casalote en venta,400000000.0,"La Cuchilla  Sn, San Crist√≥bal, Me...",505 m¬≤ cubiertos,4 habs.
+796,Casa en venta,990000000.0,"Medell√≠n, Antioquia",193 m¬≤ cubiertos,3 habs.
+797,Casa en venta,250000000.0,"Campo Vald√©s 2, Medell√≠n, Antioquia",117 m¬≤ cubiertos,3 habs.
+798,Casa en venta,280000000.0,"Bel√©n, Medell√≠n, Antioquia",151 m¬≤ cubiertos,3 habs.
+799,Casa en venta,1200000000.0,"Floresta, Medell√≠n, Antioquia",240 m¬≤ cubiertos,5 habs.
+800,Casa en venta,270000000.0,"Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+801,Casa en venta,1325000000.0,"Estadio, Laureles - Estadio, Medel...",237 m¬≤ cubiertos,6 habs.
+802,Casa en venta,238000000.0,"San Javier, Medell√≠n, Antioquia",73 m¬≤ cubiertos,3 habs.
+803,Casa en venta,600000000.0,"Laureles, Medell√≠n, Antioquia",207 m¬≤ cubiertos,4 habs.
+804,Casa en venta,290000000.0,"Castilla, Medell√≠n, Antioquia",147 m¬≤ cubiertos,5 habs.
+805,Casa en venta,600000000.0,"Alfonso  Lopez, Medell√≠n, Antioquia",188 m¬≤ cubiertos,7 habs.
+806,Casa en venta,343000000.0,"La Milagrosa, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+807,Apartamento en venta,1200000000.0,"Estadio, Medell√≠n, Antioquia",147 m¬≤ cubiertos,4 habs.
+808,Casa en venta,2850000000.0,"Medell√≠n, Antioquia, Colombia, El ...",411 m¬≤ cubiertos,4 habs.
+809,Casa en venta,1650000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",332 m¬≤ cubiertos,5 habs.
+810,Casa en venta,1200000000.0,"Estadio, Laureles - Estadio, Medel...",249 m¬≤ cubiertos,4 habs.
+811,Casa en venta,500000000.0,"Prado Centro, Medell√≠n, Antioquia",134 m¬≤ cubiertos,3 habs.
+812,Apartamento en venta,1490000000.0,"Medellin , El Poblado , Los Balsos...",265 m¬≤ cubiertos,5 habs.
+813,Casa en venta,350000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",92 m¬≤ cubiertos,3 habs.
+814,Casa en venta,600000000.0,"El Danubio, Medell√≠n, Antioquia",237 m¬≤ cubiertos,8 habs.
+815,Casa en venta,2800000000.0,"Altos Del Poblado, Medell√≠n, Antio...",356 m¬≤ cubiertos,4 habs.
+816,Casa en venta,720000000.0,"Bel√©n Miravalle, Medell√≠n, Antioqu...",160 m¬≤ cubiertos,4 habs.
+817,Finca en venta,1350000000.0,"6gm9+jq Medellin, Antioquia, Colom...",298 m¬≤ cubiertos,4 habs.
+818,Casa en venta,365000000.0,"Robledo, Medell√≠n, Antioquia",230 m¬≤ cubiertos,6 habs.
+819,Casa en venta,250000000.0,"Boyac√° Las Brisas, Medell√≠n, Antio...",73 m¬≤ cubiertos,3 habs.
+820,Casa en venta,1580000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",250 m¬≤ cubiertos,6 habs.
+821,Apartamento en venta,630000000.0,"La Mota, Medell√≠n, Antioquia",140 m¬≤ cubiertos,3 habs.
+822,Casa en venta,800000000.0,"Santa Teresita, Medell√≠n, Antioqui...",140 m¬≤ cubiertos,3 habs.
+823,Casa en venta,355000000.0,"Guayabal, Medell√≠n, Antioquia",132 m¬≤ cubiertos,4 habs.
+824,Casa en venta,680000000.0,"El Nogal, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+825,Casa en venta,150000000.0,"Zona 3 - Centro Oriental, Medell√≠n...",108 m¬≤ cubiertos,4 habs.
+826,Casa en venta,700000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",127 m¬≤ cubiertos,4 habs.
+827,Casa en venta,305000000.0,"Aranjuez, Medell√≠n, Antioquia",74 m¬≤ cubiertos,3 habs.
+828,Casa en arriendo,1700000.0,"Robledo, Medell√≠n, Antioquia",180 m¬≤ cubiertos,3 habs.
+829,Casa en venta,1000000000.0,"Conquistadores, Medell√≠n, Antioquia",217 m¬≤ cubiertos,4 habs.
+830,Casa en venta,1200000000.0,"Poblado Medellin, Medell√≠n, Antioq...",275 m¬≤ cubiertos,3 habs.
+831,Casa en venta,1250000000.0,"El Poblado, Medell√≠n, Antioquia",169 m¬≤ cubiertos,4 habs.
+832,Casa en venta,275000000.0,"Robledo, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+833,Casa en venta,1650000000.0,"La Palma, Bel√©n, Medell√≠n, Antioqu...",283 m¬≤ cubiertos,4 habs.
+834,Casa en venta,490000000.0,"La Mota, Bel√©n La Mota, Medell√≠n, ...",189 m¬≤ cubiertos,5 habs.
+835,Casa en venta,450000000.0,"La Mota, Medell√≠n, Antioquia",134 m¬≤ cubiertos,3 habs.
+836,Casa en venta,570000000.0,"La Am√©rica, Medell√≠n, Antioquia",172 m¬≤ cubiertos,5 habs.
+837,Casa en venta,898000000.0,"Bombon√°, Medell√≠n, Antioquia",384 m¬≤ cubiertos,10 habs.
+838,Lote y casalote en venta,970000000.0,"Carrera 78 #45e-37, Laureles - Est...",208 m¬≤ cubiertos,5 habs.
+839,Casa en venta,160000000.0,"Pedregal, Medell√≠n, Antioquia",208 m¬≤ cubiertos,5 habs.
+840,Casa en venta,1085000000.0,"Loma El Campestre, Poblado Medelli...",227 m¬≤ cubiertos,4 habs.
+841,Casa en venta,470000000.0,"Boston, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+842,Lote y casalote en venta,1100000000.0,"Laureles, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+843,Casa en venta,580000000.0,"12 De Otubre, Medell√≠n, Antioquia",112 m¬≤ cubiertos,5 habs.
+844,Casa en venta,1150000000.0,"San Lucas, Medell√≠n, Antioquia",221 m¬≤ cubiertos,3 habs.
+845,Casa en venta,650000000.0,"Vereda El Jardin, Medell√≠n, Antioq...",150 m¬≤ cubiertos,3 habs.
+846,Casa en venta,780000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",156 m¬≤ cubiertos,3 habs.
+847,Casa en venta,275000000.0,"Robledo, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+848,Casa en venta,547000000.0,"Calasanz, Medell√≠n, Antioquia",154 m¬≤ cubiertos,3 habs.
+849,Casa en venta,1100000000.0,"Los Colores, Medell√≠n, Antioquia",234 m¬≤ cubiertos,5 habs.
+850,Casa en venta,240000000.0,"Florencia, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+851,Casa en venta,165000000.0,"Doce De Octubre, Medell√≠n, Antioqu...",66 m¬≤ cubiertos,3 habs.
+852,Apartamento en venta,290000000.0,"Campo Vald√©s, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+853,Casa en venta,1250000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+854,Casa en venta,280000000.0,"Buenos Aires, Medell√≠n, Antioquia",100 m¬≤ cubiertos,3 habs.
+855,Casa en venta,750000000.0,"San Antonio De Pereira, Medell√≠n, ...",165 m¬≤ cubiertos,4 habs.
+856,Casa en venta,430000000.0,"Prado Centro, Medell√≠n, Antioquia",139 m¬≤ cubiertos,3 habs.
+857,Casa en venta,250000000.0,"Aranjuez, Medell√≠n, Antioquia",189 m¬≤ cubiertos,5 habs.
+858,Casa en venta,460000000.0,"Campo Valdez, Medell√≠n, Antioquia",100 m¬≤ cubiertos,6 habs.
+859,Casa en venta,585000000.0,"Florida Nueva, Laureles - Estadio,...",141 m¬≤ cubiertos,5 habs.
+860,Casa en venta,760000000.0,"Robledo, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+861,Casa en venta,290000000.0,"San Antonio De Prado, Medell√≠n, An...",150 m¬≤ cubiertos,6 habs.
+862,Casa en venta,850000000.0,"Santa Elena, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+863,Casa en venta,1860000000.0,"El Poblado, Medell√≠n, Antioquia",379 m¬≤ cubiertos,4 habs.
+864,Casa en venta,360000000.0,"Buenos Aires, Medell√≠n, Antioquia",169 m¬≤ cubiertos,3 habs.
+865,Casa en venta,976000000.0,"Estadio, Medell√≠n, Antioquia",244 m¬≤ cubiertos,5 habs.
+866,Casa en venta,200000000.0,"Campo Valdes, Medell√≠n, Antioquia",75 m¬≤ cubiertos,3 habs.
+867,Casa en venta,610000000.0,"Laureles, Medell√≠n, Antioquia",171 m¬≤ cubiertos,5 habs.
+868,Casa en venta,950000000.0,"La Castellana, Laureles - Estadio,...",190 m¬≤ cubiertos,4 habs.
+869,Casa en venta,160000000.0,"Robledo Pajarito, Medell√≠n, Antioq...",58 m¬≤ cubiertos,3 habs.
+870,Casa en venta,290000000.0,"Villa Hermosa, Medell√≠n, Antioquia",112 m¬≤ cubiertos,4 habs.
+871,Casa en venta,550000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",112 m¬≤ cubiertos,3 habs.
+872,Casa en venta,1200000000.0,"Santa Elena, Medell√≠n, Antioquia",215 m¬≤ cubiertos,3 habs.
+873,Finca en venta,680000000.0,"Parque Arvi  Sn, Santa Elena, Mede...",150 m¬≤ cubiertos,4 habs.
+874,Casa en venta,1600000000.0,"Santa Elena, Medell√≠n, Antioquia",267 m¬≤ cubiertos,2 habs.
+875,Casa en venta,2020000000.0,"San Antonio De Prado, Medell√≠n, An...",580 m¬≤ cubiertos,11 habs.
+876,Casa en venta,1100000000.0,"Bel√©n, Medell√≠n, Antioquia, Colomb...",230 m¬≤ cubiertos,4 habs.
+877,Casa en venta,280000000.0,"Bel√©n Los Alpes 3147173171, Bel√©n,...",97 m¬≤ cubiertos,3 habs.
+878,Casa en venta,3000000000.0,"Medell√≠n, Antioquia",625 m¬≤ cubiertos,14 habs.
+879,Casa en venta,135000000.0,"12 De Otubre, Medell√≠n, Antioquia",43 m¬≤ cubiertos,2 habs.
+880,Casa en venta,396000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",82 m¬≤ cubiertos,3 habs.
+881,Casa en venta,1300000000.0,"Medell√≠n, Antioquia",244 m¬≤ cubiertos,3 habs.
+882,Casa en arriendo,4000000.0,"Envigado, Camino Verde, Medell√≠n, ...",117 m¬≤ cubiertos,3 habs.
+883,Casa en venta,230000000.0,"Robledo, Medell√≠n, Antioquia",74 m¬≤ cubiertos,4 habs.
+884,Casa en venta,530000000.0,"Campo Amor, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+885,Casa en venta,580000000.0,"Santa Monica., Medell√≠n, Antioquia",123 m¬≤ cubiertos,3 habs.
+886,Casa en venta,152000000.0,"San Antonio De Prado, Medell√≠n, An...",52 m¬≤ cubiertos,2 habs.
+887,Casa en venta,4600000000.0,"El Poblado, Medell√≠n, Antioquia",447 m¬≤ cubiertos,4 habs.
+888,Casa en venta,560000000.0,"12 De Otubre, Medell√≠n, Antioquia",94 m¬≤ cubiertos,4 habs.
+889,Casa en venta,370000000.0,"Bel√©n, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+890,Casa en venta,190000000.0,"Campo Valdes, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+891,Apartamento en venta,380000000.0,"Santa Monica., Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+892,Casa en venta,1800000000.0,"El Poblado, Medell√≠n, Antioquia",400 m¬≤ cubiertos,5 habs.
+893,Casa en venta,6500000000.0,"El Poblado, Medell√≠n, Antioquia",700 m¬≤ cubiertos,4 habs.
+894,Casa en venta,1390000000.0,"12 De Otubre, Medell√≠n, Antioquia",404 m¬≤ cubiertos,11 habs.
+895,Casa en venta,1150000000.0,"El Poblado,las Lomas, Medell√≠n, An...",300 m¬≤ cubiertos,4 habs.
+896,Casa en venta,2520000000.0,"Laureles, Medell√≠n, Antioquia",392 m¬≤ cubiertos,4 habs.
+897,Apartamento en venta,175000000.0,"San Antonio De Prado, Medell√≠n, An...",60 m¬≤ cubiertos,3 habs.
+898,Finca en venta,170000000.0,"Aranjuez, Medell√≠n, Antioquia",50 m¬≤ cubiertos,2 habs.
+899,Casa en venta,750000000.0,"La Castellana, Medell√≠n, Antioquia",315 m¬≤ cubiertos,5 habs.
+900,Casa en venta,425000000.0,"Bel√©n La Nubia, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+901,Casa en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia, Col...",270 m¬≤ cubiertos,3 habs.
+902,Casa en venta,970000000.0,"Laureles, Medell√≠n, Antioquia",235 m¬≤ cubiertos,5 habs.
+903,Casa en venta,650000000.0,"La Castellana, Laureles - Estadio,...",176 m¬≤ cubiertos,4 habs.
+904,Casa en venta,380000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",102 m¬≤ cubiertos,5 habs.
+905,Casa en venta,990000000.0,"Los Colores, Medell√≠n, Antioquia",323 m¬≤ cubiertos,5 habs.
+906,Casa en venta,290000000.0,"Buenos Aires, Medell√≠n, Antioquia",89 m¬≤ cubiertos,3 habs.
+907,Casa en venta,640000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",214 m¬≤ cubiertos,4 habs.
+908,Casa en venta,290000000.0,"Robledo, Medell√≠n, Antioquia",117 m¬≤ cubiertos,6 habs.
+909,Casa en venta,340000000.0,"La Milagrosa, Medell√≠n, Antioquia",110 m¬≤ cubiertos,3 habs.
+910,Casa en venta,6000000000.0,"Palmas, Medell√≠n, Antioquia",800 m¬≤ cubiertos,5 habs.
+911,Casa en venta,350000000.0,"Florencia, Medell√≠n, Antioquia",140 m¬≤ cubiertos,5 habs.
+912,Casa en venta,5500000000.0,"Las Palmas, Medell√≠n, Antioquia",412 m¬≤ cubiertos,4 habs.
+913,Casa en venta,370000000.0,"Prado Centro, Medell√≠n, Antioquia",126 m¬≤ cubiertos,4 habs.
+914,Casa en venta,300000000.0,"San Germ√°n, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+915,Casa en venta,1900000000.0,"Laureles, Medell√≠n, Antioquia",319 m¬≤ cubiertos,7 habs.
+916,Casa en venta,388000000.0,"Los √Ångeles, Medell√≠n, Antioquia",142 m¬≤ cubiertos,5 habs.
+917,Casa en venta,240000000.0,"Buenos Aires, Medell√≠n, Antioquia",80 m¬≤ cubiertos,4 habs.
+918,Casa en venta,510000000.0,"0 0, Santa M√≥nica, Medell√≠n, Antio...",199 m¬≤ cubiertos,3 habs.
+919,Casa en venta,9700000000.0,"El Poblado, Medell√≠n, Antioquia",680 m¬≤ cubiertos,4 habs.
+920,Casa en venta,380000000.0,"Los √Ångeles, Medell√≠n, Antioquia",142 m¬≤ cubiertos,5 habs.
+921,Casa en venta,375000000.0,"Cra. 75 #2b Sur, Medell√≠n, Antioqu...",84 m¬≤ cubiertos,4 habs.
+922,Casa en venta,800000000.0,"Laureles, Medell√≠n, Antioquia",255 m¬≤ cubiertos,4 habs.
+923,Casa en venta,240000000.0,"Florencia, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+924,Casa en venta,380000000.0,"Loma Del Indio, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+925,Casa en venta,175000000.0,"Castilla, Medell√≠n, Antioquia",85 m¬≤ cubiertos,3 habs.
+926,Casa en venta,2500000000.0,"Drive Inn Campestre, Medell√≠n, Ant...",489 m¬≤ cubiertos,4 habs.
+927,Casa en venta,380000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",108 m¬≤ cubiertos,3 habs.
+928,Casa en venta,280000000.0,"Aranjuez, Medell√≠n, Antioquia",114 m¬≤ cubiertos,4 habs.
+929,Casa en venta,650000000.0,"Calle 32e #78, Medell√≠n, Antioquia...",187 m¬≤ cubiertos,4 habs.
+930,Casa en venta,330000000.0,"San Crist√≥bal, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+931,Casa en arriendo,1350000.0,"Robledo El Diamante, Medell√≠n, Ant...",111 m¬≤ cubiertos,4 habs.
+932,Casa en venta,380000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",102 m¬≤ cubiertos,5 habs.
+933,Casa en venta,380000000.0,"Candelaria, Medell√≠n, Antioquia",142 m¬≤ cubiertos,5 habs.
+934,Casa en venta,160000000.0,"Medell√≠n, Antioquia",80 m¬≤ cubiertos,2 habs.
+935,Casa en venta,450000000.0,"Medell√≠n, Antioquia, Colombia, Gua...",130 m¬≤ cubiertos,4 habs.
+936,Casa en venta,1250000000.0,"Estadio, Medell√≠n, Antioquia",237 m¬≤ cubiertos,6 habs.
+937,Casa en arriendo,3100000.0,"Laureles, Medell√≠n, Antioquia",151 m¬≤ cubiertos,2 habs.
+938,Casa en venta,290000000.0,"Aranjuez, Medell√≠n, Antioquia",93 m¬≤ cubiertos,4 habs.
+939,Finca en venta,650000000.0,"Robledo, Medell√≠n, Antioquia",320 m¬≤ cubiertos,5 habs.
+940,Casa en venta,450000000.0,"Guayabal, Medell√≠n, Antioquia",86 m¬≤ cubiertos,3 habs.
+941,Casa en venta,3200000000.0,"Las Palmas, Medell√≠n, Antioquia",300 m¬≤ cubiertos,3 habs.
+942,Casa en venta,900000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+943,Casa en venta,1850000000.0,"Medell√≠n, Antioquia",350 m¬≤ cubiertos,4 habs.
+944,Casa en venta,445000000.0,"Santa Cruz, Medell√≠n, Antioquia",227 m¬≤ cubiertos,4 habs.
+945,Casa en venta,150000000.0,"Villa Flora, Robledo, Medell√≠n, An...",55 m¬≤ cubiertos,3 habs.
+946,Casa en venta,380000000.0,"San Crist√≥bal, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+947,Casa en venta,330000000.0,"Pedregal, Medell√≠n, Antioquia",116 m¬≤ cubiertos,4 habs.
+948,Casa en venta,320000000.0,"Calle 66 #43, Medell√≠n, Antioquia,...",105 m¬≤ cubiertos,4 habs.
+949,Casa en venta,190000000.0,"Bel√©n, Medell√≠n, Antioquia",42 m¬≤ cubiertos,1 hab.
+950,Casa en venta,235000000.0,"Robledo, Medell√≠n, Antioquia",110 m¬≤ cubiertos,5 habs.
+951,Casa en venta,650000000.0,"Los Colores, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+952,Casa en venta,800000000.0,"Laureles, Medell√≠n, Antioquia",215 m¬≤ cubiertos,4 habs.
+953,Casa en venta,9500000000.0,"El Poblado, Medell√≠n, Antioquia","1,000 m¬≤ cubiertos",6 habs.
+954,Casa en venta,650000000.0,"Los Colores, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+955,Casa en venta,325000000.0,"Villa Hermosa, Medell√≠n, Antioquia",107 m¬≤ cubiertos,2 habs.
+956,Casa en venta,230000000.0,"Robledo, Medell√≠n, Antioquia",96 m¬≤ cubiertos,4 habs.
+957,Casa en venta,2800000000.0,"Las Palmas, Medell√≠n, Antioquia",400 m¬≤ cubiertos,4 habs.
+958,Casa en venta,9800000000.0,"Palmas, Medell√≠n, Antioquia","1,150 m¬≤ cubiertos",5 habs.
+959,Casa en venta,5500000000.0,"El Poblado, Medell√≠n, Antioquia","1,050 m¬≤ cubiertos",5 habs.
+960,Apartamento en venta,700000000.0,"El Poblado, Medell√≠n, Antioquia",276 m¬≤ cubiertos,3 habs.
+961,Casa en venta,430000000.0,"Calasanz, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+962,Casa en venta,699000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",225 m¬≤ cubiertos,3 habs.
+963,Casa en venta,450000000.0,"Bel√©n, Medell√≠n, Antioquia",107 m¬≤ cubiertos,3 habs.
+964,Apartamento en venta,5800000000.0,"Las Palmas, Medell√≠n, Antioquia",450 m¬≤ cubiertos,4 habs.
+965,Casa en venta,240000000.0,"Manrique, Medell√≠n, Antioquia",80 m¬≤ cubiertos,4 habs.
+966,Casa en venta,3500000000.0,"Laureles, Medell√≠n, Antioquia",713 m¬≤ cubiertos,5 habs.
+967,Casa en venta,230000000.0,"Buenos Aires, Medell√≠n, Antioquia",65 m¬≤ cubiertos,3 habs.
+968,Casa en venta,555000000.0,"Bel√©n, Medell√≠n, Antioquia",156 m¬≤ cubiertos,5 habs.
+969,Casa en venta,220000000.0,"Castilla, Medell√≠n, Antioquia",66 m¬≤ cubiertos,4 habs.
+970,Casa en venta,740000000.0,"Laureles, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+971,Casa en venta,450000000.0,"Buenos Aires, Medell√≠n, Antioquia",211 m¬≤ cubiertos,7 habs.
+972,Casa en venta,1400000000.0,"Las Palmas, Medell√≠n, Antioquia",260 m¬≤ cubiertos,4 habs.
+973,Casa en venta,200000000.0,"Manrique Central, Medell√≠n, Antioq...",89 m¬≤ cubiertos,3 habs.
+974,Casa en venta,1450000000.0,"Medell√≠n, Antioquia",376 m¬≤ cubiertos,4 habs.
+975,Apartamento en venta,195000000.0,"Robledo, Medell√≠n, Antioquia",70 m¬≤ cubiertos,3 habs.
+976,Casa en venta,600000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",160 m¬≤ cubiertos,4 habs.
+977,Casa en venta,750000000.0,"El Poblado, Medell√≠n, Antioquia",228 m¬≤ cubiertos,3 habs.
+978,Casa en venta,545000000.0,"Centro, Medell√≠n, Antioquia",228 m¬≤ cubiertos,8 habs.
+979,Casa en venta,420000000.0,"Bel√©n, Medell√≠n, Antioquia, Colomb...",113 m¬≤ cubiertos,3 habs.
+980,Casa en venta,1800000000.0,"Las Palmas, Medell√≠n, Antioquia",255 m¬≤ cubiertos,4 habs.
+981,Casa en venta,500000000.0,"Floresta, Medell√≠n, Antioquia",121 m¬≤ cubiertos,4 habs.
+982,Casa en venta,310000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",82 m¬≤ cubiertos,3 habs.
+983,Casa en venta,9300000000.0,"12 De Otubre, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+984,Casa en venta,620000000.0,"Bel√©n, Medell√≠n, Antioquia",172 m¬≤ cubiertos,3 habs.
+985,Casa en venta,3700000000.0,"Las Palmas, Medell√≠n, Antioquia",455 m¬≤ cubiertos,5 habs.
+986,Casa en venta,380000000.0,"Campo Valdes, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+987,Casa en venta,2600000000.0,"Las Palmas, Medell√≠n, Antioquia",331 m¬≤ cubiertos,5 habs.
+988,Casa en venta,990000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",242 m¬≤ cubiertos,4 habs.
+989,Casa en arriendo,1400000.0,"Medell√≠n, Antioquia",60 m¬≤ cubiertos,3 habs.
+990,Casa en venta,260000000.0,"Aranjuez, Medell√≠n, Antioquia",106 m¬≤ cubiertos,3 habs.
+991,Apartamento en venta,950000000.0,Antioquia Medellin Poblado El Teso...,240 m¬≤ cubiertos,3 habs.
+992,Casa en venta,480000000.0,"Aranjuez, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+993,Casa en venta,1600000000.0,"Santa Elena, Medell√≠n, Antioquia",267 m¬≤ cubiertos,2 habs.
+994,Casa en venta,3900000000.0,"El Poblado, Medell√≠n, Antioquia",577 m¬≤ cubiertos,5 habs.
+995,Casa en venta,1400000000.0,"Santa Elena, Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+996,Casa en venta,320000000.0,"Boston, Medell√≠n, Antioquia",165 m¬≤ cubiertos,4 habs.
+997,Casa en venta,2800000000.0,"Oriente, Medell√≠n, Antioquia",260 m¬≤ cubiertos,4 habs.
+998,Apartamento en venta,4200000000.0,"El Poblado, Medell√≠n, Antioquia",595 m¬≤ cubiertos,4 habs.
+999,Casa en venta,300000000.0,"Bel√©n, Medell√≠n, Antioquia, Colomb...",75 m¬≤ cubiertos,3 habs.
+1000,Apartamento en venta,610000000.0,"El Poblado, Medell√≠n, Antioquia",138 m¬≤ cubiertos,3 habs.
+1001,Casa en venta,180000000.0,"Medell√≠n, Antioquia",78 m¬≤ cubiertos,3 habs.
+1002,Casa en venta,450000000.0,"San Pablo, Medell√≠n, Antioquia",129 m¬≤ cubiertos,6 habs.
+1003,Apartamento en venta,330000000.0,"Bel√©n F√°tima, Medell√≠n, Antioquia",74 m¬≤ cubiertos,2 habs.
+1004,Casa en venta,350000000.0,"Bel√©n Los Alpes, Medell√≠n, Antioqu...",149 m¬≤ cubiertos,5 habs.
+1005,Casa en venta,330000000.0,"Bel√©n, Medell√≠n, Antioquia",117 m¬≤ cubiertos,4 habs.
+1006,Casa en venta,690000000.0,"San Antonio De Prado, Medell√≠n, An...",300 m¬≤ cubiertos,5 habs.
+1007,Casa en venta,205000000.0,"San Javier, Medell√≠n, Antioquia",64 m¬≤ cubiertos,3 habs.
+1008,Casa en venta,4600000000.0,"Los Balsos N¬∞2, Medell√≠n, Antioquia",623 m¬≤ cubiertos,4 habs.
+1009,Casa en venta,480000000.0,"Guayabal, Medell√≠n, Antioquia",160 m¬≤ cubiertos,5 habs.
+1010,Casa en venta,340000000.0,"Guayabal, Medell√≠n, Antioquia",108 m¬≤ cubiertos,3 habs.
+1011,Casa en venta,720000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",170 m¬≤ cubiertos,4 habs.
+1012,Apartamento en venta,750000000.0,"Poblado La Visitacion, Medell√≠n, A...",168 m¬≤ cubiertos,3 habs.
+1013,Casa en venta,290000000.0,"Robledo, Medell√≠n, Antioquia",117 m¬≤ cubiertos,4 habs.
+1014,Casa en venta,280000000.0,"Rodeo Alto, Medell√≠n, Antioquia",108 m¬≤ cubiertos,3 habs.
+1015,Casa en venta,450000000.0,"Laureles, Medell√≠n, Antioquia",135 m¬≤ cubiertos,3 habs.
+1016,Casa en venta,850000000.0,"La Castellana, Medell√≠n, Antioquia",196 m¬≤ cubiertos,4 habs.
+1017,Casa en venta,590000000.0,"Calasanz, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1018,Casa en venta,290000000.0,"Floresta, Medell√≠n, Antioquia",103 m¬≤ cubiertos,4 habs.
+1019,Casa en venta,310000000.0,"Santa Elena, Medell√≠n, Antioquia",70 m¬≤ cubiertos,2 habs.
+1020,Casa en venta,430000000.0,"Rodeo Alto, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1021,Casa en venta,570000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",161 m¬≤ cubiertos,5 habs.
+1022,Casa en venta,525000000.0,"Villa Hermosa, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+1023,Casa en venta,300000000.0,"Manrique, Medell√≠n, Antioquia",161 m¬≤ cubiertos,3 habs.
+1024,Casa en venta,600000000.0,"Laureles, Medell√≠n, Antioquia",182 m¬≤ cubiertos,5 habs.
+1025,Casa en venta,5200000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",700 m¬≤ cubiertos,4 habs.
+1026,Casa en venta,4500000000.0,"Las Palmas, Medell√≠n, Antioquia",817 m¬≤ cubiertos,5 habs.
+1027,Apartamento en venta,420000000.0,"Campo Valdes, Medell√≠n, Antioquia",139 m¬≤ cubiertos,5 habs.
+1028,Casa en venta,3300000000.0,"Las Palmas, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+1029,Casa en venta,3250000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+1030,Casa en venta,145000000.0,"Zona 2 - Noroccidental, Medell√≠n, ...",71 m¬≤ cubiertos,3 habs.
+1031,Casa en venta,940000000.0,"El Poblado, Medell√≠n, Antioquia",216 m¬≤ cubiertos,4 habs.
+1032,Casa en venta,350000000.0,"Pedregal, Medell√≠n, Antioquia",176 m¬≤ cubiertos,4 habs.
+1033,Casa en venta,9500000000.0,"El Poblado, Medell√≠n, Antioquia","1,800 m¬≤ cubiertos",4 habs.
+1034,Casa en venta,3600000000.0,"Las Palmas, Medell√≠n, Antioquia",130 m¬≤ cubiertos,6 habs.
+1035,Apartamento en venta,500000000.0,"Medell√≠n, Antioquia",200 m¬≤ cubiertos,5 habs.
+1036,Casa en venta,290000000.0,"Castilla, Medell√≠n, Antioquia",78 m¬≤ cubiertos,6 habs.
+1037,Casa en venta,190000000.0,"Medellin, Medell√≠n, Antioquia",103 m¬≤ cubiertos,3 habs.
+1038,Casa en venta,180000000.0,"Robledo Pablo Tobon, Medell√≠n, Ant...",65 m¬≤ cubiertos,3 habs.
+1039,Casa en venta,298000000.0,"Robledo, Medell√≠n, Antioquia",85 m¬≤ cubiertos,3 habs.
+1040,Finca en venta,3700000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",455 m¬≤ cubiertos,5 habs.
+1041,Casa en venta,175000000.0,"Robledo, Medell√≠n, Antioquia",72 m¬≤ cubiertos,2 habs.
+1042,Casa en venta,290000000.0,"Buenos Aires, Medell√≠n, Antioquia",121 m¬≤ cubiertos,4 habs.
+1043,Casa en venta,550000000.0,"Bel√©n, Medell√≠n, Antioquia",159 m¬≤ cubiertos,4 habs.
+1044,Casa en venta,4000000000.0,"Las Palmas, Medell√≠n, Antioquia","1,732 m¬≤ cubiertos",5 habs.
+1045,Casa en venta,6980000000.0,"Poblado Balsos, Medell√≠n, Antioquia","1,752 m¬≤ cubiertos",4 habs.
+1046,Casa en venta,1050000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1047,Casa en venta,1880000000.0,"El Poblado, Medell√≠n, Antioquia",277 m¬≤ cubiertos,3 habs.
+1048,Casa en venta,400000000.0,"San Javier, Medell√≠n, Antioquia",117 m¬≤ cubiertos,3 habs.
+1049,Casa en venta,1780000000.0,"Poblado El Tesoro, Medell√≠n, Antio...",387 m¬≤ cubiertos,4 habs.
+1050,Casa en venta,600000000.0,"Cra. 79 #2 Sur-131, Medell√≠n, Anti...",91 m¬≤ cubiertos,5 habs.
+1051,Casa en venta,380000000.0,"Boston, Medell√≠n, Antioquia",142 m¬≤ cubiertos,5 habs.
+1052,Casa en venta,365000000.0,"Conquistadores, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+1053,Casa en venta,215000000.0,"Robledo, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+1054,Casa en venta,5900000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",420 m¬≤ cubiertos,5 habs.
+1055,Casa en venta,4000000000.0,"Las Palmas, Medell√≠n, Antioquia",587 m¬≤ cubiertos,5 habs.
+1056,Casa en venta,990000000.0,"San Crist√≥bal, Medell√≠n, Antioquia",360 m¬≤ cubiertos,6 habs.
+1057,Casa en venta,890000000.0,"Los Colores, Medell√≠n, Antioquia",233 m¬≤ cubiertos,4 habs.
+1058,Casa en venta,650000000.0,"La Mota, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+1059,Casa en venta,3800000000.0,"Las Palmas, Medell√≠n, Antioquia",800 m¬≤ cubiertos,5 habs.
+1060,Finca en venta,3600000000.0,"Medell√≠n, Antioquia",421 m¬≤ cubiertos,6 habs.
+1061,Casa en venta,350000000.0,"La Pradera, Medell√≠n, Antioquia",155 m¬≤ cubiertos,4 habs.
+1062,Casa en venta,4500000000.0,"Cerca Al Tesoro, Medell√≠n, Antioqu...",520 m¬≤ cubiertos,5 habs.
+1063,Casa en venta,1200000000.0,"El Poblado, Medell√≠n, Antioquia",227 m¬≤ cubiertos,4 habs.
+1064,Casa en venta,225000000.0,"Robledo, Medell√≠n, Antioquia",70 m¬≤ cubiertos,4 habs.
+1065,Casa en venta,580000000.0,"Bel√©n, Medell√≠n, Antioquia",157 m¬≤ cubiertos,3 habs.
+1066,Casa en venta,210000000.0,"Medellin, Medell√≠n, Antioquia",84 m¬≤ cubiertos,3 habs.
+1067,Casa en venta,240000000.0,"Castilla, Medell√≠n, Antioquia",97 m¬≤ cubiertos,4 habs.
+1068,Casa en venta,420000000.0,"Pilarica, Medell√≠n, Antioquia",95 m¬≤ cubiertos,3 habs.
+1069,Casa en venta,460000000.0,"Laureles, Medell√≠n, Antioquia",132 m¬≤ cubiertos,4 habs.
+1070,Casa en venta,1980000000.0,"El Poblado, Medell√≠n, Antioquia",400 m¬≤ cubiertos,5 habs.
+1071,Casa en venta,185000000.0,"Piloto De Manrrique  3147173171, M...",100 m¬≤ cubiertos,4 habs.
+1072,Casa en venta,580000000.0,"Laureles, Medell√≠n, Antioquia",144 m¬≤ cubiertos,4 habs.
+1073,Casa en venta,1250000000.0,"Laureles, Medell√≠n, Antioquia",237 m¬≤ cubiertos,6 habs.
+1074,Casa en venta,310000000.0,"Boyac√° Las Brisas, Medell√≠n, Antio...",110 m¬≤ cubiertos,5 habs.
+1075,Casa en venta,4100000000.0,"Las Palmas, Medell√≠n, Antioquia",450 m¬≤ cubiertos,3 habs.
+1076,Casa en venta,650000000.0,"Laureles, Medell√≠n, Antioquia",250 m¬≤ cubiertos,5 habs.
+1077,Casa en venta,1300000000.0,"Calle 48b #77c-65, Laureles - Esta...",340 m¬≤ cubiertos,4 habs.
+1078,Casa en venta,290000000.0,"Boston, Boston, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+1079,Casa en venta,405000000.0,"La Castellana, Medell√≠n, Antioquia",104 m¬≤ cubiertos,3 habs.
+1080,Casa en venta,560000000.0,"Buenos Aires, Medell√≠n, Antioquia",230 m¬≤ cubiertos,4 habs.
+1081,Casa en venta,160000000.0,"Medell√≠n, Antioquia",90 m¬≤ cubiertos,5 habs.
+1082,Casa en venta,420000000.0,"Manrique, Medell√≠n, Antioquia",246 m¬≤ cubiertos,9 habs.
+1083,Casa en venta,680000000.0,"Santa Elena, Medell√≠n, Antioquia",100 m¬≤ cubiertos,2 habs.
+1084,Casa en venta,300000000.0,"Robledo, Medell√≠n, Antioquia",127 m¬≤ cubiertos,4 habs.
+1085,Casa en venta,270000000.0,"Robledo, Medell√≠n, Antioquia",130 m¬≤ cubiertos,4 habs.
+1086,Casa en venta,328000000.0,"Rodeo Alto, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+1087,Casa en venta,3700000000.0,"El Poblado, Medell√≠n, Antioquia",464 m¬≤ cubiertos,4 habs.
+1088,Casa en venta,650000000.0,"Bel√©n, Medell√≠n, Antioquia",180 m¬≤ cubiertos,5 habs.
+1089,Casa en venta,360000000.0,"Buenos Aires, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+1090,Casa en venta,350000000.0,"Buenos Aires, Medell√≠n, Antioquia",100 m¬≤ cubiertos,5 habs.
+1091,Casa en venta,834000000.0,"El Poblado, Medell√≠n, Antioquia",249 m¬≤ cubiertos,3 habs.
+1092,Casa en venta,850000000.0,"Santa Elena, Medell√≠n, Antioquia",178 m¬≤ cubiertos,4 habs.
+1093,Casa en venta,310000000.0,"Campo Vald√©s 1, Medell√≠n, Antioquia",180 m¬≤ cubiertos,5 habs.
+1094,Casa en venta,1200000000.0,"El Poblado, Medell√≠n, Antioquia",340 m¬≤ cubiertos,3 habs.
+1095,Casa en venta,3700000000.0,"Las Palmas, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+1096,Casa en venta,191000000.0,"Campo Valdes, Medell√≠n, Antioquia",64 m¬≤ cubiertos,3 habs.
+1097,Casa en venta,210000000.0,"Buenos Aires, Medell√≠n, Antioquia",66 m¬≤ cubiertos,3 habs.
+1098,Casa en venta,2280000000.0,"Oriente, Medell√≠n, Antioquia","1,726 m¬≤ cubiertos",3 habs.
+1099,Casa en venta,295000000.0,"Boston, Medell√≠n, Antioquia",117 m¬≤ cubiertos,3 habs.
+1100,Apartamento en venta,190000000.0,"Robledo, Medell√≠n, Antioquia",100 m¬≤ cubiertos,3 habs.
+1101,Casa en venta,5000000000.0,"Las Palmas, Medell√≠n, Antioquia",853 m¬≤ cubiertos,8 habs.
+1102,Casa en venta,3100000000.0,"Las Palmas, Medell√≠n, Antioquia",420 m¬≤ cubiertos,4 habs.
+1103,Casa en venta,950000000.0,"La Castellana, Medell√≠n, Antioquia",294 m¬≤ cubiertos,5 habs.
+1104,Casa en venta,340000000.0,"Robledo, Medell√≠n, Antioquia",134 m¬≤ cubiertos,3 habs.
+1105,Casa en venta,1200000000.0,"Avenida Las Palmas, El Poblado, Me...","1,500 m¬≤ cubiertos",6 habs.
+1106,Edificio en venta,7500000000.0,"La 33, Medell√≠n, Antioquia","1,500 m¬≤ cubiertos",6 habs.
+1107,Lote y casalote en venta,800000000.0,"Laureles, Medell√≠n, Antioquia","1,500 m¬≤ cubiertos",6 habs.
+1108,Casa en venta,1750000000.0,"Laureles, Medell√≠n, Antioquia",394 m¬≤ cubiertos,7 habs.
+1109,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",267 m¬≤ cubiertos,4 habs.
+1110,Casa en venta,300000000.0,"Pedregal, Medell√≠n, Antioquia",116 m¬≤ cubiertos,4 habs.
+1111,Apartamento en venta,550000000.0,"Bel√©n, Medell√≠n, Antioquia",112 m¬≤ cubiertos,3 habs.
+1112,Casa en venta,5000000000.0,"Las Palmas, Medell√≠n, Antioquia","2,710 m¬≤ cubiertos",4 habs.
+1113,Casa en venta,1250000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+1114,Casa en venta,140000000.0,"Medell√≠n, Antioquia",66 m¬≤ cubiertos,3 habs.
+1115,Finca en venta,530000000.0,"Via Antigua Al Mar Sn, San Crist√≥b...",200 m¬≤ cubiertos,2 habs.
+1116,Casa en venta,900000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+1117,Casa en arriendo,3000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1118,Casa en venta,370000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",116 m¬≤ cubiertos,5 habs.
+1119,Casa en venta,4180000000.0,"Las Palmas, Medell√≠n, Antioquia",785 m¬≤ cubiertos,4 habs.
+1120,Casa en venta,330000000.0,"Manrique, Medell√≠n, Antioquia",130 m¬≤ cubiertos,5 habs.
+1121,Casa en venta,1950000000.0,"Medell√≠n, Antioquia",581 m¬≤ cubiertos,3 habs.
+1122,Casa en venta,390000000.0,"El Salvador, Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+1123,Casa en venta,4300000000.0,"El Poblado, Medell√≠n, Antioquia",750 m¬≤ cubiertos,5 habs.
+1124,Casa en venta,660000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",193 m¬≤ cubiertos,4 habs.
+1125,Casa en venta,2800000000.0,"Las Palmas, Medell√≠n, Antioquia",260 m¬≤ cubiertos,5 habs.
+1126,Casa en venta,460000000.0,"Buenos Aires, Medell√≠n, Antioquia",158 m¬≤ cubiertos,3 habs.
+1127,Casa en venta,700000000.0,"Prado Centro, Medell√≠n, Antioquia",256 m¬≤ cubiertos,11 habs.
+1128,Casa en venta,1300000000.0,"El Tesoro, Medell√≠n, Antioquia",211 m¬≤ cubiertos,4 habs.
+1129,Casa en venta,1050000000.0,"Bel√©n, Medell√≠n, Antioquia",270 m¬≤ cubiertos,6 habs.
+1130,Apartamento en venta,240000000.0,"Barrio Bel√©n-aliadas, Medell√≠n, An...",64 m¬≤ cubiertos,3 habs.
+1131,Casa en venta,3300000000.0,"Laureles, Medell√≠n, Antioquia",340 m¬≤ cubiertos,5 habs.
+1132,Casa en venta,2900000000.0,"Los Balsos #1, Medell√≠n, Antioquia",590 m¬≤ cubiertos,4 habs.
+1133,Casa en venta,270000000.0,"El Salvador, Medell√≠n, Antioquia",108 m¬≤ cubiertos,1 hab.
+1134,Casa en venta,420000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",112 m¬≤ cubiertos,3 habs.
+1135,Casa en venta,370000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",114 m¬≤ cubiertos,4 habs.
+1136,Casa en venta,4800000000.0,"El Poblado, Medell√≠n, Antioquia",900 m¬≤ cubiertos,5 habs.
+1137,Casa en venta,1250000000.0,"Cra. 78a #4769, Los Pinos, Medell√≠...",273 m¬≤ cubiertos,4 habs.
+1138,Casa en venta,175000000.0,"Cl 48 D E 96a 74, La Pradera, Mede...",120 m¬≤ cubiertos,3 habs.
+1139,Casa en arriendo,6500000.0,"El Poblado, Medell√≠n, Antioquia, C...",260 m¬≤ cubiertos,4 habs.
+1140,Casa en venta,300000000.0,"Gratamira, Medell√≠n, Antioquia",130 m¬≤ cubiertos,3 habs.
+1141,Casa en venta,350000000.0,"Robledo, Medell√≠n, Antioquia",116 m¬≤ cubiertos,4 habs.
+1142,Casa en venta,280000000.0,"La Milagrosa- Buenos Aires, Medell...",192 m¬≤ cubiertos,7 habs.
+1143,Casa en venta,310000000.0,"Castilla, Medell√≠n, Antioquia",126 m¬≤ cubiertos,7 habs.
+1144,Casa en venta,285000000.0,"Florencia, Medell√≠n, Antioquia",116 m¬≤ cubiertos,4 habs.
+1145,Apartamento en venta,995000000.0,"El Poblado, Medell√≠n, Antioquia",95 m¬≤ cubiertos,2 habs.
+1146,Casa en venta,1180000000.0,"Bel√©n, Medell√≠n, Antioquia",243 m¬≤ cubiertos,4 habs.
+1147,Casa en venta,550000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",205 m¬≤ cubiertos,6 habs.
+1148,Casa en venta,580000000.0,"Florida Nueva, Medell√≠n, Antioquia",168 m¬≤ cubiertos,4 habs.
+1149,Casa en venta,3440000000.0,"Los Balsos, Medell√≠n, Antioquia",560 m¬≤ cubiertos,5 habs.
+1150,Casa en venta,1000000000.0,"Laureles, Medell√≠n, Antioquia",301 m¬≤ cubiertos,8 habs.
+1151,Casa en venta,470000000.0,"Medell√≠n, Antioquia",137 m¬≤ cubiertos,4 habs.
+1152,Casa en venta,140000000.0,"Robledo, Medell√≠n, Antioquia",45 m¬≤ cubiertos,2 habs.
+1153,Casa en venta,350000000.0,"Calasanz Parte Baja, Medell√≠n, Ant...",103 m¬≤ cubiertos,4 habs.
+1154,Casa en arriendo,7500000.0,"Laureles, Medell√≠n, Antioquia",264 m¬≤ cubiertos,4 habs.
+1155,Casa en venta,4200000000.0,"Poblado Las Palmas, Medell√≠n, Anti...","2,000 m¬≤ cubiertos",4 habs.
+1156,Casa en venta,219000000.0,"Robledo, Medell√≠n, Antioquia",72 m¬≤ cubiertos,3 habs.
+1157,Apartamento en venta,550000000.0,"Campo Valdes, Medell√≠n, Antioquia",340 m¬≤ cubiertos,4 habs.
+1158,Casa en venta,2000000000.0,"El Poblado, Medell√≠n, Antioquia",265 m¬≤ cubiertos,4 habs.
+1159,Casa en venta,3500000000.0,"Medell√≠n, Antioquia",485 m¬≤ cubiertos,5 habs.
+1160,Casa en venta,1400000000.0,"Santa Elena, Medell√≠n, Antioquia","4,502 m¬≤ cubiertos",3 habs.
+1161,Casa en venta,620000000.0,"Estadio, Medell√≠n, Antioquia",188 m¬≤ cubiertos,4 habs.
+1162,Casa en venta,2300000000.0,"Laureles, Medell√≠n, Antioquia",352 m¬≤ cubiertos,3 habs.
+1163,Casa en venta,1100000000.0,"El Poblado, Medell√≠n, Antioquia",287 m¬≤ cubiertos,3 habs.
+1164,Casa en venta,425000000.0,"Villa Hermosa, Medell√≠n, Antioquia",149 m¬≤ cubiertos,4 habs.
+1165,Casa en venta,105000000.0,"Picachito, Medell√≠n, Antioquia",81 m¬≤ cubiertos,3 habs.
+1166,Casa en venta,200000000.0,"Pesebre, Medell√≠n, Antioquia",100 m¬≤ cubiertos,4 habs.
+1167,Casa en venta,570000000.0,"Calasanz, Medell√≠n, Antioquia",146 m¬≤ cubiertos,3 habs.
+1168,Casa en venta,490000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1169,Casa en venta,225000000.0,Calle 42 Sur No. 67a - 21  Casa 11...,78 m¬≤ cubiertos,4 habs.
+1170,Casa en venta,1560000000.0,"Medell√≠n, Antioquia",373 m¬≤ cubiertos,4 habs.
+1171,Casa en venta,535000000.0,"Bel√©n, Medell√≠n, Antioquia",183 m¬≤ cubiertos,6 habs.
+1172,Casa en venta,550000000.0,"Laureles, Medell√≠n, Antioquia",147 m¬≤ cubiertos,4 habs.
+1173,Casa en venta,4600000000.0,"El Poblado, Medell√≠n, Antioquia",568 m¬≤ cubiertos,5 habs.
+1174,Casa en venta,259000000.0,"Castilla, Medell√≠n, Antioquia",154 m¬≤ cubiertos,5 habs.
+1175,Bodega en arriendo,3500000.0,"Prado Centro, Medell√≠n, Antioquia",154 m¬≤ cubiertos,5 habs.
+1176,Casa en arriendo,4200000.0,"Laureles, Medell√≠n, Antioquia",200 m¬≤ cubiertos,7 habs.
+1177,Casa en venta,4500000000.0,"El Poblado, Medell√≠n, Antioquia",510 m¬≤ cubiertos,4 habs.
+1178,Casa en venta,180000000.0,"Francisco Antonio Zea, Medell√≠n, A...",60 m¬≤ cubiertos,2 habs.
+1179,Casa en venta,160000000.0,"San Antonio De Prado, Medell√≠n, An...",68 m¬≤ cubiertos,3 habs.
+1180,Casa en venta,2000000000.0,"Laureles, Medell√≠n, Antioquia",68 m¬≤ cubiertos,3 habs.
+1181,Casa en venta,1500000000.0,"El Poblado, Medell√≠n, Antioquia",285 m¬≤ cubiertos,3 habs.
+1182,Casa en venta,750000000.0,"Robledo, Medell√≠n, Antioquia",213 m¬≤ cubiertos,6 habs.
+1183,Casa en venta,300000000.0,"Florencia, Medell√≠n, Antioquia",130 m¬≤ cubiertos,4 habs.
+1184,Casa en venta,700000000.0,"Medell√≠n, Antioquia",185 m¬≤ cubiertos,5 habs.
+1185,Casa en venta,190000000.0,"Robledo Santa Catalina, Medell√≠n, ...",63 m¬≤ cubiertos,3 habs.
+1186,Casa en venta,270000000.0,"Robledo, Medell√≠n, Antioquia",50 m¬≤ cubiertos,6 habs.
+1187,Casa en venta,470000000.0,"Barrio Prado, Medell√≠n, Antioquia",164 m¬≤ cubiertos,7 habs.
+1188,Casa en venta,2100000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",400 m¬≤ cubiertos,3 habs.
+1189,Apartamento en venta,390000000.0,"La Am√©rica, Medell√≠n, Antioquia",157 m¬≤ cubiertos,6 habs.
+1190,Casa en venta,1180000000.0,"Poblado La Calera, Medell√≠n, Antio...",200 m¬≤ cubiertos,3 habs.
+1191,Casa en venta,220000000.0,"Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+1192,Apartamento en venta,180000000.0,"Castilla, Medell√≠n, Antioquia",60 m¬≤ cubiertos,2 habs.
+1193,Casa en venta,2450000000.0,"Las Palmas, Medell√≠n, Antioquia",325 m¬≤ cubiertos,3 habs.
+1194,Casa en venta,870000000.0,Colombia / Antioquia / Medellin / ...,220 m¬≤ cubiertos,4 habs.
+1195,Casa en venta,2450000000.0,"Alto De Palmas, Medell√≠n, Antioquia","7,800 m¬≤ cubiertos",3 habs.
+1196,Casa en venta,450000000.0,"Laureles, Medell√≠n, Antioquia",135 m¬≤ cubiertos,3 habs.
+1197,Casa en venta,285000000.0,"Campo Valdes, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+1198,Casa en venta,180000000.0,"Robledo / Pajarito, Medell√≠n, Anti...",54 m¬≤ cubiertos,3 habs.
+1199,Casa en arriendo temporal,2250000.0,"El Tesoro, Medell√≠n, Antioquia","4,500 m¬≤ cubiertos",4 habs.
+1200,Casa en venta,460000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",126 m¬≤ cubiertos,4 habs.
+1201,Casa en venta,1000000000.0,"Estadio, Medell√≠n, Antioquia",280 m¬≤ cubiertos,7 habs.
+1202,Casa en venta,3200000000.0,"Loma De Los Balsos, Medell√≠n, Anti...",550 m¬≤ cubiertos,4 habs.
+1203,Casa en venta,1030000000.0,"El Poblado, Medell√≠n, Antioquia",215 m¬≤ cubiertos,4 habs.
+1204,Casa en venta,480000000.0,"Laureles, Medell√≠n, Antioquia",135 m¬≤ cubiertos,4 habs.
+1205,Casa en venta,1620000000.0,"Loma Del Tesoro, Medell√≠n, Antioqu...",390 m¬≤ cubiertos,4 habs.
+1206,Finca en venta,3800000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",500 m¬≤ cubiertos,4 habs.
+1207,Casa en venta,780000000.0,"Medell√≠n, Antioquia",240 m¬≤ cubiertos,3 habs.
+1208,Finca en venta,1400000000.0,"Santa Elena, Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+1209,Casa en venta,2850000000.0,"La Calera, Medell√≠n, Antioquia",840 m¬≤ cubiertos,5 habs.
+1210,Casa en venta,2290000000.0,"El Poblado, Medell√≠n, Antioquia",297 m¬≤ cubiertos,4 habs.
+1211,Finca en venta,1380000000.0,"Barrio El Poblado, Medell√≠n, Antio...",235 m¬≤ cubiertos,3 habs.
+1212,Apartamento en venta,195000000.0,"Robledo, Medell√≠n, Antioquia",87 m¬≤ cubiertos,3 habs.
+1213,Casa en venta,400000000.0,"Medell√≠n, Antioquia",110 m¬≤ cubiertos,3 habs.
+1214,Casa en venta,1200000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+1215,Casa en venta,1250000000.0,"San Lucas, Medell√≠n, Antioquia",300 m¬≤ cubiertos,3 habs.
+1216,Casa en venta,4000000000.0,"El Tesoro, Medell√≠n, Antioquia",450 m¬≤ cubiertos,4 habs.
+1217,Casa en venta,2600000000.0,"Las Palmas, Medell√≠n, Antioquia",340 m¬≤ cubiertos,4 habs.
+1218,Casa en venta,810000000.0,"La Mota, Medell√≠n, Antioquia",180 m¬≤ cubiertos,5 habs.
+1219,Casa en venta,350000000.0,"Aranjuez, Medell√≠n, Antioquia",83 m¬≤ cubiertos,4 habs.
+1220,Casa en venta,325000000.0,"San Joaqu√≠n, Medell√≠n, Antioquia",93 m¬≤ cubiertos,4 habs.
+1221,Casa en venta,260000000.0,"Occidente, Medell√≠n, Antioquia",184 m¬≤ cubiertos,4 habs.
+1222,Casa en venta,490000000.0,"Medell√≠n, Antioquia",202 m¬≤ cubiertos,4 habs.
+1223,Casa en venta,150000000.0,"Medell√≠n, Antioquia",202 m¬≤ cubiertos,4 habs.
+1224,Casa en venta,2200000000.0,"Medell√≠n, Antioquia",310 m¬≤ cubiertos,3 habs.
+1225,Casa en venta,210000000.0,"Manrique, Medell√≠n, Antioquia",115 m¬≤ cubiertos,4 habs.
+1226,Finca en venta,1300000000.0,"Santa Elena, Medell√≠n, Antioquia",319 m¬≤ cubiertos,7 habs.
+1227,Casa en venta,350000000.0,"Calle 47 F # 88 -53., Medell√≠n, An...",78 m¬≤ cubiertos,5 habs.
+1228,Casa en venta,4380000000.0,"Avenida Las Palmas, Medell√≠n, Anti...",520 m¬≤ cubiertos,3 habs.
+1229,Casa en venta,1300000000.0,"San Lucas, Medell√≠n, Antioquia",255 m¬≤ cubiertos,3 habs.
+1230,Casa en venta,153000000.0,"Robledo, Medell√≠n, Antioquia",63 m¬≤ cubiertos,3 habs.
+1231,Casa en venta,600000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",124 m¬≤ cubiertos,3 habs.
+1232,Casa en venta,600000000.0,"La Am√©rica, Medell√≠n, Antioquia",236 m¬≤ cubiertos,8 habs.
+1233,Casa en venta,4500000000.0,"El Poblado, Medell√≠n, Antioquia","1,050 m¬≤ cubiertos",7 habs.
+1234,Casa en venta,255000000.0,"Medell√≠n, Antioquia",123 m¬≤ cubiertos,3 habs.
+1235,Casa en venta,220000000.0,"Campo Valdes, Medell√≠n, Antioquia",70 m¬≤ cubiertos,4 habs.
+1236,Casa en venta,220000000.0,"Pedregal, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+1237,Casa en venta,320000000.0,"Robledo, Medell√≠n, Antioquia",85 m¬≤ cubiertos,3 habs.
+1238,Casa en venta,3500000000.0,"Medell√≠n, Antioquia",495 m¬≤ cubiertos,4 habs.
+1239,Apartamento en venta,650000000.0,"Castropol, Medell√≠n, Antioquia",131 m¬≤ cubiertos,4 habs.
+1240,Casa en venta,680000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+1241,Casa en venta,460000000.0,"Buenos Aires, Medell√≠n, Antioquia",275 m¬≤ cubiertos,7 habs.
+1242,Casa en venta,410000000.0,"El Salvador, Medell√≠n, Antioquia",139 m¬≤ cubiertos,6 habs.
+1243,Casa en venta,450000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",110 m¬≤ cubiertos,3 habs.
+1244,Casa en venta,650000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia...",127 m¬≤ cubiertos,6 habs.
+1245,Casa en arriendo,7500000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",220 m¬≤ cubiertos,8 habs.
+1246,Casa en venta,190000000.0,"Aguacatala, Medell√≠n, Antioquia",99 m¬≤ cubiertos,3 habs.
+1247,Casa en arriendo,3500000.0,"Laureles, Medell√≠n, Antioquia",95 m¬≤ cubiertos,3 habs.
+1248,Casa en venta,220000000.0,"La Am√©rica, Medell√≠n, Antioquia",75 m¬≤ cubiertos,2 habs.
+1249,Casa en venta,2950000000.0,"El Poblado, Medell√≠n, Antioquia",480 m¬≤ cubiertos,4 habs.
+1250,Casa en venta,370000000.0,"Tricentenario, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+1251,Casa en venta,2300000000.0,"Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+1252,Casa en venta,2100000000.0,"El Tesoro, Medell√≠n, Antioquia",505 m¬≤ cubiertos,3 habs.
+1253,Casa en venta,225000000.0,"Barrio Rosaleda, Medell√≠n, Antioqu...",110 m¬≤ cubiertos,4 habs.
+1254,Casa en venta,259000000.0,"Campo Valdes, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+1255,Casa en venta,580000000.0,"La Castellana, Medell√≠n, Antioquia",157 m¬≤ cubiertos,3 habs.
+1256,Casa en venta,2700000000.0,"Las Palmas, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+1257,Casa en venta,990000000.0,"Conquistadores, Medell√≠n, Antioquia",215 m¬≤ cubiertos,6 habs.
+1258,Casa en venta,260000000.0,"Robledo, Medell√≠n, Antioquia",96 m¬≤ cubiertos,3 habs.
+1259,Casa en venta,515000000.0,"Guayabal, Medell√≠n, Antioquia",158 m¬≤ cubiertos,4 habs.
+1260,Casa en venta,2100000000.0,"El Poblado, Medell√≠n, Antioquia",281 m¬≤ cubiertos,3 habs.
+1261,Casa en venta,600000000.0,"Aranjuez, Medell√≠n, Antioquia",170 m¬≤ cubiertos,5 habs.
+1262,Casa en venta,750000000.0,"La Castellana, Medell√≠n, Antioquia",320 m¬≤ cubiertos,6 habs.
+1263,Casa en venta,380000000.0,"Florencia, Medell√≠n, Antioquia",130 m¬≤ cubiertos,5 habs.
+1264,Casa en venta,545000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",141 m¬≤ cubiertos,4 habs.
+1265,Casa en venta,2995000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,7 habs.
+1266,Casa en venta,500000000.0,"Medell√≠n, Antioquia",142 m¬≤ cubiertos,5 habs.
+1267,Casa en venta,250000000.0,"Robledo / La Campi√±a, Medell√≠n, An...",92 m¬≤ cubiertos,4 habs.
+1268,Casa en venta,430000000.0,"La Am√©rica, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1269,Casa en venta,2800000000.0,"Las Palmas, Medell√≠n, Antioquia",260 m¬≤ cubiertos,5 habs.
+1270,Casa en venta,850000000.0,"El Poblado, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+1271,Casa en venta,4500000000.0,"El Poblado, Medell√≠n, Antioquia",520 m¬≤ cubiertos,4 habs.
+1272,Casa en venta,380000000.0,"Bel√©n, Medell√≠n, Antioquia",90 m¬≤ cubiertos,3 habs.
+1273,Casa en venta,450000000.0,"Prado Centro, Medell√≠n, Antioquia",143 m¬≤ cubiertos,8 habs.
+1274,Casa en venta,1500000000.0,"Laureles, Medell√≠n, Antioquia",250 m¬≤ cubiertos,6 habs.
+1275,Casa en venta,220000000.0,"Manrique, Medell√≠n, Antioquia",72 m¬≤ cubiertos,3 habs.
+1276,Casa en venta,1700000000.0,"Conquistadores, Medell√≠n, Antioquia",550 m¬≤ cubiertos,6 habs.
+1277,Casa en venta,1300000000.0,"Floresta, Medell√≠n, Antioquia",315 m¬≤ cubiertos,5 habs.
+1278,Casa en venta,560000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",170 m¬≤ cubiertos,4 habs.
+1279,Casa en venta,780000000.0,"Laureles, Medell√≠n, Antioquia",156 m¬≤ cubiertos,3 habs.
+1280,Casa en venta,930000000.0,"El Poblado, Medell√≠n, Antioquia",203 m¬≤ cubiertos,4 habs.
+1281,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",214 m¬≤ cubiertos,4 habs.
+1282,Casa en venta,950000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+1283,Casa en venta,220000000.0,"Boyac√° Las Brisas, Medell√≠n, Antio...",72 m¬≤ cubiertos,3 habs.
+1284,Casa en venta,330000000.0,"Florencia, Medell√≠n, Antioquia",135 m¬≤ cubiertos,4 habs.
+1285,Casa en venta,3200000000.0,"Las Palmas, Medell√≠n, Antioquia",450 m¬≤ cubiertos,5 habs.
+1286,Casa en venta,410000000.0,"Guayabal, Medell√≠n, Antioquia",106 m¬≤ cubiertos,4 habs.
+1287,Casa en venta,380000000.0,"Bel√©n, Medell√≠n, Antioquia",98 m¬≤ cubiertos,4 habs.
+1288,Casa en venta,270000000.0,"Carrera 96 #49a, Metropolitano, Me...",102 m¬≤ cubiertos,3 habs.
+1289,Casa en venta,500000000.0,"Floresta, Medell√≠n, Antioquia",121 m¬≤ cubiertos,4 habs.
+1290,Casa en venta,3950000000.0,"Las Palmas, Medell√≠n, Antioquia",710 m¬≤ cubiertos,4 habs.
+1291,Casa en venta,275000000.0,"La Milagrosa, Medell√≠n, Antioquia",65 m¬≤ cubiertos,4 habs.
+1292,Casa en venta,419000000.0,"Robledo, Medell√≠n, Antioquia",107 m¬≤ cubiertos,4 habs.
+1293,Casa en venta,600000000.0,"Aranjuez, Medell√≠n, Antioquia",200 m¬≤ cubiertos,5 habs.
+1294,Casa en venta,350000000.0,"Pedregal, Medell√≠n, Antioquia",115 m¬≤ cubiertos,4 habs.
+1295,Casa en venta,590000000.0,"La Castellana, Medell√≠n, Antioquia",121 m¬≤ cubiertos,4 habs.
+1296,Casa en venta,675000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",164 m¬≤ cubiertos,3 habs.
+1297,Casa en venta,7000000000.0,"Las Palmas, Medell√≠n, Antioquia",741 m¬≤ cubiertos,5 habs.
+1298,Casa en venta,6980000000.0,"El Poblado, Medell√≠n, Antioquia","1,100 m¬≤ cubiertos",4 habs.
+1299,Casa en arriendo,7000000.0,"San Lucas, San Lucas, Medell√≠n, An...",300 m¬≤ cubiertos,3 habs.
+1300,Casa en venta,410000000.0,"Bel√©n San Bernardo, Medell√≠n, Anti...",113 m¬≤ cubiertos,5 habs.
+1301,Casa en venta,2300000000.0,"Las Palmas, Medell√≠n, Antioquia",325 m¬≤ cubiertos,3 habs.
+1302,Casa en arriendo,4560000.0,"Laureles, Medell√≠n, Antioquia",193 m¬≤ cubiertos,5 habs.
+1303,Casa en venta,5600000000.0,"Lote 12 Parcelaci√≥n, Medell√≠n, Ant...",810 m¬≤ cubiertos,8 habs.
+1304,Casa en venta,1100000000.0,"Los Colores, Medell√≠n, Antioquia",198 m¬≤ cubiertos,5 habs.
+1305,Casa en venta,620000000.0,"Estadio, Medell√≠n, Antioquia",175 m¬≤ cubiertos,4 habs.
+1306,Casa en venta,275000000.0,"Santa Luc√≠a, Medell√≠n, Antioquia",60 m¬≤ cubiertos,2 habs.
+1307,Casa en venta,198000000.0,"Campo Valdes, Medell√≠n, Antioquia",82 m¬≤ cubiertos,4 habs.
+1308,Casa en venta,265000000.0,"Loreto, Medell√≠n, Antioquia",109 m¬≤ cubiertos,4 habs.
+1309,Casa en arriendo,5100000.0,"Loma De Los Bernal., Medell√≠n, Ant...",190 m¬≤ cubiertos,4 habs.
+1310,Casa en venta,1500000000.0,"San Antonio De Prado, Medell√≠n, An...","7,500 m¬≤ cubiertos",7 habs.
+1311,Casa en venta,4500000000.0,"El Poblado, Medell√≠n, Antioquia","3,148 m¬≤ cubiertos",4 habs.
+1312,Casa en venta,3500000000.0,"Poblado El Tesoro, Medell√≠n, Antio...","2,000 m¬≤ cubiertos",3 habs.
+1313,Casa en venta,1800000000.0,"Pilarica, Medell√≠n, Antioquia",417 m¬≤ cubiertos,3 habs.
+1314,Casa en venta,250000000.0,"Medell√≠n, Antioquia",99 m¬≤ cubiertos,4 habs.
+1315,Finca en venta,850000000.0,"Santa Elena, Medell√≠n, Antioquia, ...",178 m¬≤ cubiertos,4 habs.
+1316,Apartamento en venta,330000000.0,"Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+1317,Casa en venta,580000000.0,"Florida Nueva, Medell√≠n, Antioquia",167 m¬≤ cubiertos,5 habs.
+1318,Casa en venta,720000000.0,"San Lucas, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+1319,Casa en venta,2300000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",320 m¬≤ cubiertos,5 habs.
+1320,Casa en venta,2400000000.0,"Laureles, Medell√≠n, Antioquia",320 m¬≤ cubiertos,5 habs.
+1321,Casa en venta,210000000.0,"Robledo, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1322,Casa en venta,980000000.0,"Bel√©n, Medell√≠n, Antioquia",240 m¬≤ cubiertos,5 habs.
+1323,Casa en venta,370000000.0,"Guayabal, Medell√≠n, Antioquia",129 m¬≤ cubiertos,4 habs.
+1324,Casa en venta,575000000.0,"Castilla, Medell√≠n, Antioquia",180 m¬≤ cubiertos,10 habs.
+1325,Casa en arriendo,310000000.0,"Prado Cento, Medell√≠n, Antioquia",86 m¬≤ cubiertos,2 habs.
+1326,Casa en venta,495000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",80 m¬≤ cubiertos,3 habs.
+1327,Casa en venta,500000000.0,"Boston Centro, Medell√≠n, Antioquia",230 m¬≤ cubiertos,5 habs.
+1328,Casa en venta,1200000000.0,"El Rosario, Medell√≠n, Antioquia",330 m¬≤ cubiertos,6 habs.
+1329,Casa en venta,2500000000.0,"El Poblado, Medell√≠n, Antioquia",372 m¬≤ cubiertos,4 habs.
+1330,Apartamento en venta,1080000000.0,"Los Balsos, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+1331,Casa en venta,695000000.0,"Laureles, Medell√≠n, Antioquia",208 m¬≤ cubiertos,4 habs.
+1332,Casa en venta,3300000000.0,"El Poblado, Medell√≠n, Antioquia",412 m¬≤ cubiertos,3 habs.
+1333,Casa en venta,180000000.0,"12 De Otubre, Medell√≠n, Antioquia",63 m¬≤ cubiertos,3 habs.
+1334,Casa en venta,4500000000.0,"Via Las Palmas, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+1335,Casa en venta,760000000.0,"La Mota, Medell√≠n, Antioquia",152 m¬≤ cubiertos,3 habs.
+1336,Casa en venta,2300000000.0,"Santa Teresita, Medell√≠n, Antioquia",206 m¬≤ cubiertos,4 habs.
+1337,Casa en venta,2100000000.0,"Laureles, Medell√≠n, Antioquia",360 m¬≤ cubiertos,5 habs.
+1338,Casa en venta,6900000000.0,"El Poblado, Medell√≠n, Antioquia","1,316 m¬≤ cubiertos",5 habs.
+1339,Casa en venta,2550000000.0,"El Poblado, Medell√≠n, Antioquia",480 m¬≤ cubiertos,5 habs.
+1340,Casa en venta,315000000.0,"Prado, Prado, Medell√≠n, Antioquia",140 m¬≤ cubiertos,6 habs.
+1341,Casa en venta,270000000.0,"Pedregal, Medell√≠n, Antioquia",110 m¬≤ cubiertos,3 habs.
+1342,Casa en venta,1350000000.0,"El Poblado, Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+1343,Casa en venta,985000000.0,"Los Colores, Medell√≠n, Antioquia",323 m¬≤ cubiertos,5 habs.
+1344,Casa en venta,260000000.0,"Medellin, Medell√≠n, Antioquia",100 m¬≤ cubiertos,3 habs.
+1345,Casa en venta,630000000.0,"Calle 62 46 # 34, Medell√≠n, Antioq...",249 m¬≤ cubiertos,7 habs.
+1346,Casa en venta,1250000000.0,"Laureles, Medell√≠n, Antioquia",237 m¬≤ cubiertos,4 habs.
+1347,Casa en venta,3600000000.0,"El Poblado, Medell√≠n, Antioquia",600 m¬≤ cubiertos,2 habs.
+1348,Casa en venta,650000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",150 m¬≤ cubiertos,3 habs.
+1349,Casa en venta,2700000000.0,"Las Palmas, Medell√≠n, Antioquia",300 m¬≤ cubiertos,3 habs.
+1350,Casa en venta,1800000000.0,"Poblado Alto, Medell√≠n, Antioquia",252 m¬≤ cubiertos,3 habs.
+1351,Casa en venta,3500000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",310 m¬≤ cubiertos,3 habs.
+1352,Casa en venta,880000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",327 m¬≤ cubiertos,5 habs.
+1353,Casa en venta,660000000.0,"Castropol, Medell√≠n, Antioquia",131 m¬≤ cubiertos,4 habs.
+1354,Casa en venta,1100000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",301 m¬≤ cubiertos,8 habs.
+1355,Casa en venta,2000000000.0,"El Poblado, Medell√≠n, Antioquia",350 m¬≤ cubiertos,6 habs.
+1356,Casa en venta,2250000000.0,"Poblado El Tesoro, Medell√≠n, Antio...",687 m¬≤ cubiertos,4 habs.
+1357,Casa en venta,510000000.0,"La Am√©rica, Medell√≠n, Antioquia",210 m¬≤ cubiertos,5 habs.
+1358,Casa en venta,2900000000.0,"El Poblado, Medell√≠n, Antioquia",350 m¬≤ cubiertos,3 habs.
+1359,Casa en venta,400000000.0,"Laureles, Medell√≠n, Antioquia",146 m¬≤ cubiertos,3 habs.
+1360,Casa en venta,970000000.0,"El Poblado, Medell√≠n, Antioquia",190 m¬≤ cubiertos,5 habs.
+1361,Local en arriendo,3500000.0,"Aranjuez, Medell√≠n, Medell√≠n, Anti...",190 m¬≤ cubiertos,5 habs.
+1362,Casa en venta,3200000000.0,"El Poblado, Medell√≠n, Antioquia",800 m¬≤ cubiertos,4 habs.
+1363,Casa en venta,3800000000.0,"Pantanillo, Medell√≠n, Antioquia",470 m¬≤ cubiertos,4 habs.
+1364,Casa en venta,1000000000.0,"Conquistadores, Medell√≠n, Antioquia",217 m¬≤ cubiertos,4 habs.
+1365,Apartamento en venta,1800000000.0,"El Poblado, Medell√≠n, Antioquia",450 m¬≤ cubiertos,5 habs.
+1366,Casa en venta,450000000.0,"Medell√≠n, Antioquia",340 m¬≤ cubiertos,11 habs.
+1367,Casa en venta,1450000000.0,"Conquistadores, Medell√≠n, Antioquia",280 m¬≤ cubiertos,3 habs.
+1368,Casa en venta,350000000.0,"Villahermosa, Medell√≠n, Antioquia",204 m¬≤ cubiertos,4 habs.
+1369,Casa en venta,450000000.0,"Las Palmas, Medell√≠n, Antioquia",91 m¬≤ cubiertos,3 habs.
+1370,Casa en venta,1350000000.0,"El Poblado, El Tesoro, Medellin, M...",236 m¬≤ cubiertos,4 habs.
+1371,Casa en venta,900000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+1372,Casa en venta,280000000.0,"Cra. 79c #8 Sur-50, Medell√≠n, Anti...",105 m¬≤ cubiertos,4 habs.
+1373,Casa en venta,5500000000.0,"Medell√≠n, Antioquia","1,150 m¬≤ cubiertos",5 habs.
+1374,Casa en venta,400000000.0,"Occidente, Medell√≠n, Antioquia",240 m¬≤ cubiertos,5 habs.
+1375,Casa en venta,650000000.0,"Bel√©n, Medell√≠n, Antioquia",174 m¬≤ cubiertos,5 habs.
+1376,Casa en venta,1100000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1377,Casa en venta,285000000.0,"Campo Valdes, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+1378,Casa en venta,235000000.0,"Medell√≠n, Antioquia, Colombia, San...",78 m¬≤ cubiertos,3 habs.
+1379,Casa en venta,1480000000.0,"Medell√≠n, Antioquia",444 m¬≤ cubiertos,4 habs.
+1380,Casa en venta,1000000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1381,Casa en venta,175000000.0,Calle 42 Sur # 65a - 179 Int. 0126...,72 m¬≤ cubiertos,2 habs.
+1382,Casa en venta,1200000000.0,"Santa Elena, Santa Elena, Medell√≠n...",731 m¬≤ cubiertos,4 habs.
+1383,Casa en venta,260000000.0,"Robledo, Medell√≠n, Antioquia",85 m¬≤ cubiertos,3 habs.
+1384,Casa en venta,750000000.0,"Pilarica, Medell√≠n, Antioquia",213 m¬≤ cubiertos,6 habs.
+1385,Casa en venta,680000000.0,"El Poblado, Medell√≠n, Antioquia",170 m¬≤ cubiertos,4 habs.
+1386,Casa en venta,410000000.0,"San Javier, Medell√≠n, Antioquia",80 m¬≤ cubiertos,1 hab.
+1387,Casa en venta,3200000000.0,"La Calera, Medell√≠n, Antioquia",800 m¬≤ cubiertos,5 habs.
+1388,Casa en venta,790000000.0,"Cl. 63 / Dari√©n #46-36, La Candela...",250 m¬≤ cubiertos,7 habs.
+1389,Casa en venta,4000000000.0,"Medell√≠n, Antioquia",780 m¬≤ cubiertos,5 habs.
+1390,Lote y casalote en venta,2500000000.0,"Aguacatala, Medell√≠n, Antioquia",780 m¬≤ cubiertos,5 habs.
+1391,Casa en venta,530000000.0,"Poblado, El Poblado, Medell√≠n, Ant...",120 m¬≤ cubiertos,3 habs.
+1392,Casa en venta,460000000.0,"Robledo El Progreso, Medell√≠n, Ant...",176 m¬≤ cubiertos,4 habs.
+1393,Casa en venta,1440000000.0,"Colombia / Antioquia / Guarne, Med...",329 m¬≤ cubiertos,5 habs.
+1394,Casa en venta,1250000000.0,"El Poblado, Medell√≠n, Antioquia",334 m¬≤ cubiertos,4 habs.
+1395,Casa en venta,2500000000.0,"El Poblado, Medell√≠n, Antioquia",450 m¬≤ cubiertos,6 habs.
+1396,Casa en venta,295000000.0,"San Diego, Medell√≠n, Antioquia",167 m¬≤ cubiertos,6 habs.
+1397,Casa en arriendo,10000000.0,"Prado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,14 habs.
+1398,Casa en venta,550000000.0,"La Mota, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1399,Casa en venta,750000000.0,"Mayorca, Medell√≠n, Antioquia",137 m¬≤ cubiertos,4 habs.
+1400,Casa en venta,750000000.0,"Bel√©n Loma De Los Bernal, Medell√≠n...",101 m¬≤ cubiertos,3 habs.
+1401,Casa en arriendo,4700000.0,"Belen, Bel√©n, Medell√≠n, Antioquia",200 m¬≤ cubiertos,6 habs.
+1402,Casa en arriendo,12000000.0,"El Poblado, Medell√≠n, Antioquia",200 m¬≤ cubiertos,6 habs.
+1403,Casa en venta,1150000000.0,"Los Balsos, Medell√≠n, Antioquia",322 m¬≤ cubiertos,5 habs.
+1404,Casa en venta,3500000000.0,"Cola Del Zorro, Medell√≠n, Antioquia",650 m¬≤ cubiertos,5 habs.
+1405,Casa en venta,620000000.0,"Estadio, Medell√≠n, Antioquia",175 m¬≤ cubiertos,4 habs.
+1406,Casa en venta,1350000000.0,"Occidente, Medell√≠n, Antioquia",381 m¬≤ cubiertos,11 habs.
+1407,Casa en venta,1250000000.0,"El Poblado, Medell√≠n, Antioquia",210 m¬≤ cubiertos,4 habs.
+1408,Casa en venta,5000000000.0,"Palmas Parte Baja, Medell√≠n, Antio...",400 m¬≤ cubiertos,3 habs.
+1409,Casa en venta,300000000.0,"Rodeo Alto, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1410,Casa en venta,360000000.0,"Boston, Medell√≠n, Antioquia",148 m¬≤ cubiertos,6 habs.
+1411,Casa en venta,1400000000.0,"Laureles, Medell√≠n, Antioquia",260 m¬≤ cubiertos,5 habs.
+1412,Casa en venta,1250000000.0,"Estadio, Medell√≠n, Antioquia",237 m¬≤ cubiertos,6 habs.
+1413,Casa en venta,914000000.0,"Prado Centro, Medell√≠n, Antioquia",271 m¬≤ cubiertos,3 habs.
+1414,Casa en venta,2300000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",320 m¬≤ cubiertos,4 habs.
+1415,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",227 m¬≤ cubiertos,4 habs.
+1416,Casa en venta,1050000000.0,"El Poblado,loma Del Tesoro, Medell...",267 m¬≤ cubiertos,5 habs.
+1417,Apartamento en venta,950000000.0,"El Poblado, Medell√≠n, Antioquia",240 m¬≤ cubiertos,3 habs.
+1418,Casa en venta,550000000.0,"La Mota, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1419,Casa en venta,298000000.0,"Gratamira, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1420,Finca en arriendo,20000000.0,"Medell√≠n, Antioquia","1,800 m¬≤ cubiertos",7 habs.
+1421,Casa en venta,375000000.0,"La Am√©rica, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+1422,Casa en venta,510000000.0,"Loma Del Indio, Medell√≠n, Antioquia",110 m¬≤ cubiertos,3 habs.
+1423,Casa en venta,590000000.0,"Calasanz, Medell√≠n, Antioquia",97 m¬≤ cubiertos,3 habs.
+1424,Casa en venta,480000000.0,"Medell√≠n, Antioquia",130 m¬≤ cubiertos,5 habs.
+1425,Casa en venta,620000000.0,"Medell√≠n, Antioquia",208 m¬≤ cubiertos,4 habs.
+1426,Casa en venta,850000000.0,"Bel√©n Los Alpes, Medell√≠n, Antioqu...",300 m¬≤ cubiertos,5 habs.
+1427,Casa en venta,6000000000.0,"Poblado Balsos, Medell√≠n, Antioquia","1,900 m¬≤ cubiertos",5 habs.
+1428,Casa en venta,490000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",101 m¬≤ cubiertos,3 habs.
+1429,Casa en venta,490000000.0,"Villa Hermosa, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+1430,Casa en venta,650000000.0,"Medellin, Medell√≠n, Antioquia",166 m¬≤ cubiertos,2 habs.
+1431,Casa en venta,1080000000.0,"Los Balsos, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+1432,Casa en venta,1085000000.0,"Poblado Loma El Campestre, Medell√≠...",373 m¬≤ cubiertos,4 habs.
+1433,Casa en venta,1870000000.0,"El Poblado, Medell√≠n, Antioquia",450 m¬≤ cubiertos,6 habs.
+1434,Casa en venta,950000000.0,"El Tesoro, Medell√≠n, Antioquia",237 m¬≤ cubiertos,4 habs.
+1435,Casa en venta,1300000000.0,"Prado Centro, Medell√≠n, Antioquia",600 m¬≤ cubiertos,7 habs.
+1436,Casa en venta,185000000.0,"12 De Otubre, Medell√≠n, Antioquia",61 m¬≤ cubiertos,1 hab.
+1437,Casa en venta,210000000.0,"Medell√≠n, Antioquia",61 m¬≤ cubiertos,1 hab.
+1438,Casa en venta,1100000000.0,"El Poblado, Medell√≠n, Antioquia",197 m¬≤ cubiertos,3 habs.
+1439,Casa en venta,730000000.0,"Occidente, Medell√≠n, Antioquia",230 m¬≤ cubiertos,4 habs.
+1440,Casa en venta,970000000.0,"El Poblado, Medell√≠n, Antioquia",249 m¬≤ cubiertos,4 habs.
+1441,Apartamento en venta,165000000.0,"Campo Valdes, Medell√≠n, Antioquia",58 m¬≤ cubiertos,2 habs.
+1442,Casa en venta,3800000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+1443,Casa en venta,580000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+1444,Casa en venta,1520000000.0,"El Poblado, Medell√≠n, Antioquia",310 m¬≤ cubiertos,3 habs.
+1445,Casa en venta,1110000000.0,"Laureles, Medell√≠n, Antioquia",148 m¬≤ cubiertos,4 habs.
+1446,Casa en venta,450000000.0,"Guayabal, Medell√≠n, Antioquia",130 m¬≤ cubiertos,4 habs.
+1447,Casa en venta,398000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",112 m¬≤ cubiertos,3 habs.
+1448,Casa en venta,350000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",122 m¬≤ cubiertos,3 habs.
+1449,Casa en venta,1150000000.0,"Bel√©n, Medell√≠n, Antioquia",260 m¬≤ cubiertos,5 habs.
+1450,Casa en venta,670000000.0,"Vereda El Jardin, Medell√≠n, Antioq...",150 m¬≤ cubiertos,3 habs.
+1451,Casa en venta,1790000000.0,"El Poblado, Medell√≠n, Antioquia",507 m¬≤ cubiertos,4 habs.
+1452,Casa en arriendo,10500000.0,"Poblado, San Lucas, Medell√≠n, Anti...",227 m¬≤ cubiertos,4 habs.
+1453,Casa en venta,225000000.0,Calle 42 Sur No. 67a - 21  Casa 11...,78 m¬≤ cubiertos,4 habs.
+1454,Casa en venta,1250000000.0,"Los Balsos, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+1455,Casa en venta,2400000000.0,"Cola Del Zorro, Medell√≠n, Antioquia",450 m¬≤ cubiertos,5 habs.
+1456,Casa en venta,850000000.0,"El Poblado, Medell√≠n, Antioquia",205 m¬≤ cubiertos,4 habs.
+1457,Casa en venta,4600000000.0,"Los Balsos N¬∞2, Medell√≠n, Antioquia",623 m¬≤ cubiertos,4 habs.
+1458,Casa en venta,830000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",240 m¬≤ cubiertos,4 habs.
+1459,Casa en venta,3300000000.0,"Alto De Palmas, Medell√≠n, Antioquia","10,402 m¬≤ cubiertos",3 habs.
+1460,Casa en venta,550000000.0,"Santa M√≥nica - La America, Medell√≠...",170 m¬≤ cubiertos,4 habs.
+1461,Casa en venta,820000000.0,"San Lucas, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+1462,Apartamento en venta,160000000.0,"Las Palmas, Medell√≠n, Antioquia",60 m¬≤ cubiertos,3 habs.
+1463,Casa en venta,550000000.0,"Bel√©n Loma De Los Bernal, Medell√≠n...",120 m¬≤ cubiertos,3 habs.
+1464,Casa en arriendo,750000000.0,"Calasanz, Medell√≠n, Antioquia",215 m¬≤ cubiertos,4 habs.
+1465,Casa en venta,750000000.0,"Bel√©n Nogal - Los Almendros, Medel...",200 m¬≤ cubiertos,4 habs.
+1466,Casa en venta,1900000000.0,"El Poblado, Medell√≠n, Antioquia",345 m¬≤ cubiertos,3 habs.
+1467,Casa en venta,500000000.0,"Calasanz, Medell√≠n, Antioquia",140 m¬≤ cubiertos,3 habs.
+1468,Casa en venta,375000000.0,"Robledo, Medell√≠n, Antioquia",70 m¬≤ cubiertos,3 habs.
+1469,Casa en venta,1050000000.0,"El Poblado, Medell√≠n, Antioquia",370 m¬≤ cubiertos,5 habs.
+1470,Casa en venta,360000000.0,"Buenos Aires, Medell√≠n, Antioquia",145 m¬≤ cubiertos,4 habs.
+1471,Casa en arriendo,20500000.0,"Las Palmas, Medell√≠n, Antioquia",840 m¬≤ cubiertos,4 habs.
+1472,Casa en venta,3300000000.0,"Cola Del Zorro, Medell√≠n, Antioquia",395 m¬≤ cubiertos,4 habs.
+1473,Casa en arriendo,11000000.0,"Altos Del Poblado, Medell√≠n, Antio...",300 m¬≤ cubiertos,5 habs.
+1474,Casa en venta,280000000.0,"Boston, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+1475,Casa en arriendo,5000000.0,"Estadio, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1476,Casa en venta,4600000000.0,"Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+1477,Casa en venta,835000000.0,"Santa Elena, Vereda Piedra Gorda, ...",250 m¬≤ cubiertos,4 habs.
+1478,Apartamento en venta,5000000000.0,"Las Palmas, Medell√≠n, Antioquia",740 m¬≤ cubiertos,4 habs.
+1479,Casa en venta,4200000000.0,"El Poblado, Medell√≠n, Antioquia",720 m¬≤ cubiertos,4 habs.
+1480,Casa en venta,1500000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+1481,Casa en venta,1600000000.0,"El Poblado, Medell√≠n, Antioquia",440 m¬≤ cubiertos,3 habs.
+1482,Casa en venta,650000000.0,"Medell√≠n, Antioquia",170 m¬≤ cubiertos,2 habs.
+1483,Casa en venta,1420000000.0,"Poblado La Calera, Medell√≠n, Antio...",210 m¬≤ cubiertos,3 habs.
+1484,Casa en venta,2250000000.0,"Poblado Balsos, Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+1485,Casa en venta,2150000000.0,"El Poblado, Medell√≠n, Antioquia",303 m¬≤ cubiertos,4 habs.
+1486,Casa en venta,260000000.0,"Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+1487,Casa en venta,550000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",135 m¬≤ cubiertos,3 habs.
+1488,Lote y casalote en venta,1100000000.0,"Cl. 63 / Dari√©n #46-36, La Candela...",360 m¬≤ cubiertos,13 habs.
+1489,Casa en venta,1400000000.0,"Floresta, Medell√≠n, Antioquia",190 m¬≤ cubiertos,8 habs.
+1490,Casa en venta,2000000000.0,"Laureles Medellin, Medell√≠n, Antio...",276 m¬≤ cubiertos,4 habs.
+1491,Casa en venta,2400000000.0,"Cola Del Zorro, Medell√≠n, Antioquia",400 m¬≤ cubiertos,4 habs.
+1492,Casa en venta,3900000000.0,"Las Palmas, Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+1493,Casa en venta,780000000.0,"Laureles, Medell√≠n, Antioquia",239 m¬≤ cubiertos,4 habs.
+1494,Casa en venta,2350000000.0,"Medell√≠n, Antioquia",300 m¬≤ cubiertos,6 habs.
+1495,Casa en venta,3800000000.0,"Medell√≠n, Antioquia",587 m¬≤ cubiertos,5 habs.
+1496,Casa en venta,155000000.0,"San Antonio De Prado, Medell√≠n, An...",55 m¬≤ cubiertos,2 habs.
+1497,Casa en venta,1300000000.0,"Laureles, Medell√≠n, Antioquia",300 m¬≤ cubiertos,5 habs.
+1498,Casa en venta,330000000.0,"12 De Otubre, Medell√≠n, Antioquia",104 m¬≤ cubiertos,3 habs.
+1499,Casa en venta,780000000.0,"Loma Del Indio, Medell√≠n, Antioquia",103 m¬≤ cubiertos,3 habs.
+1500,Casa en venta,510000000.0,"La Castellana, Medell√≠n, Antioquia",170 m¬≤ cubiertos,5 habs.
+1501,Casa en venta,250000000.0,"Robledo, Medell√≠n, Antioquia",109 m¬≤ cubiertos,3 habs.
+1502,Casa en venta,3000000000.0,"El Poblado, Medell√≠n, Antioquia",259 m¬≤ cubiertos,6 habs.
+1503,Casa en venta,530000000.0,"La Castellana, Medell√≠n, Antioquia",121 m¬≤ cubiertos,2 habs.
+1504,Casa en venta,2800000000.0,"Llanogrande, Medell√≠n, Antioquia",260 m¬≤ cubiertos,4 habs.
+1505,Casa en venta,990000000.0,"Los Colores, Medell√≠n, Antioquia",323 m¬≤ cubiertos,5 habs.
+1506,Casa en venta,1310000000.0,Calle 40 E  N 87 110 Cas G 11 Lotu...,156 m¬≤ cubiertos,3 habs.
+1507,Casa en venta,600000000.0,"Lopez De Mesa / Cordoba, Medell√≠n,...",225 m¬≤ cubiertos,7 habs.
+1508,Casa en venta,1000000000.0,"Bel√©n F√°tima, Medell√≠n, Antioquia",480 m¬≤ cubiertos,8 habs.
+1509,Casa en venta,640000000.0,"Calasanz, Medell√≠n, Antioquia",152 m¬≤ cubiertos,4 habs.
+1510,Casa en venta,1380000000.0,"El Poblado, Medell√≠n, Antioquia",310 m¬≤ cubiertos,4 habs.
+1511,Finca en venta,750000000.0,"San Jose  Sn, San Crist√≥bal, Medel...",150 m¬≤ cubiertos,5 habs.
+1512,Casa en venta,3500000000.0,"El Poblado, Medell√≠n, Antioquia",675 m¬≤ cubiertos,5 habs.
+1513,Casa en venta,850000000.0,"Malibu, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+1514,Casa en venta,225000000.0,Calle 42 Sur No.67a - 21 Casa 117 ...,78 m¬≤ cubiertos,3 habs.
+1515,Casa en venta,2290000000.0,"El Tesoro, Medell√≠n, Antioquia",535 m¬≤ cubiertos,3 habs.
+1516,Casa en venta,525000000.0,"Villa Hermosa, Medell√≠n, Antioquia",150 m¬≤ cubiertos,3 habs.
+1517,Casa en venta,350000000.0,"Bombon√°, Medell√≠n, Antioquia",85 m¬≤ cubiertos,3 habs.
+1518,Casa en venta,795000000.0,"Loma De Los Bernal., Medell√≠n, Ant...",200 m¬≤ cubiertos,4 habs.
+1519,Casa en venta,1400000000.0,"La Am√©rica, Medell√≠n, Antioquia",328 m¬≤ cubiertos,7 habs.
+1520,Casa en venta,3900000000.0,"El Poblado, Medell√≠n, Antioquia",450 m¬≤ cubiertos,5 habs.
+1521,Casa en venta,1200000000.0,"Loma Del Atravesado, Medell√≠n, Ant...",220 m¬≤ cubiertos,3 habs.
+1522,Casa en venta,650000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",127 m¬≤ cubiertos,4 habs.
+1523,Casa en venta,1150000000.0,"Estadio, Medell√≠n, Antioquia",225 m¬≤ cubiertos,5 habs.
+1524,Finca en venta,1500000000.0,"Medell√≠n, Antioquia",337 m¬≤ cubiertos,4 habs.
+1525,Casa en venta,550000000.0,"La Castellana, Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+1526,Casa en venta,1400000000.0,"Laureles, Medell√≠n, Antioquia",280 m¬≤ cubiertos,4 habs.
+1527,Casa en venta,3595000000.0,"El Poblado, Medell√≠n, Antioquia",675 m¬≤ cubiertos,5 habs.
+1528,Casa en venta,370000000.0,"Medell√≠n, Antioquia",132 m¬≤ cubiertos,5 habs.
+1529,Casa en venta,900000000.0,"Santa Elena, Medell√≠n, Antioquia",200 m¬≤ cubiertos,3 habs.
+1530,Casa en venta,1300000000.0,"Estadio, Laureles - Estadio, Laure...",280 m¬≤ cubiertos,4 habs.
+1531,Casa en venta,750000000.0,"Laureles, Medell√≠n, Antioquia",315 m¬≤ cubiertos,6 habs.
+1532,Casa en venta,3600000000.0,"El Poblado, Medell√≠n, Antioquia",400 m¬≤ cubiertos,5 habs.
+1533,Casa en venta,5500000000.0,"El Poblado, Medell√≠n, Antioquia",499 m¬≤ cubiertos,4 habs.
+1534,Casa en venta,3000000000.0,"Laureles, Medell√≠n, Antioquia",400 m¬≤ cubiertos,19 habs.
+1535,Casa en venta,1300000000.0,"San Lucas - Envigado, Medell√≠n, An...",162 m¬≤ cubiertos,3 habs.
+1536,Casa en venta,850000000.0,"Cl 10a #22 - 04, El Poblado, Medel...",156 m¬≤ cubiertos,5 habs.
+1537,Casa en venta,370000000.0,"Carrera 72 #14-22, Medell√≠n, Antio...",94 m¬≤ cubiertos,4 habs.
+1538,Casa en venta,1400000000.0,"Loma De Los Balsos, Medell√≠n, Anti...",379 m¬≤ cubiertos,5 habs.
+1539,Casa en venta,3800000000.0,"Medell√≠n, Antioquia",520 m¬≤ cubiertos,4 habs.
+1540,Casa en venta,450000000.0,"Carrera 74 #40 - Sur 48, Medell√≠n,...",195 m¬≤ cubiertos,7 habs.
+1541,Casa en venta,2200000000.0,"Altos Del Poblado, Medell√≠n, Antio...",440 m¬≤ cubiertos,4 habs.
+1542,Casa en venta,720000000.0,"Santa Monica 1, Medell√≠n, Antioquia",360 m¬≤ cubiertos,3 habs.
+1543,Casa en venta,4500000000.0,"Las Palmas, Medell√≠n, Antioquia","1,050 m¬≤ cubiertos",9 habs.
+1544,Casa en venta,3500000000.0,"El Poblado, Medell√≠n, Antioquia",439 m¬≤ cubiertos,3 habs.
+1545,Casa en venta,1900000000.0,"El Poblado, Medell√≠n, Antioquia",390 m¬≤ cubiertos,3 habs.
+1546,Casa en venta,425000000.0,"Rodeo Alto, Medell√≠n, Antioquia",85 m¬≤ cubiertos,3 habs.
+1547,Casa en venta,1250000000.0,"Loma Del Atravesado, Medell√≠n, Ant...",179 m¬≤ cubiertos,3 habs.
+1548,Casa en venta,990000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1549,Casa en venta,1120000000.0,"Bel√©n, Medell√≠n, Antioquia",270 m¬≤ cubiertos,6 habs.
+1550,Casa en venta,235000000.0,"Rodeo Alto, Medell√≠n, Antioquia",64 m¬≤ cubiertos,3 habs.
+1551,Casa en venta,310000000.0,"Boston, Medell√≠n, Antioquia",129 m¬≤ cubiertos,3 habs.
+1552,Casa en venta,950000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",350 m¬≤ cubiertos,4 habs.
+1553,Casa en venta,2500000000.0,"Cl 15 19 Sur 183 Cs 115, Altos Del...",442 m¬≤ cubiertos,4 habs.
+1554,Casa en venta,1299000000.0,"San Lucas, Medell√≠n, Antioquia",289 m¬≤ cubiertos,3 habs.
+1555,Casa en venta,215000000.0,"Campo Valdes, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+1556,Apartamento en venta,910000000.0,"El Poblado, Medell√≠n, Antioquia",208 m¬≤ cubiertos,3 habs.
+1557,Casa en venta,2500000000.0,"Laureles, Medell√≠n, Antioquia",350 m¬≤ cubiertos,10 habs.
+1558,Casa en venta,2500000000.0,"El Poblado, Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+1559,Casa en venta,440000000.0,"La Mota, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1560,Casa en venta,520000000.0,"Occidente, Medell√≠n, Antioquia",95 m¬≤ cubiertos,3 habs.
+1561,Finca en venta,12000.0,"El Poblado, Medell√≠n, Antioquia, C...","1,500 m¬≤ cubiertos",3 habs.
+1562,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",264 m¬≤ cubiertos,4 habs.
+1563,Casa en venta,1800000000.0,"El Poblado, Medell√≠n, Antioquia",255 m¬≤ cubiertos,4 habs.
+1564,Casa en venta,820000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",150 m¬≤ cubiertos,8 habs.
+1565,Casa en venta,1050000000.0,"El Poblado, Medell√≠n, Antioquia",289 m¬≤ cubiertos,3 habs.
+1566,Casa en venta,3700000000.0,"Los Balsos, Medell√≠n, Antioquia",580 m¬≤ cubiertos,3 habs.
+1567,Casa en venta,660000000.0,"Castropol, Medell√≠n, Antioquia",131 m¬≤ cubiertos,4 habs.
+1568,Casa en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",210 m¬≤ cubiertos,3 habs.
+1569,Casa en venta,1150000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",300 m¬≤ cubiertos,5 habs.
+1570,Apartamento en venta,536000000.0,"La Am√©rica, Medell√≠n, Antioquia, C...",115 m¬≤ cubiertos,3 habs.
+1571,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",380 m¬≤ cubiertos,4 habs.
+1572,Casa en venta,310000000.0,"Buenos Aires, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+1573,Apartamento en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",210 m¬≤ cubiertos,3 habs.
+1574,Casa en venta,340000000.0,"Buenos Aires, Medell√≠n, Antioquia",110 m¬≤ cubiertos,4 habs.
+1575,Casa en venta,3800000000.0,"Medell√≠n, Antioquia",410 m¬≤ cubiertos,3 habs.
+1576,Casa en venta,1200000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",168 m¬≤ cubiertos,4 habs.
+1577,Casa en venta,650000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",127 m¬≤ cubiertos,3 habs.
+1578,Casa en venta,1800000000.0,"El Poblado, Medell√≠n, Antioquia",284 m¬≤ cubiertos,5 habs.
+1579,Casa en venta,920000000.0,"La Castellana, Medell√≠n, Antioquia",243 m¬≤ cubiertos,6 habs.
+1580,Casa en venta,1800000000.0,"Laureles, Medell√≠n, Antioquia",487 m¬≤ cubiertos,7 habs.
+1581,Casa en venta,800000000.0,"San Joaqu√≠n, Medell√≠n, Antioquia",183 m¬≤ cubiertos,6 habs.
+1582,Casa en arriendo,20300000.0,"12 De Otubre, Medell√≠n, Antioquia",500 m¬≤ cubiertos,3 habs.
+1583,Casa en venta,5800000000.0,"12 De Otubre, Medell√≠n, Antioquia",400 m¬≤ cubiertos,4 habs.
+1584,Casa en venta,4800000000.0,"San Lucas, Medell√≠n, Antioquia",543 m¬≤ cubiertos,9 habs.
+1585,Casa en venta,450000000.0,"Villa Hermosa, Medell√≠n, Antioquia",182 m¬≤ cubiertos,4 habs.
+1586,Casa en venta,1800000000.0,"El Poblado, Medell√≠n, Antioquia",255 m¬≤ cubiertos,4 habs.
+1587,Casa en venta,2700000000.0,"Llanogrande, Medell√≠n, Antioquia",384 m¬≤ cubiertos,4 habs.
+1588,Casa en venta,720000000.0,"Bel√©n, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+1589,Casa en venta,350000000.0,"Los Colores, Medell√≠n, Antioquia",87 m¬≤ cubiertos,3 habs.
+1590,Casa en venta,650000000.0,"Aranjuez, Medell√≠n, Antioquia",230 m¬≤ cubiertos,8 habs.
+1591,Casa en venta,430000000.0,"Floresta, Medell√≠n, Antioquia",116 m¬≤ cubiertos,1 hab.
+1592,Casa en venta,3000000000.0,"Laureles, Medell√≠n, Antioquia",450 m¬≤ cubiertos,7 habs.
+1593,Casa en venta,1300000000.0,"Calasanz, Medell√≠n, Antioquia",276 m¬≤ cubiertos,4 habs.
+1594,Casa en venta,260000000.0,"Robledo La Campi√±a, Medell√≠n, Anti...",90 m¬≤ cubiertos,3 habs.
+1595,Casa en venta,850000000.0,"Bel√©n Los Alpes, Medell√≠n, Antioqu...",192 m¬≤ cubiertos,5 habs.
+1596,Apartamento en venta,470000000.0,"Estadio, Medell√≠n, Antioquia",142 m¬≤ cubiertos,5 habs.
+1597,Casa en venta,920000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",267 m¬≤ cubiertos,6 habs.
+1598,Casa en venta,780000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",156 m¬≤ cubiertos,3 habs.
+1599,Casa en venta,3400000000.0,"Alto De Palmas, Medell√≠n, Antioquia",274 m¬≤ cubiertos,4 habs.
+1600,Casa en venta,1700000000.0,"El Poblado, La Calera, Medell√≠n, A...",320 m¬≤ cubiertos,4 habs.
+1601,Casa en venta,2800000000.0,"Altos Del Poblado, Medell√≠n, Antio...",500 m¬≤ cubiertos,3 habs.
+1602,Casa en venta,3900000000.0,"Alto Las Palmas, Medell√≠n, Antioqu...","6,400 m¬≤ cubiertos",5 habs.
+1603,Casa en venta,6000000000.0,"El Poblado, Medell√≠n, Antioquia",700 m¬≤ cubiertos,4 habs.
+1604,Casa en venta,7900000000.0,"Altos Del Poblado, Medell√≠n, Antio...",700 m¬≤ cubiertos,4 habs.
+1605,Casa en venta,3650000000.0,"Las Palmas, Medell√≠n, Antioquia",490 m¬≤ cubiertos,5 habs.
+1606,Casa en venta,570000000.0,"La Am√©rica, Medell√≠n, Antioquia",230 m¬≤ cubiertos,6 habs.
+1607,Casa en venta,420000000.0,"Cra. 79 & Calle 6 Sur, La Hondonad...",120 m¬≤ cubiertos,3 habs.
+1608,Finca en venta,1300000000.0,"Belen, Vereda El Jard√≠n Parte Alta...",80 m¬≤ cubiertos,3 habs.
+1609,Casa en venta,700000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",144 m¬≤ cubiertos,4 habs.
+1610,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",230 m¬≤ cubiertos,3 habs.
+1611,Casa en venta,570000000.0,"Loma Del Indio, Medell√≠n, Antioquia",102 m¬≤ cubiertos,3 habs.
+1612,Casa en venta,1800000000.0,"Medell√≠n, Antioquia",102 m¬≤ cubiertos,3 habs.
+1613,Casa en venta,345000000.0,"El Salvador, Medell√≠n, Antioquia",114 m¬≤ cubiertos,4 habs.
+1614,Casa en venta,1050000000.0,"20 Sur 41 50, El Poblado, Medell√≠n...",226 m¬≤ cubiertos,3 habs.
+1615,Casa en venta,890000000.0,"Los Balsos, Medell√≠n, Antioquia",278 m¬≤ cubiertos,5 habs.
+1616,Casa en venta,980000000.0,"San Crist√≥bal, Medell√≠n, Antioquia",160 m¬≤ cubiertos,3 habs.
+1617,Casa en venta,2000000000.0,"El Poblado, Medell√≠n, Antioquia",428 m¬≤ cubiertos,4 habs.
+1618,Casa en venta,750000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",174 m¬≤ cubiertos,3 habs.
+1619,Casa en venta,2400000000.0,"El Tesoro, Medell√≠n, Antioquia",368 m¬≤ cubiertos,4 habs.
+1620,Casa en venta,3800000000.0,"Las Palmas, Medell√≠n, Antioquia",450 m¬≤ cubiertos,4 habs.
+1621,Casa en venta,450000000.0,"Villa Hermosa, Villa Hermosa, Mede...",182 m¬≤ cubiertos,4 habs.
+1622,Casa en venta,720000000.0,"La Mota, Medell√≠n, Antioquia",170 m¬≤ cubiertos,4 habs.
+1623,Casa en venta,980000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",300 m¬≤ cubiertos,8 habs.
+1624,Casa en venta,3350000000.0,"El Poblado, Medell√≠n, Antioquia",350 m¬≤ cubiertos,3 habs.
+1625,Casa en venta,700000000.0,"Rosales, Medell√≠n, Antioquia",175 m¬≤ cubiertos,5 habs.
+1626,Casa en venta,470000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+1627,Casa en arriendo,5800000.0,"Florida Nueva, Medell√≠n, Antioquia",230 m¬≤ cubiertos,4 habs.
+1628,Casa en venta,260000000.0,"12 De Otubre, Medell√≠n, Antioquia",75 m¬≤ cubiertos,4 habs.
+1629,Casa en venta,660000000.0,"Belen Malibu, Medell√≠n, Antioquia",179 m¬≤ cubiertos,4 habs.
+1630,Casa en venta,2300000000.0,"Palmas Parte Alta, Medell√≠n, Antio...",320 m¬≤ cubiertos,5 habs.
+1631,Casa en venta,950000000.0,"La Am√©rica, Medell√≠n, Antioquia, C...",210 m¬≤ cubiertos,5 habs.
+1632,Casa en venta,495000000.0,"La Mota, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1633,Casa en venta,600000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",205 m¬≤ cubiertos,4 habs.
+1634,Casa en venta,1650000000.0,"Medell√≠n, Antioquia, Colombia, Bel...",400 m¬≤ cubiertos,5 habs.
+1635,Casa en venta,500000000.0,"Cove√±as Sucre, Medell√≠n, Antioquia",236 m¬≤ cubiertos,4 habs.
+1636,Casa en venta,200000000.0,"Robledo, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1637,Casa en venta,5500000000.0,"Altos Del Poblado, Medell√≠n, Antio...",350 m¬≤ cubiertos,5 habs.
+1638,Casa en venta,660000000.0,"Castropol, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+1639,Casa en venta,1200000000.0,"Bel√©n, Medell√≠n, Antioquia",182 m¬≤ cubiertos,2 habs.
+1640,Casa en venta,5000000000.0,"Las Palmas, Medell√≠n, Antioquia",492 m¬≤ cubiertos,3 habs.
+1641,Casa en venta,860000000.0,"El Poblado, Medell√≠n, Antioquia",132 m¬≤ cubiertos,3 habs.
+1642,Casa en venta,1040000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",240 m¬≤ cubiertos,5 habs.
+1643,Casa en venta,1620000000.0,"El Tesoro, El Tesoro, Medell√≠n, An...",280 m¬≤ cubiertos,3 habs.
+1644,Casa en venta,3200000000.0,"Las Palmas, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+1645,Casa en venta,530000000.0,"Carrera 32 #27b-2, Medell√≠n, Antio...",120 m¬≤ cubiertos,3 habs.
+1646,Casa en venta,360000000.0,"Calasanz, Medell√≠n, Antioquia",60 m¬≤ cubiertos,3 habs.
+1647,Casa en venta,580000000.0,"Los Colores, Medell√≠n, Antioquia",140 m¬≤ cubiertos,4 habs.
+1648,Casa en venta,350000000.0,"Bel√©n 3147173171, Bel√©n, Medell√≠n,...",126 m¬≤ cubiertos,4 habs.
+1649,Casa en venta,790000000.0,Colombia / Antioquia / Medellin / ...,266 m¬≤ cubiertos,8 habs.
+1650,Casa en venta,2600000000.0,"La Calera, Medell√≠n, Antioquia",440 m¬≤ cubiertos,4 habs.
+1651,Casa en venta,1200000000.0,"Poblado, San Lucas, Medell√≠n, Anti...",227 m¬≤ cubiertos,4 habs.
+1652,Casa en venta,1580000000.0,"Poblado El Tesoro, Medell√≠n, Antio...",260 m¬≤ cubiertos,4 habs.
+1653,Casa en venta,3200000000.0,"El Poblado, Medell√≠n, Antioquia",439 m¬≤ cubiertos,3 habs.
+1654,Casa en venta,2800000000.0,"El Poblado, Los Balsos, Medell√≠n, ...",550 m¬≤ cubiertos,5 habs.
+1655,Casa en venta,3300000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+1656,Casa en venta,660000000.0,"La Mota, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+1657,Casa en venta,500000000.0,"Calasanz, Medell√≠n, Antioquia",146 m¬≤ cubiertos,3 habs.
+1658,Casa en venta,950000000.0,"Calasanz, Medell√≠n, Antioquia",225 m¬≤ cubiertos,6 habs.
+1659,Casa en venta,2950000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+1660,Casa en venta,4800000000.0,"El Poblado, Medell√≠n, Antioquia","1,880 m¬≤ cubiertos",4 habs.
+1661,Casa en venta,1200000000.0,"Calasanz, Medell√≠n, Antioquia",233 m¬≤ cubiertos,6 habs.
+1662,Casa en venta,2400000000.0,"El Poblado, Medell√≠n, Antioquia",367 m¬≤ cubiertos,4 habs.
+1663,Casa en venta,1100000000.0,"Bel√©n, Medell√≠n, Antioquia",229 m¬≤ cubiertos,4 habs.
+1664,Casa en venta,4500000000.0,"Poblado Palmas, Medell√≠n, Antioquia",450 m¬≤ cubiertos,4 habs.
+1665,Casa en venta,3800000000.0,"Medell√≠n, Antioquia",338 m¬≤ cubiertos,3 habs.
+1666,Casa en venta,450000000.0,"Rodeo Alto, Medell√≠n, Antioquia",130 m¬≤ cubiertos,4 habs.
+1667,Casa en venta,985000000.0,"San Lucas, San Lucas, Medell√≠n, An...",230 m¬≤ cubiertos,3 habs.
+1668,Casa en venta,2800000000.0,"Las Palmas, Medell√≠n, Antioquia",293 m¬≤ cubiertos,3 habs.
+1669,Casa en venta,1070000000.0,"El Poblado, Medell√≠n, Antioquia",280 m¬≤ cubiertos,3 habs.
+1670,Casa en venta,850000000.0,"Boston, Medell√≠n, Antioquia",525 m¬≤ cubiertos,10 habs.
+1671,Casa en venta,450000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",140 m¬≤ cubiertos,3 habs.
+1672,Casa en venta,410000000.0,"Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+1673,Casa en venta,3300000000.0,"El Poblado, Medell√≠n, Antioquia","2,000 m¬≤ cubiertos",4 habs.
+1674,Casa en venta,2200000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,3 habs.
+1675,Casa en venta,1659000000.0,"El Poblado, Medell√≠n, Antioquia",210 m¬≤ cubiertos,3 habs.
+1676,Casa en venta,320000000.0,"Lopez De Mesa / Cordoba, Medell√≠n,...",62 m¬≤ cubiertos,3 habs.
+1677,Casa en venta,2800000000.0,"El Poblado, Medell√≠n, Antioquia",356 m¬≤ cubiertos,4 habs.
+1678,Casa en arriendo,8500000.0,"Estadio, Medell√≠n, Antioquia",360 m¬≤ cubiertos,7 habs.
+1679,Casa en venta,1300000000.0,"Barrio Bel√©n-aliadas, Medell√≠n, An...",336 m¬≤ cubiertos,7 habs.
+1680,Casa en venta,950000000.0,"La Castellana, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+1681,Casa en venta,700000000.0,"La Loma De Los Bernal, Medell√≠n, A...",139 m¬≤ cubiertos,5 habs.
+1682,Casa en venta,3500000000.0,"Poblado, El Tesoro, Medell√≠n, Anti...",524 m¬≤ cubiertos,4 habs.
+1683,Casa en venta,1900000000.0,"El Poblado, Medell√≠n, Antioquia",382 m¬≤ cubiertos,3 habs.
+1684,Casa en venta,3100000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",436 m¬≤ cubiertos,4 habs.
+1685,Casa en venta,750000000.0,"Pilarica, Medell√≠n, Antioquia",213 m¬≤ cubiertos,6 habs.
+1686,Casa en venta,610000000.0,"La Mota, Medell√≠n, Antioquia",144 m¬≤ cubiertos,3 habs.
+1687,Casa en venta,2860000000.0,"Sur Oriente, Cola Del Zorro, Medel...",395 m¬≤ cubiertos,4 habs.
+1688,Casa en venta,400000000.0,"Boston, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+1689,Casa en arriendo,15000000.0,"Lomas Del Escobero, Medell√≠n, Anti...",410 m¬≤ cubiertos,5 habs.
+1690,Casa en venta,775000000.0,"La Frontera, Medell√≠n, Antioquia",246 m¬≤ cubiertos,3 habs.
+1691,Casa en venta,1500000000.0,"El Poblado, Medell√≠n, Antioquia",338 m¬≤ cubiertos,4 habs.
+1692,Casa en venta,690000000.0,"Medellin, Medell√≠n, Antioquia",92 m¬≤ cubiertos,2 habs.
+1693,Casa en venta,300000000.0,"Boston, Medell√≠n, Antioquia",95 m¬≤ cubiertos,3 habs.
+1694,Casa en venta,380000000.0,"Itagui Malta, Medell√≠n, Antioquia",140 m¬≤ cubiertos,3 habs.
+1695,Casa en venta,1000000000.0,"Laureles, Medell√≠n, Antioquia",302 m¬≤ cubiertos,7 habs.
+1696,Casa en venta,4000000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",750 m¬≤ cubiertos,5 habs.
+1697,Casa en venta,590000000.0,"Calasanz, Medell√≠n, Antioquia",98 m¬≤ cubiertos,3 habs.
+1698,Casa en venta,2200000000.0,"El Poblado, Medell√≠n, Antioquia",350 m¬≤ cubiertos,4 habs.
+1699,Casa en venta,2950000000.0,Cr 38 16 Sur 27 Casa 139 Urbanizac...,543 m¬≤ cubiertos,3 habs.
+1700,Casa en venta,2300000000.0,"Alto De Las Palmas, Medell√≠n, Anti...","1,000 m¬≤ cubiertos",4 habs.
+1701,Casa en venta,410000000.0,"Gratamira, Medell√≠n, Antioquia",125 m¬≤ cubiertos,5 habs.
+1702,Casa en venta,3800000000.0,"Poblado Las Palmas, Medell√≠n, Anti...","3,000 m¬≤ cubiertos",5 habs.
+1703,Casa en venta,700000000.0,"Barrio Cristobal - La Am√©rica, Med...",255 m¬≤ cubiertos,3 habs.
+1704,Casa en venta,330000000.0,"Boston, Medell√≠n, Antioquia",155 m¬≤ cubiertos,6 habs.
+1705,Casa en venta,668000000.0,"La Mota, Medell√≠n, Antioquia",153 m¬≤ cubiertos,3 habs.
+1706,Casa en venta,850000000.0,"Bel√©n Los Alpes, Medell√≠n, Antioqu...",192 m¬≤ cubiertos,5 habs.
+1707,Casa en venta,1900000000.0,"El Poblado, Medell√≠n, Antioquia",382 m¬≤ cubiertos,3 habs.
+1708,Casa en venta,1350000000.0,"Centrooccidental, Medell√≠n, Antioq...",273 m¬≤ cubiertos,4 habs.
+1709,Casa en venta,650000000.0,"El Nogal, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+1710,Casa en venta,2800000000.0,"El Poblado, Medell√≠n, Antioquia",450 m¬≤ cubiertos,4 habs.
+1711,Casa en venta,720000000.0,"Occidente, Medell√≠n, Antioquia",160 m¬≤ cubiertos,4 habs.
+1712,Casa en venta,1700000000.0,"Poblado La Concha, Medell√≠n, Antio...",372 m¬≤ cubiertos,4 habs.
+1713,Casa en venta,400000000.0,"Boyac√° Las Brisas, Medell√≠n, Antio...",140 m¬≤ cubiertos,4 habs.
+1714,Casa en venta,1700000000.0,"Altos Del Poblado, Medell√≠n, Antio...",326 m¬≤ cubiertos,4 habs.
+1715,Casa en venta,500000000.0,"Belalc√°zar, Medell√≠n, Antioquia",185 m¬≤ cubiertos,6 habs.
+1716,Casa en venta,1200000000.0,"La Castellana, Medell√≠n, Antioquia",260 m¬≤ cubiertos,4 habs.
+1717,Casa en venta,345000000.0,"Guayabal, Medell√≠n, Antioquia",132 m¬≤ cubiertos,4 habs.
+1718,Casa en venta,790000000.0,"San Lucas, Medell√≠n, Antioquia",139 m¬≤ cubiertos,4 habs.
+1719,Lote y casalote en venta,2500000000.0,"Aguacatala, Medell√≠n, Antioquia",139 m¬≤ cubiertos,4 habs.
+1720,Casa en venta,385000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",85 m¬≤ cubiertos,2 habs.
+1721,Casa en venta,630000000.0,"Calle 33 #66b-137, Medell√≠n, Antio...",175 m¬≤ cubiertos,4 habs.
+1722,Casa en venta,200000000.0,"Medell√≠n, Antioquia, Colombia, Bel...",100 m¬≤ cubiertos,3 habs.
+1723,Casa en venta,1200000000.0,"Prado Centro, Medell√≠n, Antioquia",405 m¬≤ cubiertos,5 habs.
+1724,Casa en venta,1250000000.0,"Poblado Castropol, Medell√≠n, Antio...",325 m¬≤ cubiertos,4 habs.
+1725,Casa en venta,4800000000.0,"El Poblado, Medell√≠n, Antioquia",500 m¬≤ cubiertos,5 habs.
+1726,Apartamento en venta,680000000.0,"La Mota, Medell√≠n, Antioquia",304 m¬≤ cubiertos,8 habs.
+1727,Casa en venta,546000000.0,"Bel√©n Las Mercedes, Medell√≠n, Anti...",163 m¬≤ cubiertos,4 habs.
+1728,Casa en venta,850000000.0,"Laureles, Medell√≠n, Antioquia",352 m¬≤ cubiertos,10 habs.
+1729,Casa en venta,840000000.0,"El Poblado, San Lucas, Medell√≠n, A...",132 m¬≤ cubiertos,4 habs.
+1730,Casa en venta,850000000.0,"Calasanz, Medell√≠n, Antioquia",200 m¬≤ cubiertos,5 habs.
+1731,Casa en venta,1180000000.0,"Laureles, Medell√≠n, Antioquia",125 m¬≤ cubiertos,5 habs.
+1732,Casa en venta,2290000000.0,"La Calera, Medell√≠n, Antioquia",297 m¬≤ cubiertos,3 habs.
+1733,Casa en arriendo,29900000.0,"Aguacatala, Aguacatala, Medell√≠n, ...",909 m¬≤ cubiertos,9 habs.
+1734,Casa en venta,990000000.0,"Medell√≠n, Antioquia",268 m¬≤ cubiertos,6 habs.
+1735,Casa en venta,840000000.0,"Castellana/ Occidente, Medell√≠n, A...",240 m¬≤ cubiertos,4 habs.
+1736,Casa en venta,3500000000.0,"Poblado/v√≠a Las Palmas, Medell√≠n, ...",455 m¬≤ cubiertos,4 habs.
+1737,Casa en venta,1200000000.0,"Los Balsos, Medell√≠n, Antioquia",240 m¬≤ cubiertos,3 habs.
+1738,Casa en venta,500000000.0,"Occidente, Medell√≠n, Antioquia",185 m¬≤ cubiertos,6 habs.
+1739,Casa en venta,550000000.0,"Occidente, Medell√≠n, Antioquia",97 m¬≤ cubiertos,9 habs.
+1740,Casa en venta,330000000.0,"Occidente, Medell√≠n, Antioquia",130 m¬≤ cubiertos,7 habs.
+1741,Casa en venta,675000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",220 m¬≤ cubiertos,5 habs.
+1742,Casa en arriendo,16000000.0,"Buenos Aires, Medell√≠n, Antioquia",487 m¬≤ cubiertos,5 habs.
+1743,Casa en venta,6200000000.0,"Los Balsos, Medell√≠n, Antioquia",670 m¬≤ cubiertos,3 habs.
+1744,Casa en venta,1900000000.0,"Calle 9c # 15 - 165, El Poblado, M...",255 m¬≤ cubiertos,4 habs.
+1745,Casa en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",220 m¬≤ cubiertos,3 habs.
+1746,Casa en venta,570000000.0,"Belen Aliadas, Medell√≠n, Antioquia",240 m¬≤ cubiertos,4 habs.
+1747,Apartamento en venta,315000000.0,"Robledo, Medell√≠n, Antioquia",90 m¬≤ cubiertos,4 habs.
+1748,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",300 m¬≤ cubiertos,3 habs.
+1749,Casa en venta,490000000.0,"La Mota, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1750,Casa en venta,1950000000.0,"Laureles, Medell√≠n, Antioquia",400 m¬≤ cubiertos,8 habs.
+1751,Casa en venta,740000000.0,"Calasanz, Medell√≠n, Antioquia",270 m¬≤ cubiertos,3 habs.
+1752,Casa en venta,650000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",183 m¬≤ cubiertos,3 habs.
+1753,Casa en venta,580000000.0,"Florida Nueva, Medell√≠n, Antioquia",167 m¬≤ cubiertos,5 habs.
+1754,Casa en venta,1395000000.0,"El Poblado, Medell√≠n, Antioquia",260 m¬≤ cubiertos,3 habs.
+1755,Casa en venta,450000000.0,"Rodeo Alto, Medell√≠n, Antioquia",110 m¬≤ cubiertos,3 habs.
+1756,Casa en venta,370000000.0,"La Mota, Medell√≠n, Antioquia",102 m¬≤ cubiertos,4 habs.
+1757,Casa en venta,2600000000.0,"San Lucas, Poblado, Medell√≠n, Anti...",452 m¬≤ cubiertos,4 habs.
+1758,Casa en venta,175000000.0,"La Pradera, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1759,Casa en venta,2500000000.0,"El Poblado, Medell√≠n, Antioquia",530 m¬≤ cubiertos,5 habs.
+1760,Casa en venta,770000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",243 m¬≤ cubiertos,4 habs.
+1761,Casa en arriendo,12000000.0,"El Tesoro, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1762,Casa en venta,900000000.0,"Laureles Lorena, Medell√≠n, Antioqu...",306 m¬≤ cubiertos,7 habs.
+1763,Casa en venta,1300000000.0,"Laureles, Medell√≠n, Antioquia",406 m¬≤ cubiertos,4 habs.
+1764,Casa en venta,330000000.0,"Calle 79c #67a-110, Medell√≠n, Anti...",97 m¬≤ cubiertos,3 habs.
+1765,Casa en venta,310000000.0,"Centro Medellin, Medell√≠n, Antioqu...",240 m¬≤ cubiertos,5 habs.
+1766,Casa en venta,4500000000.0,"Carrera 13 #4b Sur-15, Medell√≠n, A...",600 m¬≤ cubiertos,4 habs.
+1767,Casa en venta,1600000000.0,"Medell√≠n, Antioquia",430 m¬≤ cubiertos,6 habs.
+1768,Casa en venta,586000000.0,"La Am√©rica El Danubio, Medell√≠n, A...",236 m¬≤ cubiertos,8 habs.
+1769,Casa en venta,690000000.0,"La Mota, Medell√≠n, Antioquia",236 m¬≤ cubiertos,8 habs.
+1770,Casa en venta,1590000000.0,"Poblado El Tesoro, Medell√≠n, Antio...",270 m¬≤ cubiertos,5 habs.
+1771,Casa en venta,2800000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",286 m¬≤ cubiertos,5 habs.
+1772,Casa en venta,3800000000.0,"Medell√≠n, Antioquia",540 m¬≤ cubiertos,5 habs.
+1773,Casa en venta,1400000000.0,"La Floresta / Occidente, Medell√≠n,...",324 m¬≤ cubiertos,8 habs.
+1774,Casa en venta,3500000000.0,"El Poblado, Medell√≠n, Antioquia",455 m¬≤ cubiertos,4 habs.
+1775,Casa en venta,2200000000.0,"El Poblado, Medell√≠n, Antioquia",380 m¬≤ cubiertos,3 habs.
+1776,Casa en venta,1620000000.0,"El Tesoro, Medell√≠n, Antioquia",390 m¬≤ cubiertos,5 habs.
+1777,Casa en venta,249900000.0,Kmt 5 Av. Las Palmas Ed. Cortezza ...,74 m¬≤ cubiertos,3 habs.
+1778,Casa en venta,505000000.0,"12 De Otubre, Medell√≠n, Antioquia",154 m¬≤ cubiertos,4 habs.
+1779,Edificio en venta,270000000.0,"Excelente Ubicaci√≥n  Sn, San Crist...",154 m¬≤ cubiertos,4 habs.
+1780,Casa en venta,4450000000.0,"El Poblado, Medell√≠n, Antioquia",550 m¬≤ cubiertos,4 habs.
+1781,Casa en venta,525000000.0,"Villa Hermosa, Medell√≠n, Antioquia",142 m¬≤ cubiertos,4 habs.
+1782,Casa en venta,405000000.0,"Floresta, Medell√≠n, Antioquia",114 m¬≤ cubiertos,2 habs.
+1783,Casa en venta,1500000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",350 m¬≤ cubiertos,5 habs.
+1784,Casa en venta,600000000.0,"Florida Nueva, Medell√≠n, Antioquia",166 m¬≤ cubiertos,4 habs.
+1785,Casa en venta,3800000000.0,"Las Palmas, Medell√≠n, Antioquia",490 m¬≤ cubiertos,3 habs.
+1786,Casa en venta,360000000.0,"Bel√©n Las Playas, Medell√≠n, Antioq...",110 m¬≤ cubiertos,4 habs.
+1787,Apartamento en venta,350000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",80 m¬≤ cubiertos,3 habs.
+1788,Casa en venta,650000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",183 m¬≤ cubiertos,3 habs.
+1789,Casa en venta,250000000.0,"El Salvador, Medell√≠n, Antioquia",130 m¬≤ cubiertos,6 habs.
+1790,Casa en venta,570000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",140 m¬≤ cubiertos,3 habs.
+1791,Casa en venta,1248000000.0,"San Lucas, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+1792,Casa en venta,450000000.0,"La Mota, Medell√≠n, Antioquia",95 m¬≤ cubiertos,3 habs.
+1793,Casa en venta,550000000.0,"Bel√©n, Medell√≠n, Antioquia",156 m¬≤ cubiertos,5 habs.
+1794,Casa en venta,608000000.0,"Guayabal, Medell√≠n, Antioquia",164 m¬≤ cubiertos,4 habs.
+1795,Casa en venta,620000000.0,"Belen La Nubia, Medell√≠n, Antioquia",210 m¬≤ cubiertos,4 habs.
+1796,Casa en venta,750000000.0,"Loma De Los Bernal, Medell√≠n, Anti...",153 m¬≤ cubiertos,4 habs.
+1797,Casa en venta,400000000.0,"El Chagualo, Medell√≠n, Antioquia",143 m¬≤ cubiertos,9 habs.
+1798,Casa en venta,900000000.0,"El Poblado, Medell√≠n, Antioquia",270 m¬≤ cubiertos,4 habs.
+1799,Casa en venta,990000000.0,"Bel√©n, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1800,Casa en venta,1500000000.0,"El Poblado, Medell√≠n, Antioquia",324 m¬≤ cubiertos,4 habs.
+1801,Casa en venta,2800000000.0,"Poblado Las Palmas, Medell√≠n, Anti...",260 m¬≤ cubiertos,5 habs.
+1802,Casa en venta,3700000000.0,"El Poblado, Medell√≠n, Antioquia",750 m¬≤ cubiertos,4 habs.
+1803,Casa en venta,1000000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1804,Casa en venta,4000000000.0,"Medell√≠n, Antioquia",375 m¬≤ cubiertos,4 habs.
+1805,Casa en venta,2100000000.0,"Cola Del Zorro, Medell√≠n, Antioquia",285 m¬≤ cubiertos,4 habs.
+1806,Casa en venta,2800000000.0,"Poblado El Tesoro, Medell√≠n, Antio...","2,000 m¬≤ cubiertos",4 habs.
+1807,Casa en venta,185000000.0,"Robledo, Medell√≠n, Antioquia",64 m¬≤ cubiertos,3 habs.
+1808,Casa en venta,4500000000.0,"El Poblado, Medell√≠n, Antioquia",817 m¬≤ cubiertos,5 habs.
+1809,Casa en venta,2600000000.0,"El Poblado, Medell√≠n, Antioquia",477 m¬≤ cubiertos,6 habs.
+1810,Casa en venta,230000000.0,"Robledo, Medell√≠n, Antioquia",73 m¬≤ cubiertos,3 habs.
+1811,Casa en venta,500000000.0,"Buenos Aires, Medell√≠n, Antioquia",230 m¬≤ cubiertos,6 habs.
+1812,Casa en venta,950000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1813,Casa en venta,1600000000.0,"El Poblado, Medell√≠n, Antioquia",276 m¬≤ cubiertos,3 habs.
+1814,Casa en venta,720000000.0,"La Mota, Medell√≠n, Antioquia",170 m¬≤ cubiertos,4 habs.
+1815,Casa en venta,3300000000.0,"El Poblado, Medell√≠n, Antioquia",484 m¬≤ cubiertos,2 habs.
+1816,Casa en arriendo,7500000.0,"Estadio, Medell√≠n, Antioquia",196 m¬≤ cubiertos,5 habs.
+1817,Casa en venta,6000000000.0,"Palmas, Medell√≠n, Antioquia",500 m¬≤ cubiertos,4 habs.
+1818,Casa en venta,329000000.0,"Rodeo Alto, Medell√≠n, Antioquia",69 m¬≤ cubiertos,3 habs.
+1819,Casa en venta,658000000.0,"Bel√©n La Mota, Medell√≠n, Antioquia",111 m¬≤ cubiertos,3 habs.
+1820,Oficina en venta,1350000000.0,"Loma De Los Balsos, Medell√≠n, Anti...",111 m¬≤ cubiertos,3 habs.
+1821,Casa en venta,410000000.0,"Gratamira, Medell√≠n, Antioquia",125 m¬≤ cubiertos,5 habs.
+1822,Casa en venta,1200000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",225 m¬≤ cubiertos,9 habs.
+1823,Casa en venta,320000000.0,"El Poblado, Medell√≠n, Antioquia",62 m¬≤ cubiertos,2 habs.
+1824,Casa en venta,1600000000.0,"12 De Otubre, Medell√≠n, Antioquia",358 m¬≤ cubiertos,8 habs.
+1825,Casa en venta,7000000000.0,"Via Las Palmas, Medell√≠n, Antioquia",800 m¬≤ cubiertos,5 habs.
+1826,Casa en venta,580000000.0,"Estadio, Medell√≠n, Antioquia",170 m¬≤ cubiertos,3 habs.
+1827,Casa en venta,2900000000.0,"El Poblado, Medell√≠n, Antioquia",385 m¬≤ cubiertos,4 habs.
+1828,Casa en venta,1595000000.0,"El Poblado, Medell√≠n, Antioquia",373 m¬≤ cubiertos,5 habs.
+1829,Casa en venta,6000000000.0,"Altos Del Poblado, Medell√≠n, Antio...",600 m¬≤ cubiertos,4 habs.
+1830,Casa en arriendo,9800000.0,"Laureles, Medell√≠n, Antioquia",360 m¬≤ cubiertos,5 habs.
+1831,Casa en venta,580000000.0,"Bel√©n Aliadas, Medell√≠n, Antioquia",150 m¬≤ cubiertos,3 habs.
+1832,Casa en venta,350000000.0,"Guayabal, Medell√≠n, Antioquia",100 m¬≤ cubiertos,2 habs.
+1833,Casa en venta,330000000.0,"Medell√≠n, Antioquia",73 m¬≤ cubiertos,3 habs.
+1834,Casa en venta,1300000000.0,"El Tesoro, Medell√≠n, Antioquia",326 m¬≤ cubiertos,4 habs.
+1835,Casa en venta,2000000000.0,"Laureles, Medell√≠n, Antioquia",400 m¬≤ cubiertos,8 habs.
+1836,Casa en venta,650000000.0,"La Castellana, Medell√≠n, Antioquia",203 m¬≤ cubiertos,5 habs.
+1837,Casa en venta,1350000000.0,"Medell√≠n, Antioquia",300 m¬≤ cubiertos,4 habs.
+1838,Casa en venta,2900000000.0,"Medell√≠n, Antioquia",350 m¬≤ cubiertos,3 habs.
+1839,Casa en venta,550000000.0,"Calasanz, Medell√≠n, Antioquia",155 m¬≤ cubiertos,3 habs.
+1840,Casa en venta,650000000.0,"Estadio, Medell√≠n, Antioquia",216 m¬≤ cubiertos,4 habs.
+1841,Casa en venta,6700000000.0,"El Poblado, Medell√≠n, Antioquia",738 m¬≤ cubiertos,4 habs.
+1842,Casa en venta,3900000000.0,"Las Palmas, Medell√≠n, Antioquia",366 m¬≤ cubiertos,3 habs.
+1843,Casa en venta,2700000000.0,"El Poblado, Medell√≠n, Antioquia",689 m¬≤ cubiertos,4 habs.
+1844,Casa en venta,1300000000.0,"Las Santas, Medell√≠n, Antioquia",222 m¬≤ cubiertos,3 habs.
+1845,Casa en venta,280000000.0,"Boston, Medell√≠n, Antioquia",129 m¬≤ cubiertos,3 habs.
+1846,Casa en venta,990000000.0,"Medell√≠n, Antioquia",247 m¬≤ cubiertos,4 habs.
+1847,Apartamento en venta,1470000000.0,"El Poblado, Medell√≠n, Antioquia",415 m¬≤ cubiertos,5 habs.
+1848,Casa en venta,219000000.0,"Acevedo, Medell√≠n, Antioquia",86 m¬≤ cubiertos,6 habs.
+1849,Casa en venta,850000000.0,"La Castellana, Medell√≠n, Antioquia",196 m¬≤ cubiertos,5 habs.
+1850,Casa en venta,4970000000.0,"12 De Otubre, Medell√≠n, Antioquia",440 m¬≤ cubiertos,3 habs.
+1851,Casa en venta,750000000.0,"Estadio, Medell√≠n, Antioquia",200 m¬≤ cubiertos,4 habs.
+1852,Casa en venta,1050000000.0,"La Frontera, Medell√≠n, Antioquia",236 m¬≤ cubiertos,3 habs.
+1853,Casa en venta,650000000.0,"Boston, Medell√≠n, Antioquia",267 m¬≤ cubiertos,8 habs.
+1854,Casa en venta,460000000.0,"Santa Monica 1, Medell√≠n, Antioquia",175 m¬≤ cubiertos,4 habs.
+1855,Casa en venta,830000000.0,"Bel√©n La Palma, Medell√≠n, Antioquia",240 m¬≤ cubiertos,4 habs.
+1856,Apartamento en venta,670000000.0,"Laureles, Medell√≠n, Antioquia",141 m¬≤ cubiertos,4 habs.
+1857,Casa en venta,455000000.0,"La Mota, Medell√≠n, Antioquia",117 m¬≤ cubiertos,4 habs.
+1858,Casa en venta,780000000.0,"La Castellana, Medell√≠n, Antioquia",174 m¬≤ cubiertos,3 habs.
+1859,Casa en venta,1580000000.0,"Alameda, Medell√≠n, Antioquia",260 m¬≤ cubiertos,6 habs.
+1860,Casa en venta,1400000000.0,"Floresta, Medell√≠n, Antioquia",285 m¬≤ cubiertos,4 habs.
+1861,Casa en venta,620000000.0,"Castropol, Medell√≠n, Antioquia",131 m¬≤ cubiertos,3 habs.
+1862,Casa en venta,990000000.0,"El Poblado, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1863,Casa en venta,1650000000.0,"San Lucas, Medell√≠n, Antioquia",390 m¬≤ cubiertos,4 habs.
+1864,Apartamento en venta,750000000.0,"Almeria, Medell√≠n, Antioquia",175 m¬≤ cubiertos,3 habs.
+1865,Casa en venta,520000000.0,"Villa Hermosa, Medell√≠n, Antioquia",150 m¬≤ cubiertos,4 habs.
+1866,Casa en venta,650000000.0,"Bel√©n, Medell√≠n, Antioquia",183 m¬≤ cubiertos,4 habs.
+1867,Casa en venta,330000000.0,"Rodeo Alto, Medell√≠n, Antioquia",80 m¬≤ cubiertos,3 habs.
+1868,Casa en venta,290000000.0,"Gratamira, Medell√≠n, Antioquia",46 m¬≤ cubiertos,3 habs.
+1869,Casa en venta,3300000000.0,"Las Palmas, Medell√≠n, Antioquia",400 m¬≤ cubiertos,4 habs.
+1870,Casa en venta,540000000.0,"Medell√≠n, Antioquia",136 m¬≤ cubiertos,4 habs.
+1871,Casa en venta,630000000.0,"San Pablo, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+1872,Casa en venta,4300000000.0,"El Poblado, La Provenza, Medell√≠n,...",850 m¬≤ cubiertos,6 habs.
+1873,Casa en venta,175000000.0,"Robledo, Medell√≠n, Antioquia",63 m¬≤ cubiertos,2 habs.
+1874,Casa en venta,3500000000.0,"Poblado, Transversal Superior, Med...",440 m¬≤ cubiertos,3 habs.
+1875,Casa en venta,450000000.0,"San Javier, Medell√≠n, Antioquia",84 m¬≤ cubiertos,3 habs.
+1876,Casa en venta,750000000.0,"Robledo, Medell√≠n, Antioquia",213 m¬≤ cubiertos,6 habs.
+1877,Casa en venta,800000000.0,"Popular 1 Y 2, Medell√≠n, Antioquia",120 m¬≤ cubiertos,3 habs.
+1878,Casa en venta,1400000000.0,"El Poblado, Medell√≠n, Antioquia",370 m¬≤ cubiertos,4 habs.
+1879,Casa en venta,330000000.0,"Buenos Aires, Medell√≠n, Antioquia",116 m¬≤ cubiertos,3 habs.
+1880,Casa en venta,700000000.0,"Bel√©n Miravalle, Medell√≠n, Antioqu...",160 m¬≤ cubiertos,4 habs.
+1881,Casa en venta,3300000000.0,"Sur Oriente, Poblado, Medell√≠n, An...",330 m¬≤ cubiertos,3 habs.
+1882,Casa en venta,620000000.0,"Bel√©n, Medell√≠n, Antioquia",172 m¬≤ cubiertos,4 habs.
+1883,Casa en venta,820000000.0,"El Poblado, Medell√≠n, Antioquia",169 m¬≤ cubiertos,3 habs.
+1884,Casa en venta,596000000.0,"La Am√©rica, Medell√≠n, Antioquia",403 m¬≤ cubiertos,8 habs.
+1885,Casa en venta,2350000000.0,"El Poblado, Medell√≠n, Antioquia",315 m¬≤ cubiertos,4 habs.
+1886,Casa en venta,580000000.0,"Carrera 56 Con Calle 42, Lote Nume...",125 m¬≤ cubiertos,5 habs.
+1887,Casa en venta,1600000000.0,"Pilarica, Medell√≠n, Antioquia",254 m¬≤ cubiertos,3 habs.
+1888,Casa en venta,690000000.0,"Carrt 236, Estadio, Medell√≠n, Anti...",220 m¬≤ cubiertos,6 habs.
+1889,Apartamento en venta,290000000.0,"Cristo Rey, Medell√≠n, Antioquia",101 m¬≤ cubiertos,4 habs.
+1890,Casa en venta,460000000.0,"Belen La Gloria, Medell√≠n, Antioqu...",120 m¬≤ cubiertos,4 habs.
+1891,Casa en venta,650000000.0,"Belen Los Alpes, Medell√≠n, Antioqu...",200 m¬≤ cubiertos,4 habs.
+1892,Casa en venta,1320000000.0,"Los Parra, Medell√≠n, Antioquia",266 m¬≤ cubiertos,3 habs.
+1893,Casa en venta,800000000.0,"La Mota, Medell√≠n, Antioquia",206 m¬≤ cubiertos,4 habs.
+1894,Casa en venta,5000000000.0,"Oriente, Medell√≠n, Antioquia","1,535 m¬≤ cubiertos",6 habs.
+1895,Casa en venta,680000000.0,"Santa Elena, Medell√≠n, Antioquia, ...","1,950 m¬≤ cubiertos",2 habs.
+1896,Casa en venta,1850000000.0,"El Escobero, Medell√≠n, Antioquia",350 m¬≤ cubiertos,3 habs.
+1897,Casa en venta,760000000.0,"Laureles, Medell√≠n, Antioquia",182 m¬≤ cubiertos,5 habs.
+1898,Casa en venta,1580000000.0,"Laureles Nogal, Medell√≠n, Antioquia",204 m¬≤ cubiertos,4 habs.
+1899,Casa en arriendo,25000000.0,"Laureles, Medell√≠n, Antioquia",800 m¬≤ cubiertos,7 habs.
+1900,Casa en venta,1200000000.0,"El Poblado, Medell√≠n, Antioquia",210 m¬≤ cubiertos,4 habs.
+1901,Casa en venta,3800000000.0,"Poblado Las Palmas, Medell√≠n, Anti...","3,000 m¬≤ cubiertos",4 habs.
+1902,Casa en venta,2700000000.0,"El Poblado, Medell√≠n, Antioquia",400 m¬≤ cubiertos,3 habs.
+1903,Casa en venta,700000000.0,"Bel√©n Rosales, Medell√≠n, Antioquia",147 m¬≤ cubiertos,4 habs.
+1904,Casa en venta,5000000000.0,"El Poblado, Medell√≠n, Antioquia",673 m¬≤ cubiertos,4 habs.
+1905,Casa en venta,1350000000.0,"Poblado San Lucas, Medell√≠n, Antio...",231 m¬≤ cubiertos,4 habs.
+1906,Casa en venta,1200000000.0,"Estadio, Medell√≠n, Antioquia",250 m¬≤ cubiertos,4 habs.
+1907,Casa en venta,880000000.0,"Bel√©n, Medell√≠n, Antioquia",190 m¬≤ cubiertos,4 habs.
+1908,Casa en venta,670000000.0,"Bel√©n La Gloria, Medell√≠n, Antioqu...",179 m¬≤ cubiertos,5 habs.
+1909,Casa en venta,3400000000.0,"Altos Del Poblado, Medell√≠n, Antio...",350 m¬≤ cubiertos,4 habs.
+1910,Casa en venta,3800000000.0,"El Poblado, Medell√≠n, Antioquia",820 m¬≤ cubiertos,5 habs.
+1911,Apartamento en venta,460000000.0,"Estadio, Medell√≠n, Antioquia",125 m¬≤ cubiertos,4 habs.
+1912,Casa en venta,930000000.0,"Sim√≥n Bol√≠var, Medell√≠n, Antioquia",188 m¬≤ cubiertos,3 habs.
+1913,Casa en venta,1200000000.0,"San Joaqu√≠n, Medell√≠n, Antioquia",156 m¬≤ cubiertos,4 habs.
+1914,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",254 m¬≤ cubiertos,5 habs.
+1915,Casa en venta,610000000.0,"La Mota, Medell√≠n, Antioquia",144 m¬≤ cubiertos,3 habs.
+1916,Casa en venta,1500000000.0,"Medell√≠n, Antioquia",400 m¬≤ cubiertos,6 habs.
+1917,Casa en venta,320000000.0,"Caba√±as, Medell√≠n, Antioquia",103 m¬≤ cubiertos,3 habs.
+1918,Casa en venta,1350000000.0,"El Poblado, Medell√≠n, Antioquia",204 m¬≤ cubiertos,3 habs.
+1919,Casa en venta,1250000000.0,"Vereda Los Tambores San Ignacio, S...",320 m¬≤ cubiertos,3 habs.
+1920,Casa en venta,650000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",260 m¬≤ cubiertos,4 habs.
+1921,Casa en venta,550000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",170 m¬≤ cubiertos,4 habs.
+1922,Casa en venta,6500000000.0,"El Poblado, Medell√≠n, Antioquia",950 m¬≤ cubiertos,5 habs.
+1923,Casa en venta,3800000000.0,"Alto Las Palmas, Medell√≠n, Antioqu...","1,898 m¬≤ cubiertos",4 habs.
+1924,Casa en venta,4000000000.0,"Alto De Las Palmas, Medell√≠n, Anti...",750 m¬≤ cubiertos,5 habs.
+1925,Casa en venta,650000000.0,"La Mota, Medell√≠n, Antioquia",140 m¬≤ cubiertos,3 habs.
+1926,Casa en venta,310000000.0,"Occidente, Medell√≠n, Antioquia",75 m¬≤ cubiertos,4 habs.
+1927,Bodega en venta,950000000.0,"Santa M√≥nica, Medell√≠n, Antioquia",75 m¬≤ cubiertos,4 habs.
+1928,Casa en venta,850000000.0,"Castropol, Medell√≠n, Antioquia",203 m¬≤ cubiertos,4 habs.
+1929,Casa en venta,1300000000.0,"El Poblado, Medell√≠n, Antioquia",334 m¬≤ cubiertos,4 habs.
+1930,Casa en venta,1820000000.0,"Medell√≠n, Antioquia",414 m¬≤ cubiertos,3 habs.
+1931,Casa en venta,4600000000.0,"El Poblado, Medell√≠n, Antioquia",572 m¬≤ cubiertos,5 habs.
+1932,Casa en venta,800000000.0,"Laureles, Medell√≠n, Antioquia",180 m¬≤ cubiertos,4 habs.
+1933,Casa en venta,150000000.0,"Bello Paris, Medell√≠n, Antioquia",127 m¬≤ cubiertos,3 habs.
+1934,Casa en venta,2000000000.0,"Santa Mar√≠a De Los √Ångeles, Medell...",310 m¬≤ cubiertos,3 habs.
+1935,Casa en venta,4300000000.0,"Las Palmas, Medell√≠n, Antioquia",540 m¬≤ cubiertos,4 habs.
+1936,Casa en venta,350000000.0,"El Diamante, Medell√≠n, Antioquia",211 m¬≤ cubiertos,6 habs.
+1937,Casa en venta,2650000000.0,"El Poblado, Medell√≠n, Antioquia",355 m¬≤ cubiertos,3 habs.
+1938,Casa en venta,3200000000.0,"El Poblado, Medell√≠n, Antioquia",395 m¬≤ cubiertos,4 habs.
+1939,Casa en venta,4000000000.0,"Las Palmas, Medell√≠n, Antioquia",576 m¬≤ cubiertos,4 habs.
+1940,Casa en arriendo,4700000.0,"Calasanz, Medell√≠n, Antioquia",157 m¬≤ cubiertos,5 habs.
+1941,Casa en venta,1545000000.0,"San Lucas, Medell√≠n, Antioquia",262 m¬≤ cubiertos,3 habs.
+1942,Casa en venta,2290000000.0,"La Calera, Medell√≠n, Antioquia",297 m¬≤ cubiertos,3 habs.
+1943,Casa en venta,2900000000.0,"El Poblado, Medell√≠n, Antioquia",585 m¬≤ cubiertos,4 habs.
+1944,Casa en venta,570000000.0,"Vel√≥dromo, Medell√≠n, Antioquia",173 m¬≤ cubiertos,4 habs.
+1945,Casa en venta,3600000000.0,"Las Palmas, Medell√≠n, Antioquia",784 m¬≤ cubiertos,5 habs.
+1946,Casa en venta,370000000.0,"Carrera 33 #53-34, Medell√≠n, Antio...",115 m¬≤ cubiertos,6 habs.
+1947,Casa en venta,750000000.0,"La Loma De Los Bernal, Medell√≠n, A...",191 m¬≤ cubiertos,4 habs.
+1948,Casa en venta,1150000000.0,"Alameda, Medell√≠n, Antioquia",280 m¬≤ cubiertos,4 habs.
+1949,Casa en venta,1550000000.0,"Rio Negro, Medell√≠n, Antioquia",260 m¬≤ cubiertos,3 habs.
+1950,Casa en venta,4500000000.0,"Las Palmas, Medell√≠n, Antioquia",500 m¬≤ cubiertos,3 habs.
+1951,Casa en venta,3800000000.0,"El Poblado, Medell√≠n, Antioquia",600 m¬≤ cubiertos,4 habs.
+1952,Casa en venta,1350000000.0,"El Poblado, Medell√≠n, Antioquia",284 m¬≤ cubiertos,3 habs.
+1953,Casa en venta,530000000.0,"Medell√≠n, Antioquia",190 m¬≤ cubiertos,5 habs.
+1954,Casa en venta,3300000000.0,"Altos Del Poblado, Medell√≠n, Antio...",340 m¬≤ cubiertos,3 habs.
+1955,Casa en venta,620000000.0,"Estadio, Medell√≠n, Antioquia",175 m¬≤ cubiertos,4 habs.
+1956,Bodega en arriendo,4000000.0,"Conquistadores, Medell√≠n, Antioquia",175 m¬≤ cubiertos,4 habs.
+1957,Casa en arriendo,7000000.0,"Calasanz, Medell√≠n, Antioquia",230 m¬≤ cubiertos,5 habs.
+1958,Casa en arriendo,9700000.0,"Prado Centro, Medell√≠n, Medell√≠n, ...",400 m¬≤ cubiertos,9 habs.
+1959,Casa en venta,2100000000.0,"Laureles, Medell√≠n, Antioquia",400 m¬≤ cubiertos,4 habs.
+1960,Casa en venta,950000000.0,"Centro, Medell√≠n, Antioquia",120 m¬≤ cubiertos,4 habs.
+1961,Casa en venta,2900000000.0,"Poblado Balsos, Medell√≠n, Antioquia","2,200 m¬≤ cubiertos",4 habs.
+1962,Casa en venta,280000000.0,"Aranjuez, Medell√≠n, Antioquia",114 m¬≤ cubiertos,4 habs.
+1963,Casa en venta,1369000000.0,"Altos Del Poblado, Medell√≠n, Antio...",207 m¬≤ cubiertos,4 habs.
+1964,Casa en venta,700000000.0,"Prado Centro, Medell√≠n, Antioquia",250 m¬≤ cubiertos,10 habs.
+1965,Casa en venta,1050000000.0,"La Castellana, Medell√≠n, Antioquia",288 m¬≤ cubiertos,5 habs.
+1966,Casa en venta,620000000.0,"Cl 42 B 81 A 149 Tercer Piso, Sim√≥...",205 m¬≤ cubiertos,4 habs.
+1967,Casa en venta,1200000000.0,"Medell√≠n, Antioquia",729 m¬≤ cubiertos,8 habs.
