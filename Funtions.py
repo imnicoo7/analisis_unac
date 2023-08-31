@@ -1,19 +1,23 @@
 # Libraries
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
-
-
 # ----------------------------------------------------------------------------------------------------------------------
+
+
 class DataConverter:
 
     def convert_data(self, df):
 
         """ Función de conversión de datos"""
 
-        # Crear objeto StandardScaler()
-        # scaler = StandardScaler()
-        # # Aplicar la estandarización
-        # df['precios_estandarizados'] = scaler.fit_transform(df['Precio_Casa'])
+        # Crear objeto StandardScaler
+        scaler = StandardScaler()
+
+        # Convertir la columna 'Precio_Casa' en una matriz 2D
+        precio_casa_2d = df[['Precio_Casa']]
+
+        # Aplicar la estandarización
+        df['precios_estandarizados'] = scaler.fit_transform(precio_casa_2d)
 
         # Convertir Tamaño a entero y dejar los números
         df['Tamaño'] = df['Tamaño'].str.extract(r'(\d+)').astype(int)
@@ -30,9 +34,6 @@ class DataConverter:
 
         # Agregar una nueva columna categórica al DataFrame para las habitaciones
         df['habitaciones_categoricas'] = pd.cut(df['Habitaciones'], bins=bins, labels=labels)
-
-        # Filtrar y eliminar las filas con precio menor a 70000000
-        # df = df.loc[df['Precio_Casa'] >= 70000000.0]
 
         df = df.loc[df['Tamaño'] >= 40]
 
