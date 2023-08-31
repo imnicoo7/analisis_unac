@@ -32,15 +32,12 @@ class DataConverter:
         df['habitaciones_categoricas'] = pd.cut(df['Habitaciones'], bins=bins, labels=labels)
 
         # Filtrar y eliminar las filas con precio menor a 70000000
-        df = df.loc[df['Precio_Casa'] >= 70000000.0]
+        # df = df.loc[df['Precio_Casa'] >= 70000000.0]
 
-        df = df.loc[df['Tamaño'] >= 60]
+        df = df.loc[df['Tamaño'] >= 40]
 
-        # Filtrar y eliminar las filas con palabras clave en la columna "tipo"
-        palabras_clave = ['arriendo', 'finca', 'apartamento']
+        # Filtrar y eliminar las filas con palabras clave en la columna "tipo", me aseguro que solo sean ventas
+        palabras_clave = ['arriendo', 'Finca', 'Apartamento']
         df = df[~df['Tipo_Vivienda'].str.contains('|'.join(palabras_clave))]
-
-        # Reiniciar el índice del DataFrame
-        df.reset_index(drop=True, inplace=True)
 
         return df
