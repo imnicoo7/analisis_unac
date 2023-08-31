@@ -57,4 +57,4 @@ for page_num in range(1, max_pages + 1):  # entre 1 - 43
         # Inserto en el DataFrame inicial
         df.loc[len(df)] = [tipo_vivienda, price, ubicacion, size, bedrooms]
         # Guardar el DataFrame en un archivo CSV
-        df.to_csv('datos_casas2.csv')
+        df.to_csv('../data/datos_casas.csv')
