@@ -60,10 +60,10 @@ def get_coordinates(geolocator, location):
         return None
 
 
-def box_plot(df, x):
+def box_plot(df, x, title):
 
     """ Grafico de bigotes """
-    fig = px.box(df, y=df[x], title='Gráfico: Precios de casas')
+    fig = px.box(df, y=df[x], title=title)
 
     fig.update_xaxes(showline=True, linewidth=1, linecolor='white')
     fig.update_yaxes(showline=True, linewidth=1, linecolor='white')
@@ -73,9 +73,30 @@ def box_plot(df, x):
 
 def correlation_matrix(df, title):
 
-    fig = px.imshow(df, color_continuous_scale='RdBu', zmin=-1, zmax=1)
-    fig.update_layout(title=title)
+    """Funcion para crear una matrix de correlacion y ver los datos"""
+
+    fig = px.imshow(df, color_continuous_scale='RdBu', zmin=-1, zmax=1, title=title)
+    # Agregar texto a cada celda con los valores de correlación
+    for i in range(len(df.columns)):
+        for j in range(len(df.columns)):
+            fig.add_annotation(
+                x=i, y=j,
+                text=f"{df.iloc[i, j]:.4f}",
+                showarrow=False,
+                font=dict(size=20),
+                bgcolor='black'
+            )
 
     fig.update_xaxes(showline=True, linewidth=1, linecolor='white')
     fig.update_yaxes(showline=True, linewidth=1, linecolor='white')
+    return fig
+
+
+def histograma(df, x, title):
+
+    fig = px.histogram(df, x='Tamaño', nbins=10, title=title)
+
+    fig.update_xaxes(showline=True, linewidth=1, linecolor='white')
+    fig.update_yaxes(showline=True, linewidth=1, linecolor='white')
+
     return fig
