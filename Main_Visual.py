@@ -8,9 +8,8 @@ from Funtions import DataConverter
 from modelo.modelo_regresion import Modelo
 from plotly_functions import scatter_plot, bar_plot, mapbox_plot, box_plot, correlation_matrix, histograma
 # ----------------------------------------------------------------------------------------------------------------------
-
 # Configuracion para la página
-st.set_page_config(page_title='Analisis exploratorio',
+st.set_page_config(page_title='Analisis Ventas',
                    initial_sidebar_state='collapsed',
                    page_icon='assets/unac.png',
                    layout='wide')
@@ -24,6 +23,7 @@ df = DataConverter().convert_data(df)
 
 st.title("Modelo de predicción de precios de casas en la ciudad de Medellín para apoyar la toma de decisiones de compra"
          "y venta de propiedad raíz 📈")
+# Espacios para
 st.markdown("")
 st.markdown("")
 st.markdown("""---""")
@@ -115,8 +115,6 @@ with st.spinner('Cargando el módelo'):
         st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa')
         fig = px.scatter(x=y_test, y=y_pred, labels={'x': 'Valores Reales', 'y': 'Predicciones'},
                          title='Valores Reales vs. Predicciones')
-
-        # fig = scatter_plot(y_test, y_pred, 'Valores Reales vs. Predicciones')
 
         st.plotly_chart(fig)
 
