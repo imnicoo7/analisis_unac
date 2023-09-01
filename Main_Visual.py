@@ -38,15 +38,15 @@ st.markdown("")
 graficas = PlotlyFunciones()
 col1, col2 = st.columns(2)
 with col1:
-    # Calcular el total de habitaciones por categoría
+    # Calcular el total de casas por numero de habitacioens
     total_rooms_by_category = df['habitaciones_categoricas'].value_counts().reset_index()
     total_rooms_by_category.columns = ['habitaciones_categoricas', 'Habitaciones']
     total_rooms_by_category = total_rooms_by_category.sort_values(by='habitaciones_categoricas', ascending=True)
 
     # Graficar el total de habitaciones por categoría
     fig = graficas.bar_plot(total_rooms_by_category, 'habitaciones_categoricas', 'Habitaciones',
-                            'Total de Habitaciones por Categoría de Habitaciones')
-    st.plotly_chart(fig)
+                            'Total de casas por la categoría de habitaciones')
+    st.plotly_chart(fig, width=400)
     st.markdown("""---""")
 
 with col2:
@@ -57,7 +57,7 @@ with col2:
 # ----------------------------------------------------------------------------------------------------------------------
 
 with col1:
-    fig = graficas.box_plot(df, 'Tamaño', 'Gráfico: Tamaño de casas')
+    fig = graficas.box_plot(df, 'Tamaño', 'Box-Plot: Tamaño de casas')
     st.plotly_chart(fig)
     st.markdown("""---""")
 
@@ -69,27 +69,26 @@ with col2:
 
 # grafico disperción
 with col1:
-    fig = graficas.scatter_plot(df, 'Habitaciones', 'Precio_Casa', 'Scatter: Número de Habitaciones vs. Precios de casas',
-                       'Habitaciones', 'Precios')
+    fig = graficas.scatter_plot(df, 'Tamaño', 'Precio_Casa', 'Scatter: Tamaño vs. precio de casas', 'Tamaño', 'Precios')
     st.plotly_chart(fig)
     st.markdown("""---""")
 
 # grafico disperción
 with col2:
-    fig = graficas.scatter_plot(df, 'Tamaño', 'Precio_Casa', 'Scatter: Tamaño vs. precio de casas', 'Tamaño', 'Precios')
+    # Grafico histograma
+    fig = graficas.histrogram(df, 'Tamaño', 'Histograma del Tamaño de las Casas')
     st.plotly_chart(fig)
     st.markdown("""---""")
 # ----------------------------------------------------------------------------------------------------------------------
 
 with col1:
-    # Grafico histograma
-    fig = graficas.histrogram(df, 'Tamaño', 'Histograma del Tamaño de las Casas')
+    fig = graficas.histrogram(df, 'Precio_Casa', 'Histograma de los precios de las casas', )
     st.plotly_chart(fig)
     st.markdown("""---""")
 
 with col2:
     # Histograma precios estandarizados
-    fig = graficas.histrogram(df, 'precios_estandarizados', 'Densidad de Valores Estandarizados')
+    fig = graficas.histrogram(df, 'precios_estandarizados', 'Histograma de Valores Estandarizados')
     st.plotly_chart(fig)
     st.markdown("""---""")
 # ----------------------------------------------------------------------------------------------------------------------
@@ -134,5 +133,3 @@ st.sidebar.header("Acerca de la App")
 st.sidebar.write("Ingeniería de sistemes 2023")
 st.sidebar.write("nicolass.gutierrezc@unac.edu.co")
 st.sidebar.markdown("**Creado el:** 29/08/2023")
-
-st.table(df)
