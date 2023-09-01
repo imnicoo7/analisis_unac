@@ -97,10 +97,8 @@ st.markdown("""---""")
 col1, col2 = st.columns(2)
 with col1:
     with st.spinner('Cargando el MAPA ----- :) '):
-        st.markdown('Aqui va el mapa')
-        # Gráfico de mapas
-        # fig = mapbox_plot(df, x='Ubicacion', y='Precio_Casa')
-        # st.plotly_chart(fig, width=600)
+        mapa = mapbox_plot()
+        st.components.v1.html(mapa._repr_html_(), width=800, height=600)
 
 # -------------------------------------------------------- Modelo ------------------------------------------------------
 with st.spinner('Cargando el módelo'):
