@@ -9,6 +9,11 @@ class DataConverter:
     def convert_data(self, df):
 
         """ Función de conversión de datos"""
+        # Eliminar vacios
+        df = df.dropna()
+
+        # Eliminar duplicados
+        df = df.drop_duplicates()
 
         # Crear objeto StandardScaler
         scaler = StandardScaler()
@@ -21,6 +26,8 @@ class DataConverter:
 
         # Convertir Tamaño a entero y dejar los números
         df['Tamaño'] = df['Tamaño'].str.extract(r'(\d+)').astype(int)
+        # Elimino tamaño porque datos vienen en 1
+        df = df.loc[df['Tamaño'] >= 40]
 
         # Extraer el número utilizando str.extract y una expresión regular y convertir la columna a números enteros
         df['Habitaciones'] = df['Habitaciones'].str.extract(r'(\d+)').astype(int)
@@ -34,8 +41,6 @@ class DataConverter:
 
         # Agregar una nueva columna categórica al DataFrame para las habitaciones
         df['habitaciones_categoricas'] = pd.cut(df['Habitaciones'], bins=bins, labels=labels)
-
-        df = df.loc[df['Tamaño'] >= 40]
 
         # Filtrar y eliminar las filas con palabras clave en la columna "tipo", me aseguro que solo sean ventas
         palabras_clave = ['arriendo', 'Finca', 'Apartamento']
