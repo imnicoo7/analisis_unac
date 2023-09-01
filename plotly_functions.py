@@ -1,13 +1,11 @@
 # Libraries
 import plotly.express as px
 import pandas as pd
-import plotly.graph_objects as go
 
 from geopy.geocoders import GoogleV3
 from geopy.exc import GeocoderTimedOut
-
-
 # ----------------------------------------------------------------------------------------------------------------------
+
 
 class PlotlyFunciones:
     def scatter_plot(self, df, x, y, title, x_label, y_label):
