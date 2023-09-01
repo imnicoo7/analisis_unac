@@ -22,7 +22,7 @@ class PlotlyFunciones:
         """ Grafico de barras """
 
         # Crear el gráfico de barras con Plotly
-        fig = px.bar(df, x=df[x], y=df[y], title=title)
+        fig = px.bar(df, x=df[x], y=df[y], title=title, labels={x: 'Categoria de Habitaciones', y: 'Número de casas'})
 
         fig.update_xaxes(showline=True, linewidth=1, linecolor='white')
         fig.update_yaxes(showline=True, linewidth=1, linecolor='white')
