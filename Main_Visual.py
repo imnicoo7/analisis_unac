@@ -5,7 +5,9 @@ import pandas as pd
 
 # Internal Functions
 from Funtions import DataConverter
+from Funtions_v2 import DataConverter_v2
 from modelo.modelo_regresion import Modelo
+from modelo.modelo_regresion_v2 import Modelo_update
 from plotly_functions import PlotlyFunciones
 # ----------------------------------------------------------------------------------------------------------------------
 
@@ -18,9 +20,11 @@ st.set_page_config(page_title='Analisis Ventas',
 
 # Obtención de data
 df = pd.read_csv('data/datos_casas.csv')
+df2 = pd.read_csv('data/datos_casas_v2.csv')
 # Transformo data para realizarle cambios necesarios
 # Llamada a la función para convertir los datos
-df = DataConverter().convert_data(df)
+df =  DataConverter().convert_data(df)
+df2 =  DataConverter_v2().convert_data_2(df2)
 # ----------------------------------------------------------------------------------------------------------------------
 
 st.title("Modelo de predicción de precios de casas en la ciudad de Medellín para apoyar la toma de decisiones de compra"
@@ -112,9 +116,13 @@ st.markdown("""---""")
 
 # Crear una instancia de la clase Modelo
 modelo_instancia = Modelo()
+modelo_instancia_2 = Modelo_update()
 
 # Llamar a la función modelo_lineal
 y_test, y_pred, mse, r2, coef, interceptor = modelo_instancia.modelo_lineal(['Tamaño', 'Habitaciones'], 'Precio_Casa')
+# Llamado al nuevo modelo con la nueva variable 
+#  modelo_instancia = Modelo_update()
+y2_test, y2_pred, mse_2, r2_2, coef_2, interceptor_2 = modelo_instancia_2.modelo_lineal(['Tamaño', 'Habitaciones', 'Habitaciones'], 'Precio')
 
 st.title('Modelo de Regreción  Lineal')
 st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa')
@@ -127,6 +135,19 @@ st.write(f'Mean Squared Error (MSE): {mse:.2f}')
 st.write(f'Coefficient of Determination (R²): {r2 * 100:.2f} %')
 st.write(f'Coeficiente: {coef} ')
 st.write(f'Interceptor: {interceptor} ')
+
+st.title('Nuevo modelo de Regreción  Lineal')
+st.markdown("""Nuevo modelo con la nueva variable """)
+st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa, Habitaciones')
+fig = px.scatter(x=y2_test, y=y2_pred, labels={'x': 'Valores Reales', 'y': 'Predicciones'},
+                 title='Valores Reales vs. Predicciones')
+st.plotly_chart(fig)
+
+# Imprimir las métricas de evaluación
+st.write(f'Mean Squared Error (MSE): {mse_2:.2f}')
+st.write(f'Coefficient of Determination (R²): {r2_2 * 100:.2f} %')
+st.write(f'Coeficiente: {coef_2} ')
+st.write(f'Interceptor: {interceptor_2} ')
 
 st.markdown("""---""")
 # ----------------------------------------------------------------------------------------------------------------------
