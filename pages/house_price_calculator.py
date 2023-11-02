@@ -22,24 +22,23 @@ df = DataConverter().convert_data(df)
 model = LinearRegression()
 model.fit(df[['Tamaño', 'Habitaciones']], df['Precio_Casa'])
 # ----------------------------------------------------------------------------------------------------------------------
-# Interfaz de usuario con Streamlit
-st.title('Calculadora de precio para tú Casa según carácteristicas 🏠')
-st.markdown("")
-st.markdown("")
+# Interfaz de usuario con Streamlit}
+st.title('Bienvenido')
+st.subheader('Calculadora de precio para futuro hogar🏠')
+st.markdown("A continuación esta herramienta te ayudara a obtener un precio estimado de tu futuro hogar.")
 st.markdown("""---""")
-
 st.subheader('Ingrese los detalles de su casa para obtener un consejo sobre el precio.')
-nombre = st.text_input("Ingrese su primer nombre por favor")
-habitaciones = st.number_input('Número de Habitaciones:', value=2, min_value=1, max_value=10)
-tamaño = st.number_input('Tamaño de la Casa (m²):', value=60, min_value=1, max_value=1000)
+nombre = st.text_input("Ingrese tú nombre por favor")
+habitaciones = st.number_input('Ingresa el número de Habitaciones que deseas tener:',
+                               value=2, min_value=1, max_value=10)
+tamaño = st.number_input('Ingresa el tamaño que deseas tener (m²):', value=50, min_value=50, max_value=1000)
 precio_consejo = model.predict([[tamaño, habitaciones]])
 calculo = st.button("Conocer price")
 if calculo:
-    st.subheader(f"Basado en tús necedidades, el precio sugerido para la casa es: ${precio_consejo[0]:,.2f}. "
-                 f"Empiece a ahorrar pues {nombre}")
+    st.subheader(f"Basado en tús necedidades, el precio sugerido para tú casa es: ${precio_consejo[0]:,.2f}."
+                 f" ¡A por ello {nombre}!")
 
 # ----------------------------------------------------------------------------------------------------------------------
 st.sidebar.header("Acerca de la App")
-st.sidebar.write("Ingeniería de sistemes 2023")
-st.sidebar.write("nicolass.gutierrezc@unac.edu.co")
-st.sidebar.markdown("**Creado el:** 29/08/2023")
+st.sidebar.write("**Creado por:** Estudiantes de ingeniería de sistemes")
+st.sidebar.markdown("**Creado el:** 28/08/2023")
