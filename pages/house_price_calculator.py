@@ -40,5 +40,5 @@ if calculo:
 
 # ----------------------------------------------------------------------------------------------------------------------
 st.sidebar.header("Acerca de la App")
-st.sidebar.write("**Creado por:** Estudiantes de ingeniería de sistemes")
+st.sidebar.write("**Creado por:** Estudiantes de ingeniería de sistemas")
 st.sidebar.markdown("**Creado el:** 28/08/2023")

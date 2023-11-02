@@ -129,5 +129,5 @@ st.write(f'Coefficient of Determination (R²): {r2 * 100:.2f} %')
 st.markdown("""---""")
 # ----------------------------------------------------------------------------------------------------------------------
 st.sidebar.header("Acerca de la App")
-st.sidebar.write("**Creado por:** Estudiantes de ingeniería de sistemes")
+st.sidebar.write("**Creado por:** Estudiantes de ingeniería de sistemas")
 st.sidebar.markdown("**Creado el:** 28/08/2023")
