@@ -114,7 +114,7 @@ st.markdown("""---""")
 modelo_instancia = Modelo()
 
 # Llamar a la función modelo_lineal
-y_test, y_pred, mse, r2 = modelo_instancia.modelo_lineal(['Tamaño', 'Habitaciones'], 'Precio_Casa')
+y_test, y_pred, mse, r2, coef, interceptor = modelo_instancia.modelo_lineal(['Tamaño', 'Habitaciones'], 'Precio_Casa')
 
 st.title('Modelo de Regreción  Lineal')
 st.markdown('Variables en cuenta: Precios de casa, habitaciones_casa, Tamaño de casa')
@@ -124,11 +124,13 @@ st.plotly_chart(fig)
 
 # Imprimir las métricas de evaluación
 st.write(f'Mean Squared Error (MSE): {mse:.2f}')
-st.write(f'Coefficient of Determination (R²): {r2 * 100:.2f} %')
+st.write(f'Coefficient of Determination (R²): {r2:.2f} %')
+st.write(f'Coeficiente: {coef} ')
+st.write(f'Interceptor: {interceptor} ')
 
 st.markdown("""---""")
 # ----------------------------------------------------------------------------------------------------------------------
 st.sidebar.header("Acerca de la App")
-st.sidebar.write("Ingeniería de sistemes 2023")
-st.sidebar.write("nicolass.gutierrezc@unac.edu.co")
-st.sidebar.markdown("**Creado el:** 29/08/2023")
+st.sidebar.write("**Creado el:** Estudiantes de ingeniería de sistemes")
+st.sidebar.write("")
+st.sidebar.markdown("**Creado el:** 28/08/2023")
