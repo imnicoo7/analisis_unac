@@ -45,4 +45,8 @@ class Modelo:
         mse = mean_squared_error(y_test, y_pred)
         r2 = r2_score(y_test, y_pred)
 
-        return y_test, y_pred, mse, r2
+        # Coeficientes y la interseccion
+        coef = model.coef_
+        interceptor = model.intercept_
+
+        return y_test, y_pred, mse, r2, coef, interceptor
